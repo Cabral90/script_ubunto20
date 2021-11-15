@@ -1,0 +1,8 @@
+
+echo '#!/usr/bin/env bash' > $1
+
+cgmod +x $1
+
+nano $1
+
+

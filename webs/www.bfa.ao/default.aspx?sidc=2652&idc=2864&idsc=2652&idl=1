@@ -1,0 +1,1307 @@
+
+
+<!DOCTYPE html>
+<html lang="pt" class="no-js" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta charset="utf-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" href="/images/favicons/favicon.ico">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/images/favicons/site.webmanifest">
+    <link rel="mask-icon" href="/images/favicons/safari-pinned-tab.svg" color="#d5a45b">
+    <meta name="msapplication-TileColor" content="#ff7607">
+    <meta name="theme-color" content="#ffffff">
+
+
+    
+<title>Particulares.</title>
+<meta name="description" content="" />
+<link rel="http://www.bfa.ao/images/image-share.jpg" href="http://www.bfa.ao/images/image-share.jpg" type="image/jpeg" />
+<meta property="og:type" content="website" />
+
+<meta property="og:title" content="Particulares." />
+
+<meta property="og:description" content="" />
+
+<meta property="og:image" content="http://www.bfa.ao/images/image-share.jpg" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="600" />
+<meta property="og:image:type" content="image/jpeg" />
+
+<meta property="og:site_name" content="BFA" />
+
+<meta property="og:url" content="http://localhost/pt/particulares/" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Hind:300,400,700" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+<link rel="stylesheet" href="/css/bfa-app-c0d80d7ee5.min.css">
+
+
+    <!-- ADPPORTBFAAPP1 -->
+
+    <!--Google Tag Manager -->
+    <script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-WQLLT9P');</script> <!--End Google Tag Manager -->
+</head>
+<body class="" data-lang="pt" data-id="1123" data-homepage-id="1123" data-page-type="homepage"
+      data-detail-type="" data-theme="personal" data-device="mobile"
+      data-key="AIzaSyA2WiEZMJcDl4sexkFGbP0J5hSKYCUl3i0">
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WQLLT9P" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!--End Google Tag Manager (noscript) -->
+    <div class="menu-top menu-top-mobile js-mobile-menu-top">
+        <div class="container-fluid">
+            <button data-action="openSegments" class="btn btn-segments">
+                <span class="text">Particulares</span>
+                <span class="icon icon-arrow-fill-down"></span>
+            </button>
+            <div class="menu-top-main  js-menu-top-main">
+                <ul class="js-menu-items">
+                                <li><a class="menu-item js-menu-item is-active" href="/pt/particulares/"><span class="text">Particulares</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/empresas/"><span class="text">Empresas</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/centros-investimento/"><span class="text">Centros de Investimento</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/private-banking/"><span class="text">Private Banking</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/gestao-de-activos/"><span class="text">BFA Gest&#227;o de Activos</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/o-bfa/"><span class="text">O BFA</span></a></li>
+
+                </ul>
+            </div>
+
+            <div class="menu-right">
+                <ul>
+                    <li>
+                        <a class="menu-item js-menu-item bold" href="https://www.bfanet.ao/" target="_blank"><span class="text">BFA NET</span><i class="icon icon-lock"></i></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="js-bgTopOverlay bg-menutop-overlay"></div>
+    <div class="navigation-mobile js-mobile-navigation">
+        <div class="navbar js-navbar">
+            <div class="container-fluid">
+                <div class="logo"><a href="/pt/particulares/"><img src="/images/logos/logo-mobile.svg" alt="BFA"></a></div>
+                <div class="navigation-right js-buttonsNav">
+                    <button class="btn-menu hamburger hamburger--spring js-hamburger" data-action="toggleMenu"><span class="hamburger-box"><span class="hamburger-inner"></span></span> Menu</button>
+
+                    <div class="ctn-search js-searchWrapper">
+                        <div class="ctn-input js-search"> <input type="text" class="input js-input"> <button class="doSearch js-doSearch" data-action="doSearch" data-search-url="/pt/particulares/pesquisa/?term=" type="button"><i class="icon icon-search"></i></button> </div>
+                        <button class="btn-search js-toggleSearch" data-action="toggleSearch">
+
+                            <span class="icon icon-search"></span>
+
+                        </button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="panels-container js-nav">
+            <div class="nav-helper">
+                <div class="js-helper-menu menu">MENU</div>
+                <button class="js-helper-back back" data-action="menuBack" data-zindex="0"><span class="icon icon-arrow-special-left"></span> <span class="text" data-text="Voltar ao Menu">Voltar ao Menu</span></button>
+                <div class="js-helper-lang menu-lang">
+                    <button class="btn-lang" data-action="toggleLang"> <span class="text">PT</span><i class="icon icon-arrow-fill-down"></i></button>
+                    
+<ul class="menu-lang-list js-menuLang">
+            <li class="is-active">Portugu&#234;s</li>
+            <li><a href="/en/">English</a></li>
+</ul>
+                </div>
+            </div>
+
+            <div class="panels js-mobilePanels">
+                    <!-- MenuMainTopMobile -->
+    <!-- GO -->
+    <div class="panel js-mobilePanel is-active" data-parent-id="0">
+        <ul class="nav">
+                    <li data-id="1">
+                        <span class="menu-item js-menu-item " data-action="openChilds" data-id="1">
+                            <span class="text">Contas</span>
+                            <span class="icon icon-arrow-right"></span>
+                        </span>
+                    </li>
+                    <li data-id="2">
+                        <span class="menu-item js-menu-item " data-action="openChilds" data-id="2">
+                            <span class="text">Poupan&#231;a/Investimento</span>
+                            <span class="icon icon-arrow-right"></span>
+                        </span>
+                    </li>
+                    <li data-id="3">
+                        <span class="menu-item js-menu-item " data-action="openChilds" data-id="3">
+                            <span class="text">Cr&#233;dito</span>
+                            <span class="icon icon-arrow-right"></span>
+                        </span>
+                    </li>
+                    <li data-id="4">
+                        <span class="menu-item js-menu-item " data-action="openChilds" data-id="4">
+                            <span class="text">Cart&#245;es</span>
+                            <span class="icon icon-arrow-right"></span>
+                        </span>
+                    </li>
+                    <li data-id="5">
+                        <span class="menu-item js-menu-item " data-action="openChilds" data-id="5">
+                            <span class="text">Seguros</span>
+                            <span class="icon icon-arrow-right"></span>
+                        </span>
+                    </li>
+                    <li data-id="6">
+                        <span class="menu-item js-menu-item " data-action="openChilds" data-id="6">
+                            <span class="text">Servi&#231;os</span>
+                            <span class="icon icon-arrow-right"></span>
+                        </span>
+                    </li>
+        </ul>
+    </div>
+    <!-- GO -->
+    <div class="panel js-mobilePanel " data-parent-id="1">
+        <ul class="nav">
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/contas/conta-a-ordem/" data-id="11" target="_self"><span class="text">Conta &#224; Ordem</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/contas/conta-bankita/" data-id="12" target="_self"><span class="text">Conta Bankita</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/contas/conta-ordenado/" data-id="13" target="_self"><span class="text">Conta Ordenado</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/contas/conta-simplificada/" data-id="14" target="_self"><span class="text">Conta Simplificada</span></a></li>
+        </ul>
+    </div>
+    <!-- GO -->
+    <div class="panel js-mobilePanel " data-parent-id="2">
+        <ul class="nav">
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/poupancainvestimento/dp-13/" data-id="21" target="_self"><span class="text">DP 13%</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/poupancainvestimento/dp-bfa-10/" data-id="22" target="_self"><span class="text">DP BFA 10%</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/poupancainvestimento/deposito-crescente-18/" data-id="23" target="_self"><span class="text">Dep&#243;sito Crescente 18%</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/poupancainvestimento/super-poupanca/" data-id="24" target="_self"><span class="text">Super Poupan&#231;a</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/poupancainvestimento/plano-de-poupanca/" data-id="25" target="_self"><span class="text">Plano de Poupan&#231;a</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/poupancainvestimento/rendimento-trimestral/" data-id="27" target="_self"><span class="text">Rendimento Trimestral</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/poupancainvestimento/conta-kandengue-bfa/" data-id="28" target="_self"><span class="text">Conta Kandengue BFA</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/poupancainvestimento/fundo-bfa-proteccao/" data-id="29" target="_self"><span class="text">Fundo BFA Protec&#231;&#227;o</span></a></li>
+        </ul>
+    </div>
+    <!-- GO -->
+    <div class="panel js-mobilePanel " data-parent-id="3">
+        <ul class="nav">
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/credito/credito-pessoal/" data-id="31" target="_self"><span class="text">Cr&#233;dito Pessoal</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/credito/credito-automovel/" data-id="32" target="_self"><span class="text">Cr&#233;dito Autom&#243;vel</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/credito/credito-habitacao/" data-id="33" target="_self"><span class="text">Cr&#233;dito Habita&#231;&#227;o</span></a></li>
+        </ul>
+    </div>
+    <!-- GO -->
+    <div class="panel js-mobilePanel " data-parent-id="4">
+        <ul class="nav">
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/cartoes/cartao-de-debito-multicaixa/" data-id="41" target="_self"><span class="text">Cart&#227;o de D&#233;bito Multicaixa</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/cartoes/cartao-de-credito-mwangole/" data-id="42" target="_self"><span class="text">Cart&#227;o de Cr&#233;dito Mwangol&#233;</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/cartoes/cartao-pre-pago-kandandu/" data-id="43" target="_self"><span class="text">Cart&#227;o Pr&#233;-pago Kandandu</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/cartoes/cartao-multicaixa-dagosto/" data-id="44" target="_self"><span class="text">Cart&#227;o Multicaixa D&#39;Agosto</span></a></li>
+        </ul>
+    </div>
+    <!-- GO -->
+    <div class="panel js-mobilePanel " data-parent-id="5">
+        <ul class="nav">
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/seguros/seguro-viagem/" data-id="51" target="_self"><span class="text">Seguro Viagem</span></a></li>
+        </ul>
+    </div>
+    <!-- GO -->
+    <div class="panel js-mobilePanel " data-parent-id="6">
+        <ul class="nav">
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/servicos/bfa-app/" data-id="61" target="_self"><span class="text">BFA APP</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/servicos/bfa-net/" data-id="62" target="_self"><span class="text">BFA NET</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/servicos/bfa-turismo-app/" data-id="64" target="_self"><span class="text">BFA Turismo APP</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/servicos/levantamento-sem-cartao/" data-id="66" target="_self"><span class="text">Levantamento Sem Cart&#227;o</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/servicos/linha-de-atendimento-bfa/" data-id="67" target="_self"><span class="text">Linha de Atendimento BFA</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/servicos/seguranca-phishing/" data-id="68" target="_self"><span class="text">Seguran&#231;a Phishing</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/servicos/seguranca-vishing/" data-id="69" target="_self"><span class="text">Seguran&#231;a Vishing</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/servicos/transferencias-bfa/" data-id="610" target="_self"><span class="text">Transfer&#234;ncias BFA</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/servicos/pagamento-ao-estado/" data-id="611" target="_self"><span class="text">Pagamento ao Estado</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/particulares/servicos/pagamento-servicos/" data-id="612" target="_self"><span class="text">Pagamento Servi&#231;os</span></a></li>
+        </ul>
+    </div>
+
+
+            </div>
+            <div class="js-crossSaleToMove crosssalesToMove">
+                    <!-- MenuMainTopCrossSales3Level -->
+    <h1>System.Collections.Generic.List`1[BFA.Core.Models.MenuMainTopModel]</h1>
+            <!-- 11 » 1118 » Conta &#224; Ordem -->
+    <!-- GO -->
+            <!-- 12 » 1164 » Conta Bankita -->
+    <!-- GO -->
+            <!-- 13 » 1166 » Conta Ordenado -->
+    <!-- GO -->
+            <!-- 14 » 11968 » Conta Simplificada -->
+    <!-- GO -->
+            <!-- 21 » 11672 » DP 13% -->
+    <!-- GO -->
+            <!-- 22 » 1379 » DP BFA 10% -->
+    <!-- GO -->
+            <!-- 23 » 2410 » Dep&#243;sito Crescente 18% -->
+    <!-- GO -->
+            <!-- 24 » 1351 » Super Poupan&#231;a -->
+    <!-- GO -->
+            <!-- 25 » 1358 » Plano de Poupan&#231;a -->
+    <!-- GO -->
+            <!-- 27 » 1365 » Rendimento Trimestral -->
+    <!-- GO -->
+            <!-- 28 » 1372 » Conta Kandengue BFA -->
+    <!-- GO -->
+            <!-- 29 » 2403 » Fundo BFA Protec&#231;&#227;o -->
+    <!-- GO -->
+            <!-- 31 » 1210 » Cr&#233;dito Pessoal -->
+    <!-- GO -->
+            <!-- 32 » 1214 » Cr&#233;dito Autom&#243;vel -->
+    <!-- GO -->
+            <!-- 33 » 1215 » Cr&#233;dito Habita&#231;&#227;o -->
+    <!-- GO -->
+            <!-- 41 » 1216 » Cart&#227;o de D&#233;bito Multicaixa -->
+    <!-- GO -->
+            <!-- 42 » 1217 » Cart&#227;o de Cr&#233;dito Mwangol&#233; -->
+    <!-- GO -->
+            <!-- 43 » 1218 » Cart&#227;o Pr&#233;-pago Kandandu -->
+    <!-- GO -->
+            <!-- 44 » 1219 » Cart&#227;o Multicaixa D&#39;Agosto -->
+    <!-- GO -->
+            <!-- 51 » 2319 » Seguro Viagem -->
+            <!-- 61 » 1309 » BFA APP -->
+    <!-- GO -->
+            <!-- 62 » 1295 » BFA NET -->
+    <!-- GO -->
+            <!-- 64 » 2617 » BFA Turismo APP -->
+    <!-- GO -->
+            <!-- 66 » 2620 » Levantamento Sem Cart&#227;o -->
+    <!-- GO -->
+            <!-- 67 » 2415 » Linha de Atendimento BFA -->
+    <!-- GO -->
+            <!-- 68 » 7940 » Seguran&#231;a Phishing -->
+            <!-- 69 » 11268 » Seguran&#231;a Vishing -->
+            <!-- 610 » 1316 » Transfer&#234;ncias BFA -->
+    <!-- GO -->
+            <!-- 611 » 11904 » Pagamento ao Estado -->
+            <!-- 612 » 1344 » Pagamento Servi&#231;os -->
+    <!-- GO -->
+
+
+            </div>
+        </div>
+    </div>
+    <div class="menu-top menu-top-desktop js-desktop-menu-top">
+        <div class="container-fluid extend">
+            <div class="menu-top-main">
+                <ul class="">
+                                <li><a class="menu-item js-menu-item is-active" href="/pt/particulares/"><span class="text">Particulares</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/empresas/"><span class="text">Empresas</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/centros-investimento/"><span class="text">Centros de Investimento</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/private-banking/"><span class="text">Private Banking</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/gestao-de-activos/"><span class="text">BFA Gest&#227;o de Activos</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/o-bfa/"><span class="text">O BFA</span></a></li>
+
+                </ul>
+            </div>
+            <div class="menu-top-secundary">
+                <ul>
+                    <li class="menu-lang">
+                        <span class="menu-item" data-action="toggleLang"><span>Portugu&#234;s</span><i class="icon icon-arrow-fill-down"></i></span>
+                        
+<ul class="menu-lang-list js-menuLang">
+            <li class="is-active">Portugu&#234;s</li>
+            <li><a href="/en/">English</a></li>
+</ul>
+                    </li>
+
+                    <li> <a href="https://www.bfanet.ao/" target="_blank" class="menu-item bold"><span>Entrar no BFA NET</span><i class="icon icon-lock"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="navigation-desktop js-desktop-navigation">
+        <div class="backgrounds">
+            <div class="js-bgMenu bg-menu"></div>
+        </div>
+        <div class="container-fluid extend">
+            <div class="navigation-top">
+                <div class="logo"><a href="/pt/particulares/"><img src="/images/logos/logo-mobile.svg" alt="BFA"></a></div>
+                <nav class="nav js-nav">
+                    <ul>
+                                    <li data-id="1">
+                <span class="menu-item js-menu-item " data-action="dropdown" data-id="1" ><span class="text">Contas</span><span class="icon icon-arrow-right"></span></span>
+            </li>
+            <li data-id="2">
+                <span class="menu-item js-menu-item " data-action="dropdown" data-id="2" ><span class="text">Poupan&#231;a/Investimento</span><span class="icon icon-arrow-right"></span></span>
+            </li>
+            <li data-id="3">
+                <span class="menu-item js-menu-item " data-action="dropdown" data-id="3" data-preview-id=3><span class="text">Cr&#233;dito</span><span class="icon icon-arrow-right"></span></span>
+            </li>
+            <li data-id="4">
+                <span class="menu-item js-menu-item " data-action="dropdown" data-id="4" ><span class="text">Cart&#245;es</span><span class="icon icon-arrow-right"></span></span>
+            </li>
+            <li data-id="5">
+                <span class="menu-item js-menu-item " data-action="dropdown" data-id="5" ><span class="text">Seguros</span><span class="icon icon-arrow-right"></span></span>
+            </li>
+            <li data-id="6">
+                <span class="menu-item js-menu-item " data-action="dropdown" data-id="6" ><span class="text">Servi&#231;os</span><span class="icon icon-arrow-right"></span></span>
+            </li>
+
+                    </ul>
+                </nav>
+                <div class="navigation-right">
+                    <div class="ctn-search js-searchWrapper">
+                        <div class="ctn-input js-search">
+                            <input type="text" class="input js-input">
+                            <button class="doSearch js-doSearch" data-action="doSearch" data-search-url="/pt/particulares/pesquisa/?term=" type="button"><i class="icon icon-search"></i></button>
+                        </div>
+                        <button class="btn-search js-toggleSearch" data-action="toggleSearch">
+                            <span class="text js-text">Pesquisar</span>
+                            <span class="icon icon-search"></span>
+                        </button>
+                    </div>
+
+                        <button class="btn-iwant" data-action="js-iwant"> <span class="label">Eu quero</span><span class="icon icon-plus"></span></button>
+
+                </div>
+            </div>
+            <div class="flyout js-flyout" data-minheight="390">
+                    <!-- MenuMainTopLevel2Desktop -->
+        <!-- 1 » Contas -->
+        <div class="nav-children js-navChildren" data-parent-id="1">
+            <ul>
+				            <li> <a class="menu-item js-menu-item " href="/pt/particulares/contas/conta-a-ordem/" data-id="11" data-preview-id=11 target="_self"><span class="text">Conta &#224; Ordem</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/contas/conta-bankita/" data-id="12" data-preview-id=12 target="_self"><span class="text">Conta Bankita</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/contas/conta-ordenado/" data-id="13" data-preview-id=13 target="_self"><span class="text">Conta Ordenado</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/contas/conta-simplificada/" data-id="14" data-preview-id=14 target="_self"><span class="text">Conta Simplificada</span></a></li>
+
+            </ul>
+        </div>
+        <!-- 2 » Poupan&#231;a/Investimento -->
+        <div class="nav-children js-navChildren" data-parent-id="2">
+            <ul>
+				            <li> <a class="menu-item js-menu-item " href="/pt/particulares/poupancainvestimento/dp-13/" data-id="21" data-preview-id=21 target="_self"><span class="text">DP 13%</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/poupancainvestimento/dp-bfa-10/" data-id="22" data-preview-id=22 target="_self"><span class="text">DP BFA 10%</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/poupancainvestimento/deposito-crescente-18/" data-id="23" data-preview-id=23 target="_self"><span class="text">Dep&#243;sito Crescente 18%</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/poupancainvestimento/super-poupanca/" data-id="24" data-preview-id=24 target="_self"><span class="text">Super Poupan&#231;a</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/poupancainvestimento/plano-de-poupanca/" data-id="25" data-preview-id=25 target="_self"><span class="text">Plano de Poupan&#231;a</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/poupancainvestimento/rendimento-trimestral/" data-id="27" data-preview-id=27 target="_self"><span class="text">Rendimento Trimestral</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/poupancainvestimento/conta-kandengue-bfa/" data-id="28" data-preview-id=28 target="_self"><span class="text">Conta Kandengue BFA</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/poupancainvestimento/fundo-bfa-proteccao/" data-id="29" data-preview-id=29 target="_self"><span class="text">Fundo BFA Protec&#231;&#227;o</span></a></li>
+
+            </ul>
+        </div>
+        <!-- 3 » Cr&#233;dito -->
+        <div class="nav-children js-navChildren" data-parent-id="3">
+            <ul>
+				            <li> <a class="menu-item js-menu-item " href="/pt/particulares/credito/credito-pessoal/" data-id="31" data-preview-id=31 target="_self"><span class="text">Cr&#233;dito Pessoal</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/credito/credito-automovel/" data-id="32" data-preview-id=32 target="_self"><span class="text">Cr&#233;dito Autom&#243;vel</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/credito/credito-habitacao/" data-id="33" data-preview-id=33 target="_self"><span class="text">Cr&#233;dito Habita&#231;&#227;o</span></a></li>
+
+            </ul>
+        </div>
+        <!-- 4 » Cart&#245;es -->
+        <div class="nav-children js-navChildren" data-parent-id="4">
+            <ul>
+				            <li> <a class="menu-item js-menu-item " href="/pt/particulares/cartoes/cartao-de-debito-multicaixa/" data-id="41" data-preview-id=41 target="_self"><span class="text">Cart&#227;o de D&#233;bito Multicaixa</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/cartoes/cartao-de-credito-mwangole/" data-id="42" data-preview-id=42 target="_self"><span class="text">Cart&#227;o de Cr&#233;dito Mwangol&#233;</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/cartoes/cartao-pre-pago-kandandu/" data-id="43" data-preview-id=43 target="_self"><span class="text">Cart&#227;o Pr&#233;-pago Kandandu</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/cartoes/cartao-multicaixa-dagosto/" data-id="44" data-preview-id=44 target="_self"><span class="text">Cart&#227;o Multicaixa D&#39;Agosto</span></a></li>
+
+            </ul>
+        </div>
+        <!-- 5 » Seguros -->
+        <div class="nav-children js-navChildren" data-parent-id="5">
+            <ul>
+				            <li> <a class="menu-item js-menu-item " href="/pt/particulares/seguros/seguro-viagem/" data-id="51" data-preview-id=51 target="_self"><span class="text">Seguro Viagem</span></a></li>
+
+            </ul>
+        </div>
+        <!-- 6 » Servi&#231;os -->
+        <div class="nav-children js-navChildren" data-parent-id="6">
+            <ul>
+				            <li> <a class="menu-item js-menu-item " href="/pt/particulares/servicos/bfa-app/" data-id="61" data-preview-id=61 target="_self"><span class="text">BFA APP</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/servicos/bfa-net/" data-id="62" data-preview-id=62 target="_self"><span class="text">BFA NET</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/servicos/bfa-turismo-app/" data-id="64" data-preview-id=64 target="_self"><span class="text">BFA Turismo APP</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/servicos/levantamento-sem-cartao/" data-id="66" data-preview-id=66 target="_self"><span class="text">Levantamento Sem Cart&#227;o</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/servicos/linha-de-atendimento-bfa/" data-id="67" data-preview-id=67 target="_self"><span class="text">Linha de Atendimento BFA</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/servicos/seguranca-phishing/" data-id="68" data-preview-id=68 target="_self"><span class="text">Seguran&#231;a Phishing</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/servicos/seguranca-vishing/" data-id="69" data-preview-id=69 target="_self"><span class="text">Seguran&#231;a Vishing</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/servicos/transferencias-bfa/" data-id="610" data-preview-id=610 target="_self"><span class="text">Transfer&#234;ncias BFA</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/servicos/pagamento-ao-estado/" data-id="611" data-preview-id=611 target="_self"><span class="text">Pagamento ao Estado</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/particulares/servicos/pagamento-servicos/" data-id="612" data-preview-id=612 target="_self"><span class="text">Pagamento Servi&#231;os</span></a></li>
+
+            </ul>
+        </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="js-bgOverlay bg-menu-overlay"></div>
+
+    
+
+<!-- HeroModule -->
+<section class="section-hero" data-node-id="1153">
+    <div class="container-fluid extend">
+        <div class="js-slider slider-hero" data-type-slider="hero">
+                <div class="slide-item hero-item">
+                    <a href="/pt/empresas/servicos/gateway-de-pagamento-online/">
+                        <div class="image" style="background-image: url(/media/3142/banner_hp_1000x840_.png?anchor=center&amp;mode=crop&amp;rnd=132690091360000000&amp;preset=heroModule);" title="banner HP 1000x840 ">
+                        </div>
+                        <div class="texts">
+                            <h1 class="generic-big-title ">
+                                Pagamentos Online
+                            </h1>
+                            <h3 class="subtitle">Permite &#224; sua empresa receber pagamentos de cart&#245;es Internacionais no seu site de vendas virtuais.</h3>
+                        </div>
+
+    <!-- Link With Icon -->
+        <a href="/pt/empresas/servicos/gateway-de-pagamento-online/" class="btn grad-theme ">
+            <span class="text">Saiba Mais</span>
+            
+        </a>
+
+
+
+
+
+                    </a>
+                </div>
+                <div class="slide-item hero-item">
+                    <a href="/pt/particulares/poupancainvestimento/dp-13/">
+                        <div class="image" style="background-image: url(/media/2619/banner_destaque_1000x840_.png?anchor=center&amp;mode=crop&amp;rnd=132471714520000000&amp;preset=heroModule);" title="banner destaque 1000x840 ">
+                        </div>
+                        <div class="texts">
+                            <h1 class="generic-big-title ">
+                                DP <span class='underline-custom'>13%</span>
+                            </h1>
+                            <h3 class="subtitle">O 13 vai dar sorte.</h3>
+                        </div>
+
+    <!-- Link With Icon -->
+        <a href="/pt/particulares/poupancainvestimento/dp-13/" class="btn grad-theme ">
+            <span class="text">SAIBA MAIS</span>
+            
+        </a>
+
+
+
+
+
+                    </a>
+                </div>
+                <div class="slide-item hero-item">
+                    <a href="/pt/o-bfa/sala-de-imprensa/noticias/relatorio-e-contas-2020/">
+                        <div class="image" style="background-image: url(/media/3034/rc20-anual-100x840_1000x840.png?anchor=center&amp;mode=crop&amp;rnd=132681609260000000&amp;preset=heroModule);" title="RC20 ANUAL 100X840 1000x840">
+                        </div>
+                        <div class="texts">
+                            <h1 class="generic-big-title ">
+                                Relatório e Contas <span class='underline-custom'>2020</span>
+                            </h1>
+                            <h3 class="subtitle">J&#225; se encontra dispon&#237;vel o Relat&#243;rio e Contas 2020.</h3>
+                        </div>
+
+    <!-- Link With Icon -->
+        <a href="/pt/o-bfa/sala-de-imprensa/noticias/relatorio-e-contas-2020/" class="btn grad-theme ">
+            <span class="text">Saiba Mais</span>
+            
+        </a>
+
+
+
+
+
+                    </a>
+                </div>
+        </div>
+
+
+
+    </div>
+</section>
+<div class="section-iwant">
+        <button class="btn-iwant" data-action="js-iwant"> <span class="label">Eu quero</span><span class="icon icon-plus"></span></button>
+</div>
+<div class="go-bottom"> <i class="icon icon-arrow-down" data-action="goDown"></i> </div><!-- ProductsModule -->
+<section class="section-products fullWidth bg-white" data-node-id="1202">
+    <div class="container-fluid">
+        <h3 class="generic-subtitle title-withLine"><span>Produtos em destaque</span></h3>
+        <div class="row">
+            <div class="js-slider slider-products " data-type-slider="productsHomepage">
+                            <div class="slide-item bg-img products-thumb">
+                                <a href="/pt/particulares/poupancainvestimento/deposito-crescente-18/">
+                                    <div class="top">
+                                        <span class="image" style="background-image: url(/media/1095/deposito-crescente-950x950.png?center=0.495,0.645&amp;mode=crop&amp;rnd=132181329310000000&amp;preset=productsModuleItem);" title="Deposito Crescente 950x950"></span>
+                                        <h2 class="title">Dep&#243;sito Crescente 18%</h2>
+                                    </div>
+                                    <div class="bottom">
+                                        <h3 class="subtitle">No BFA o seu dinheiro cresce.</h3>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="slide-item bg-img products-thumb">
+                                <a href="/pt/particulares/cartoes/cartao-pre-pago-kandandu/">
+                                    <div class="top">
+                                        <span class="image" style="background-image: url(/media/1283/carta-o-pre-pago-kandandu-950x950.png?anchor=center&amp;mode=crop&amp;rnd=132186504250000000&amp;preset=productsModuleItem);" title="Cartão Pré pago Kandandu 950x950"></span>
+                                        <h2 class="title">Cart&#227;o Kandandu</h2>
+                                    </div>
+                                    <div class="bottom">
+                                        <h3 class="subtitle">&#201; s&#243; carregar e usar.</h3>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="slide-item bg-color products-thumb">
+                                <a href="/pt/particulares/servicos/bfa-app/">
+                                    <div class="thumb-item">
+                                        <div class="top">
+                                            <div class="icon icon-ic_particulares_bfaapp"></div>
+                                            <h2 class="title">BFA App</h2>
+                                        </div>
+                                        <div class="bottom">
+                                            <h3 class="subtitle">Esteja onde estiver, o BFA est&#225; ao seu lado. </h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="slide-item bg-color products-thumb">
+                                <a href="/pt/particulares/poupancainvestimento/conta-kandengue-bfa/">
+                                    <div class="thumb-item">
+                                        <div class="top">
+                                            <div class="icon icon-ic_particulares_contaordem"></div>
+                                            <h2 class="title">Conta Kandengue</h2>
+                                        </div>
+                                        <div class="bottom">
+                                            <h3 class="subtitle">A conta poupan&#231;a que pensa no futuro dos seus filhos. </h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="slide-item bg-color products-thumb">
+                                <a href="/pt/particulares/contas/conta-bankita/">
+                                    <div class="thumb-item">
+                                        <div class="top">
+                                            <div class="icon icon-ic_particulares_contaordem"></div>
+                                            <h2 class="title">Conta Bankita BFA</h2>
+                                        </div>
+                                        <div class="bottom">
+                                            <h3 class="subtitle">A conta do BFA de todos os angolanos. </h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="slide-item bg-color products-thumb">
+                                <a href="/pt/particulares/poupancainvestimento/super-poupanca/">
+                                    <div class="thumb-item">
+                                        <div class="top">
+                                            <div class="icon icon-ic_particulares_superpoupanca"></div>
+                                            <h2 class="title">Super Poupan&#231;a</h2>
+                                        </div>
+                                        <div class="bottom">
+                                            <h3 class="subtitle">Invista no seu futuro e veja a sua poupan&#231;a tornar-se super. </h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- SimulatorModule -->
+<section class="section-simulator fullWidth bg-white" data-node-id="1155">
+    <div class="container-fluid">
+        <div class="texts">
+
+            <h2 class="generic-title ">
+                Procuro um <span class='underline-custom'>Crédito</span> <span class='underline-custom'>Pessoal</span> à minha medida.
+            </h2>
+
+            <p class="generic-text ">Conhe&#231;a o cr&#233;dito a curto prazo criado a pensar em si. Saiba como realizar todos os seus sonhos e projectos pessoais.</p>
+
+                <a href="/pt/particulares/credito/credito-pessoal/" class="btn-underline solid-theme uppercase">Saiba Mais</a>
+
+        </div>
+
+        <div class="simulator-print js-simulatortoPrint">
+            <div class="simulator-header">
+                <div class="logo">
+                    <img class="js-logo" src="" alt="logo">
+                </div>
+                <h2 class="generic-title ">
+                    Meu Simulador
+                </h2>
+            </div>
+            <div class="simulator-wrapper">
+                
+                <div data-module="simulator" data-id="1155"></div>
+                <div class="simulator-info">
+                    <h2>Condi&#231;&#245;es Gerais:</h2>
+                    <p>Taxa de esforço máxima de 35%. Salvo situações excepcionais<br /><strong>Prazo</strong>: até 3 anos (36 meses)<br /><strong>Montante máximo</strong>: 15.000.000 AKZ</p>
+<p><strong>Processo de crédito sujeito às comissões indicadas no preçário BFA</strong></p>
+<p>Deverá ser contratado o Seguro de Vida</p>
+<p><strong>Avalista</strong></p>
+<p>Para mais informações consulte www.bfa.ao ou dirija-se a uma Agência BFA</p>
+                </div>
+            </div>
+            <div class="simulator-footer">
+                <p>Os valores apresentados são meramente indicativos, não constituindo qualquer compromisso quanto à sua aprovação, tendo sido calculados com base nas taxas e normas em vigor, as quais poderão ser alvo de alterações.</p>
+<p><strong>Protocolos:</strong><br />Se possui Protocolo com o BFA, poderá ter condições vantajosas, pelo que, deve contactar o seu balcão</p>
+            </div>
+        </div>
+
+    </div>
+</section><!-- ExchangeTaxesModule -->
+<section class="section-exchangeTaxes bg-light" data-node-id="1239">
+    <div class="container-fluid">
+        <div class="texts">
+
+            <h2 class="generic-title ">Taxas de <span class='underline-custom'>Câmbio</span></h2>
+            <p>
+                Consulte as varia&#231;&#245;es de mercado em tempo real. Mantenha-se sempre a par de toda a informa&#231;&#227;o relativa &#224; moeda.&#160;
+            </p>
+            <a href="/pt/particulares/pesquisa-de-cambios/" class="btn-underline uppercase">Saiba Mais</a>
+        </div>
+        <div class="exchangeTaxes js-exchangeTaxes js-tabs-container">
+            <div class="exchangeTaxes-top">
+                <div class="labels" style="display:none;"><span class="label-from">AKZ</span> › <span class="label-to">EUR</span></div>
+                <div class="nab-tabs"> <button class="nav-tab js-nav-tab is-active" data-tab-index="1">Divisas</button> <button class="nav-tab js-nav-tab" data-tab-index="2">Notas</button> </div>
+            </div>
+            <div class="tabs-content">
+                <div class="js-tab-content tab-content is-active" data-tab-index="1">
+                    <div class="exchangeTaxes-display js-display" style="display:none;">
+                        <div class="side-from js-from js-side">
+                            <div><span class="label js-label">AKZ</span></div> <input type="number" value="1" class="exchange-input js-input">
+                        </div>
+                        <div class="middle js-middle"> <button class="btn-middle js-switch"><span class="icon-swap"></span></button> </div>
+                        <div class="side-to js-to js-side">
+                            <div> <button class="btn-nex-prev js-btn-prev">&#60;</button> <label class="label js-label"></label> <button class="btn-nex-prev js-btn-next">&#62;</button> </div>
+                            <p class="number js-number">0.89</p>
+                        </div>
+                    </div>
+                    <div class="exchangeTaxes-table js-table">
+                        <table>
+                            <tr>
+                                <th> Moeda </th>
+                                <th> Compra </th>
+                                <th> Venda </th>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="exchangeTaxes-others js-others">
+                        
+                    </div>
+                </div>
+                <div class="js-tab-content tab-content" data-tab-index="2">meu conteudo 2</div>
+            </div>
+        </div>
+    </div>
+</section><!-- LastNewsModule -->
+
+<section class="section-lastNews title-divide bg-white" data-node-id="2848">
+    <div class="container-fluid">
+        <h3 class="generic-subtitle title-withLine bottom"><span>&#218;ltimas Not&#237;cias</span></h3>
+
+        <a href="/pt/o-bfa/sala-de-imprensa/noticias/" class="btn-underline solid-gray uppercase">ver todas</a>
+
+        <div class="row">
+            <div class="js-slider slider-news" data-type-slider="newsFull">
+
+                
+    <div class="col-md-3 slide-item">
+        <div class="last-news-thumb">
+            <a href="/pt/o-bfa/sala-de-imprensa/noticias/top-dos-mais-queridos-bfa-2021/">
+                <div class="image" style="background-image: url(/media/3429/fbtop-dos-mais-queridos-bfa-2021-copy.png?anchor=center&amp;mode=crop&amp;rnd=132780720010000000&amp;preset=newsMoreItems);" title="FBTOP dos Mais Queridos BFA 2021 copy"></div>
+                <p class="date">07 outubro</p>
+                <h4 class="title">Patroc&#237;nios BFA</h4>
+                <p class="description">Top dos Mais Queridos BFA 2021</p>
+                <div class="btn-underline solid-gray">Saiba mais</div>
+            </a>
+        </div>
+    </div>
+    <div class="col-md-3 slide-item">
+        <div class="last-news-thumb">
+            <a href="/pt/o-bfa/sala-de-imprensa/noticias/obrigacoes-do-tesouro-outubro/">
+                <div class="image" style="background-image: url(/media/1093/bfa-oportunidades-ii-950x950.png?anchor=center&amp;mode=crop&amp;rnd=132181329200000000&amp;preset=newsMoreItems);" title="BFA Oportunidades II 950x950"></div>
+                <p class="date">06 outubro</p>
+                <h4 class="title">Obriga&#231;&#245;es do Tesouro</h4>
+                <p class="description">Actualização Títulos a cotar em Outubro enquanto Operador Preferen&hellip;</p>
+                <div class="btn-underline solid-gray">Saiba mais</div>
+            </a>
+        </div>
+    </div>
+    <div class="col-md-3 slide-item">
+        <div class="last-news-thumb">
+            <a href="/pt/o-bfa/sala-de-imprensa/noticias/bfa-patrocina-24&#170;-edicao-do-festival-da-cancao-de-luanda/">
+                <div class="image" style="background-image: url(/media/3355/site-festival-da-cancao.jpg?anchor=center&amp;mode=crop&amp;rnd=132767738730000000&amp;preset=newsMoreItems);" title="SITE festival da can&#231;&#227;o"></div>
+                <p class="date">22 setembro</p>
+                <h4 class="title"> BFA Patrocina </h4>
+                <p class="description">24ª Edição do Festival da Canção de Luanda</p>
+                <div class="btn-underline solid-gray">Saiba mais</div>
+            </a>
+        </div>
+    </div>
+    <div class="col-md-3 slide-item">
+        <div class="last-news-thumb">
+            <a href="/pt/o-bfa/sala-de-imprensa/noticias/projecto-plus-agua-plus-vida/">
+                <div class="image" style="background-image: url(/media/3350/site_bfaplusaguaplusvida_950x950.png?anchor=center&amp;mode=crop&amp;rnd=132766993920000000&amp;preset=newsMoreItems);" title="Site BFA+&#193;gua+Vida 950x950"></div>
+                <p class="date">21 setembro</p>
+                <h4 class="title">Projecto  + &#193;gua + Vida</h4>
+                <p class="description">Responsabilidade Social BFA</p>
+                <div class="btn-underline solid-gray">Saiba mais</div>
+            </a>
+        </div>
+    </div>
+
+
+            </div>
+        </div>
+    </div>
+</section><!-- FindStoreModule -->
+<section class="section-findStore" data-node-id="1240">
+	<div class="container-fluid" data-action="sectionToClick">
+		<div class="content">
+			<h4 class="generic-label">Balc&#245;es BFA</h4>
+			<h2 class="generic-title">Encontre a Ag&#234;ncia mais pr&#243;xima de si. </h2>
+			<p class="generic-text ">H&#225; sempre um Balc&#227;o BFA ao seu lado. Descubra-o aqui. </p>
+
+
+			    <!-- Link With Icon -->
+        <a href="/pt/particulares/lojas/" class="btn grad-theme icon">
+            <span class="text">Encontrar balc&#227;o</span>
+                    <i class="icon icon-location"></i>
+
+        </a>
+
+
+
+
+		</div>
+		<div class="image" style="background-image: url('/media/1048/balcoes02-1.jpg?anchor=center&amp;mode=crop&amp;rnd=131757112120000000&amp;preset=findStoreModule');" title="Balcoes02 (1)"></div>
+	</div>
+</section>
+
+    <footer class="js-footer footer">
+        <div class="footer-site-map js-footerSiteMap">
+            <div class="container-fluid">
+                <button type="button" class="button-toggle-siteMap js-toggleSiteMap" data-action="toggleSiteMap"
+                        data-textopen="Abrir Mapa do Site" data-textclose="Fechar Mapa do site">
+                    <span class="text js-text">Abrir Mapa do Site</span>
+                    <span class="icon open icon-arrow-fill-down"></span>
+                    <span class="icon close icon-close"></span>
+                </button>
+            </div>
+            
+<div class="container-site-map js-ctnSiteMap" data-home-id="1123">
+    <div class="container-fluid">
+        <ul class="site-map js-siteMap">
+                    <li>
+                        Contas
+
+                        <ul>
+                                <li>
+                                    <a href="/pt/particulares/contas/conta-a-ordem/">Conta a ordem</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/particulares/contas/conta-bankita/">Conta bankita</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/particulares/contas/conta-ordenado/">Conta Ordenado</a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li>
+                        Taxa de c&#226;mbio
+
+                        <ul>
+                        </ul>
+                    </li>
+                    <li>
+                        Cr&#233;dito
+
+                        <ul>
+                                <li>
+                                    <a href="/pt/particulares/credito/credito-pessoal/">Cr&#233;dito Pessoal</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/particulares/credito/credito-automovel/">Cr&#233;dito Autom&#243;vel</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/particulares/credito/credito-habitacao/">Cr&#233;dito Habita&#231;&#227;o</a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li>
+                        Cart&#245;es
+
+                        <ul>
+                                <li>
+                                    <a href="/pt/particulares/cartoes/cartao-de-debito-multicaixa/">Cart&#227;o de D&#233;bito Multicaixa</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/particulares/cartoes/cartao-de-credito-mwangole/">Cart&#227;o de Cr&#233;dito Mwangol&#233;</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/particulares/cartoes/cartao-pre-pago-kandandu/">Cart&#227;o Pr&#233;-pago Kandandu</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/particulares/cartoes/cartao-multicaixa-dagosto/">Cart&#227;o Multicaixa D&#39;Agosto</a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li>
+                        Servi&#231;os
+
+                        <ul>
+                                <li>
+                                    <a href="/pt/particulares/servicos/bfa-net/">BFA NET</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/particulares/servicos/bfa-sms/"></a>
+                                </li>
+                                <li>
+                                    <a href="/pt/particulares/servicos/bfa-app/">BFA APP</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/particulares/servicos/transferencias-bfa/">Transfer&#234;ncias BFA</a>
+                                </li>
+                                <li>
+                                    <a href="#"></a>
+                                </li>
+                                <li>
+                                    <a href="#"></a>
+                                </li>
+                                <li>
+                                    <a href="#"></a>
+                                </li>
+                                <li>
+                                    <a href="/pt/particulares/servicos/pagamento-servicos/">Pagamento Servicos</a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li>
+                        Poupan&#231;a/Investimento
+
+                        <ul>
+                                <li>
+                                    <a href="/pt/particulares/poupancainvestimento/super-poupanca/">Super Poupan&#231;a</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/particulares/poupancainvestimento/plano-de-poupanca/">Plano de Poupan&#231;a</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/particulares/poupancainvestimento/rendimento-trimestral/">Rendimento Trimestral</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/particulares/poupancainvestimento/conta-kandengue-bfa/">Conta Kandengue BFA</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/particulares/poupancainvestimento/dp-bfa-10/">DP BFA 10%</a>
+                                </li>
+                        </ul>
+                    </li>
+        </ul>
+    </div>
+</div>
+        </div>
+
+        
+<div class="footer-base">
+    <div class="container-fluid">
+        <div class="footer-block">
+            <h5 class="title">Fale Connosco</h5>
+            <div class="text">
+                <p>Dispon&#237;vel 24h por dia. Se tem d&#250;vidas, sugest&#245;es ou reclama&#231;&#245;es, fale connosco.</p>
+                <a href="tel:923 120 120" class="btn grad-theme icon">
+                    <span class="text">LIGAR 923 120 120</span>
+                    <i class="icon icon-phone"></i>
+                </a>
+            </div>
+        </div>
+        <div class="footer-block">
+            <h5 class="title">Informa&#231;&#245;es &#250;teis</h5>
+            <div class="text">
+                    <p><a href="/pt/o-bfa/perguntas-frequentes/">Perguntas Frequentes</a></p>
+                    <p><a href="/pt/o-bfa/glossario/">Gloss&#225;rio</a></p>
+                    <p><a href="/pt/particulares/lojas/">Rede de Balc&#245;es</a></p>
+                    <p><a href="/pt/o-bfa/trabalhar-no-bfa/">Ser Colaborador BFA</a></p>
+                    <p><a href="/pt/particulares/precario/precario/">Pre&#231;&#225;rio</a></p>
+                    <p><a href="/pt/particulares/contactos/">Contactos BFA</a></p>
+            </div>
+        </div>
+        <div class="footer-block">
+            <h5 class="title">Redes Sociais</h5>
+            <ul class="social-list">
+                    <li><a href="https://www.facebook.com/Banco.BFA/?ref=br_rs" target="_blank"><i class="icon icon-social-facebook"></i></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCZrPht3AQZZGglBp_piRS6Q?view_as=subscriber" target="_blank"><i class="icon icon-social-youtube"></i></a></li>
+                    <li><a href="https://www.linkedin.com/company/bfa" target="_blank"><i class="icon icon-social-linkedin"></i></a></li>
+                    <li><a href="https://www.instagram.com/bancofomentoangola/" target="_blank"><i class="icon icon-social-instagram"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+        <div class="footer-bottom js-footerBottom">
+            <div class="container-fluid">
+                <div class="copyright">
+                    <p>Banco de Fomento Angola&#169;2019-2021. Todos os direitos reservados. <a href="/pt/o-bfa/termos-e-condicoes/">Termos e condi&#231;&#245;es</a></p>
+                </div>
+            </div>
+        </div>
+
+    </footer>
+
+    <template data-tpl-id="popover">
+		<div class="popover js-popover">
+			<div class="js-popover-wrapper popover-wrapper">
+				<span class="popover-icon-ctn"><i class="icon icon-check"></i></span>
+				<span class="popover-title js-title"></span>
+				<span class="popover-text js-text"></span>
+			</div>
+		</div>
+</template>
+<template data-tpl-id="mobile-panel">
+
+    <div class="panel js-mobilePanel" data-parent-id=""><ul class="nav js-nav"></ul></div>
+</template>
+<template data-tpl-id="mobile-panel-item">
+    <li><a class="menu-item js-menu-item " href="#"><span class="text"></span></a></li>
+</template>
+<template data-tpl-id="desktop-submenu">
+    <ul class="submenu js-submenu"></ul>
+</template>
+<template data-tpl-id="desktop-submenu-item">
+    <li><a class="menu-item js-menu-item " href="" data-preview-id=" "><span class="text"></span></a></li>
+</template>
+<template data-tpl-id="formOverlay">
+    <section class="form flyover mod-form js-modForm" data-id="">
+        <div class="bg-overlay"></div>
+        <div class="container-flyover">
+            <div class="wrapper-flyover">
+                <div class="wrapper-btn">
+                    <button class="btn-back text-black out-mobile" data-action="outForm">
+                        <i class="icon icon-arrow-special-left"></i>
+                        <span class="text"></span>
+                    </button>
+                    <button class="btn-back text-black out-desktop" data-action="outForm">
+                        <span class="text">Sair</span>
+                        <i class="icon icon-close"></i>
+                    </button>
+                </div>
+                <div class="content-flyover js-contentTabs">
+                </div>
+            </div>
+        </div>
+    </section>
+</template>
+<template data-tpl-id="formFeedback">
+    <div class="tab-wrapper js-tabWrapper feedback step">
+        <div class="screen-step">
+            <div class="screen-step-content">
+                <p><i class="icon icon-check icon-validate"></i></p>
+                <p class="title js-title">Submetido com sucesso.</p>
+                <p class="text js-text">
+                    Foi enviado um c&#243;digo de confirma&#231;&#227;o para o seu email. Para concluir o processo deve
+                    guardar o c&#243;digo e
+                    dirigir-se a um balc&#227;o BFA.
+                </p>
+                <a href="/pages/t03-page-storelocation.html" class="btn solid-line-theme">
+                    Encontrar o balc&#227;o
+                    <i class="icon icon-location"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</template>
+<template data-tpl-id="loadMedia">
+    <section class="flyover js-media mod-media" data-type="media" data-index="0">
+        <div class="bg-overlay"></div>
+        <div class="container-flyover">
+            <div class="wrapper-flyover">
+                <div class="wrapper-title media-title js-mediaTitle">
+                    <h3 class="title">
+                        <span class="text js-title">Canal BFA</span>
+                        <button class="btn-close js-close-flyover" data-action="closeFlyover">
+                            Sair
+                            <span class="icon icon-close" data-action="outiWant"></span>
+                        </button>
+                    </h3>
+                </div>
+                <div class="content-flyover js-contentMedia">
+                    <div class="video-container">
+                        <iframe src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <p class="date"></p>
+                    <h4 class="title"></h4>
+                    <p class="description"></p>
+                    <a href="#" class="media-cta btn grad-theme icon">
+                        <span class="text"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+</template>
+<template data-tpl-id="exchange">
+    <table>
+        <tr>
+            <td class="exchange-currency">EUR</td>
+            <td class="exchange-buy">186,302</td>
+            <td class="exchange-sell">191,891</td>
+        </tr>
+    </table>
+</template>
+
+    <!--SIMULATORS-->
+            <script>
+	        var simulators = [{"label":"Módulo Simulador Particulares","coins":[{"label":"AOA","valueBase":800000,"valueMax":15000000,"valueMin":200000,"stepValueRequest":565.0,"stepValueMonthly":1681.0}],"limits":null,"id":1155,"type":"credito pessoal","rate":20,"startCoin":0,"labelChooseCoin":"Selecione moeda:","titleMonth":"mês","labelPeriods":"meses","month":17.0,"monthMax":36.0,"monthMin":1.0,"titleVehicleValue":null,"titleRate":"Taxa de juro Anual","titleMonthly":"Quanto vou pagar por mês","titleValueRequest":"Qual o financiamento?","titlePeriods":"Qual o prazo?","titleValueMonthly":"Quanto quer pagar por mês?","conditionsText":"Ver condições de contratação","conditionsLink":"/pt/","conditionsDescription":"<p>Taxa de esforço máxima de 35%. Salvo situações excepcionais<br /><strong>Prazo</strong>: até 3 anos (36 meses)<br /><strong>Montante máximo</strong>: 15.000.000 AKZ</p>\n<p><strong>Processo de crédito sujeito às comissões indicadas no preçário BFA</strong></p>\n<p>Deverá ser contratado o Seguro de Vida</p>\n<p><strong>Avalista</strong></p>\n<p>Para mais informações consulte www.bfa.ao ou dirija-se a uma Agência BFA</p>","buttonText":"Imprimir Resultados","buttonLink":"http://www.google.pt"}];
+        </script>
+<template data-tpl-id="simulator">
+    <div>
+        <div class="simulator-painel js-simulator" data-rate="">
+            <div class="simulator-top">
+                <div class="simulator-results js-simulator-results">
+                    <div class="title js-titleMonthly js-replaceData" data-obj-name="titleMonthly"></div>
+                    <div class="monthly">
+                        <span class="result-monthly js-resultMonthly"></span>
+                        <span>
+                            <span class="js-currency-label label"></span>
+                            /
+                            <span class="titleMonth js-titleMonth js-replaceDate" data-obj-name="titleMonth"></span>
+                        </span>
+                    </div>
+                    <div class="chooseCoin js-chooseCoin">
+                        <span class="js-labelChooseCoin labelChooseCoin js-replaceData" data-obj-name="labelChooseCoin"></span>
+                    </div>
+                    <div class="others">
+                        <span class="js-titleRate titleRate js-replaceData" data-obj-name="titleRate"></span>
+                        <span class="js-rate js-replaceData" data-obj-name="rate"></span>
+                        %
+                    </div>
+                    <div class="division-print">
+                        <svg width="100%" height="2px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                            <defs>
+                                <linearGradient x1="0%" y1="2.22044605e-14%" x2="100%" y2="100%" id="linearGradientDivision">
+                                    <stop stop-color="#E3E3E3" offset="0%"></stop>
+                                    <stop stop-color="#FF9727" offset="100%"></stop>
+                                </linearGradient>
+                            </defs>
+                            <g id="A4" fill="url(#linearGradientDivision)">
+                                <rect id="Rectangle" x="0" y="0" width="100%" height="1"></rect>
+                            </g>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+            <div class="simulator-ui">
+                <div class="js-question question question-input js-questionInput">
+                    <p>
+                        <span class="question-label js-titleVehicleValue js-replaceData" data-obj-name="titleVehicleValue"></span>
+                    </p>
+                    <div>
+                        <input type="text" class="js-input-vehicleValue input-value js-inputBase" value="" minlength="1"
+                               data-range-start="" data-range-end=""><span class="js-currency-label label"></span>
+                    </div>
+                </div>
+
+                <div class="js-question question">
+                    <p>
+                        <span class="question-label js-titleValueRequest js-replaceData" data-obj-name="titleValueRequest"></span>
+                        <span class="question-value js-q-value">
+                            <input type="text" class="js-input js-input-valueRequest input-value js-inputBase" value="" minlength="1"
+                                   data-range-start="" data-range-end=""><span class="js-currency-label label"></span>
+
+                        </span>
+                    </p>
+                    <div>
+                        <div class="js-rangeSliderBase js-rangeSlider js-rangeSlider-valueRequest" data-val="" data-range-start=""
+                             data-range-end=""></div>
+                    </div>
+
+
+                </div>
+
+                <div class="js-question question">
+                    <p>
+                        <span class="question-label js-titlePeriods js-replaceData" data-obj-name="titlePeriods"></span>
+                        <span class="question-value js-q-value">
+                            <input type="text" class="js-input js-input-periods input-value js-inputBase" minlength="1" maxlength="2" value=""
+                                   data-range-start="" data-range-end="" data-step="1"><span class="label js-labelPeriods js-replaceData" data-obj-name="labelPeriods"></span>
+                        </span>
+                    </p>
+                    <div>
+                        <div class="js-rangeSliderBase js-rangeSlider js-rangeSliderPeriods" data-val="" data-range-start=""
+                             data-range-end="" data-step="1"></div>
+                    </div>
+                </div>
+
+                <div class="js-question question js-questionMonthly questionMonthly">
+                    <p>
+                        <span class="question-label js-titleValueMonthly js-replaceData" data-obj-name="titleValueMonthly"></span><span class="question-value js-q-value">
+                            <input type="text" class="js-input-valueMonthly input-value js-inputBase" minlength="1"><span class="js-currency-label label"></span>
+                        </span>
+                    </p>
+                    <div>
+                        <div class="js-rangeSliderBase js-rangeSliderMonthy" data-val="0" data-range-start="0" data-range-end="1"></div>
+                    </div>
+                </div>
+
+                <div class="error-message is-hidden">
+                    <p class="js-errorMessage">Mensagem de erro</p>
+                </div>
+
+                <div>
+                    <button class="link js-conditions js-replaceData" data-obj-name="conditions"></button>
+                    <div class="conditions-description js-conditionsDescription is-hidden js-replaceData" data-obj-name="conditionsDescription">
+
+                    </div>
+                </div>
+                <button data-action="print" class="btn grad-theme js-btn-simulator btn-simulator js-replaceData" data-obj-name="btn-simulator">
+                </button>
+            </div>
+
+            <input type="hidden" class="js-currency-value" data-value="">
+            <input type="hidden" class="js-currency-valueMin" data-value="">
+            <input type="hidden" class="js-currency-valueMax" data-value="">
+            <input type="hidden" class="js-currency-valueLabel" data-value="">
+            <input type="hidden" class="js-currency-stepValueRequest" data-value="">
+            <input type="hidden" class="js-currency-stepValueMonthly" data-value="">
+
+        </div>
+    </div>
+</template>
+
+<template data-tpl-id="simulatorChooseCoins">
+    <label>
+        <input type="radio" name="currency" data-action="changeCurrency" value="">
+        <span class="js-text text"></span>
+    </label>
+</template>
+
+
+<template data-tpl-id="simulatorGradient">
+
+    <svg class="gradient" width="100%" height="100%" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <defs>
+            <linearGradient x1="0%" y1="2.22044605e-14%" x2="100%" y2="100%" id="linearGradient-1">
+                <stop stop-color="#F05D1A" offset="0%"></stop>
+                <stop stop-color="#FF9727" offset="100%"></stop>
+            </linearGradient>
+        </defs>
+        <rect x="0" y="0" width="100%" height="100%" rx="2.29999982" fill="url(#linearGradient-1)"></rect>
+    </svg>
+</template>
+
+<template data-tpl-id="simulatorHandle">
+    <svg class="handle" width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg"
+         xmlns:xlink="http://www.w3.org/1999/xlink">
+        <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g transform="translate(1.000000, 1.000000)">
+                <circle id="Oval-117-Copy-3" stroke="#FF6C00" stroke-width="1.83999985" fill="#FFFFFF" cx="11.5919991" cy="11.5919991"
+                        r="11.5919991"></circle>
+                <rect id="Rectangle" fill="#CDCDCD" x="9.6" y="7" width="1.2" height="9.6"></rect>
+                <rect id="Rectangle" fill="#CDCDCD" x="12" y="7" width="1.2" height="9.6"></rect>
+            </g>
+        </g>
+    </svg>
+</template>
+
+<template data-tpl-id="simulatorConnect">
+    <svg class="connect" width="100%" height="100%" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <rect id="Rectangle" x="0" y="0" width="100%" height="100%" rx="2.3" fill="#F4F4F4"></rect>
+    </svg>
+</template>
+
+
+
+<template data-tpl-id="iWant">
+    <section class="form flyover js-iWant mod-iWant" data-type="iwant" data-index="0">
+        <div class="bg-overlay"></div>
+        <div class="container-flyover">
+            <div class="wrapper-flyover">
+                <div class="wrapper-btn">
+                    <button class="btn-back text-black " data-action="outiWant">
+                        <i class="icon icon-arrow-special-left"></i>
+                        <span class="text">CANCELAR</span>
+                    </button>
+                </div>
+                <div class="content-flyover js-contentTabs">
+
+
+
+                </div>
+            </div>
+        </div>
+        <div class="wrapper-results js-wrapperResults">
+            <div class="wrapper-btns">
+                <button class="btn-back iconTheme btn-backSearch js-resultsBackSearch">
+                    <span class="icon icon-arrow-special-left"></span>
+                    <span class="text">Voltar à pesquisa</span>
+                </button>
+                <span class="title">Eu quero</span>
+                <button class="btn-back iconTheme iconRight btn-goOut" data-action="outiWant">
+                    <span class="text">Sair</span>
+                    <span class="icon icon-close"></span>
+                </button>
+            </div>
+            <div class="container"><p class="totalResults">Resultados:</p></div>
+            <div class="results-content js-contentResults">
+
+
+            </div>
+
+        </div>
+    </section>
+</template>
+
+<template data-tpl-id="iWantTabs">
+    <div class="tab-wrapper js-tabWrapper" data-tab="">
+        <div class="wrapper-title tab-title js-tabTitle">
+            <h3 class="title">
+                <span class="text js-title"></span>
+                <span class="icon icon-arrow-special-up js-tabDown"></span>
+            </h3>
+        </div>
+        <div class="tab-content checkboxs-radios-ctn js-tabContent">
+            <ul></ul>
+        </div>
+    </div>
+</template>
+
+
+<template data-tpl-id="iWantTabsItem">
+    <li class="js-tabItem " data-tab="" data-action="">
+        <label>
+            <span class="radio" value=""></span>
+            <span class="text js-text"></span>
+        </label>
+    </li>
+</template>
+
+<template data-tpl-id="backIWant">
+	<button class="btn-back to-results js-backIWant">
+			<i class="icon icon-arrow-special-left"></i>
+		<span class="text">Voltar aos resultados</span>
+	</button>
+</template>
+<template data-tpl-id="iWantLinkResults">
+	<div class="link-to-all">
+		<span class="js-tabItem link" data-action="results">ver resultados</span>
+	</div>
+</template>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PXNDS6M"
+				  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PXNDS6M');</script>
+<!-- End Google Tag Manager -->
+
+<script src="/libs/bfa-vendor-da4d535aad.min.js"></script>
+<script src="/libs/bfa-custom-plugins-75041594f5.min.js"></script>
+<script src="/scripts/bfa-app-ac50ad2a4b.min.js"></script>
+
+    <script id="bycookie-script" data-lang="pt" data-version="1.0.2" data-gtm="" data-gua="" data-fbid="" src="/libs/bycookieapp-4e844d5801.min.js"></script>
+
+</body>
+</html>
+    <!--BFA 20201021.1 . 27646-->

@@ -1,0 +1,34 @@
+#!/usr/bin/env bash 
+
+# Execula "help" para verificar se vai conseguir mostrar a ajuda do comando (sucesso) ou nao (errp) 
+
+# $1 para capturar y guardar dados de input
+# $# para contar o numero de algumento que se passa en un script se para do por espaco em branco
+
+# exit 1 = termian o script en ejecucao 
+# exit 0 = cerra o scrit en a terminal en uso. 
+
+# SINAIS DE COMPARACAO
+# -eq = iqual 
+# -ne = not igual
+
+# EXCTRAS 
+# $$ = armazena o PID da sessao corrente do shell
+# $? = armazena o statos de saida de um comando  
+# $0 = armazena o nome do programa executado 
+# $n = (1 -....) o numero atribuido aos argumentos pela ordem de ocorrencia ( eje: juanda comida ..)
+# $# = armazena o numero de argumento passado pelo script
+
+
+help $1 &> /dev/null
+
+# URL limbo = /dev/null
+msg="É preciso forncer un único nome de comando valido."
+
+# Testando si foi passado un argumento no script... 
+[[ $# -ne 1 ]] && echo $msg && exit 1
+
+# Usar comando "text" para avaliar a expressao ... 
+[[ $? -eq 0 ]] && echo "É Builtin!" || echo "Nao é Builtin...: -("
+
+exit 0

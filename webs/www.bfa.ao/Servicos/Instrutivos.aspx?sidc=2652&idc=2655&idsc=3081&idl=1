@@ -1,0 +1,1076 @@
+
+
+
+<!DOCTYPE html>
+<!--[if IE 9]><html class="no-js ie9" id="template"> <![endif]-->
+<!--[if lt IE 8]><html class="no-js lt-ie9 lt-ie8" id="template"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" id="template" > <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="pt" class="no-js" id="template"> <!--<![endif]-->
+
+
+
+
+<head>
+    
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<title>BFA - Regulamentação</title>
+<meta name="description" content="homepage">
+<meta name="KEYWORDS" content="Banco de Fomento Angola,Regulamentação ,Leis,Avisos,Decretos,Directivas,Instrutivos,Bancos em Angola" />
+<link type="image/ico" rel="shortcut icon" href="/favicon.ico">
+
+
+<link rel="stylesheet" href="/inc/css/normalize.min.css">
+<link rel="stylesheet" href="/inc/css/main.css">
+<link rel="Stylesheet" href="/inc/css/extendCss.css">
+
+<script src="/inc/js/modernizr-2.6.2.min.js"></script>
+<script src="/inc/js/jquery-1.9.1.min.js"></script>
+<script src="/inc/js/jquery-migrate-1.1.0.min.js"></script>
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+<meta property="og:description" content="" />
+<meta property="og:title" content="BFA - Regulamentação"/> 
+
+<meta property="og:image" content="http://10.182.66.70/img/logos/bfa.png"/> 
+<meta property="og:site_name" content="BFA"/>
+
+<!-- C�digo do GoogleAnalytics -->
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-43709848-1', 'bfa.ao');
+        ga('require', 'linkid', 'linkid.js');
+        ga('send', 'pageview');
+
+        var _mfq = _mfq || [];
+        (function () {
+            var mf = document.createElement("script"); mf.type = "text/javascript"; mf.async = true;
+            mf.src = "//cdn.mouseflow.com/projects/88afdfa8-c0a6-433e-9e5e-542f1f26f2b5.js";
+            document.getElementsByTagName("head")[0].appendChild(mf);
+        })();
+
+        $(document)
+            .ready(function() {
+                $("a").each(function () {
+                    
+                    if (this.href.toUpperCase().indexOf('DOWNLOAD.ASPX?IDI=10266') >= 0) {
+                        this.onclick = function() {
+                            ga('send', 'event', 'download RC2015', 'click', 'button');
+                        }
+                    }
+                    
+                    else if (this.href.toUpperCase().indexOf('DOWNLOAD.ASPX?SIDC=2652') >= 0 || this.href.toUpperCase().indexOf('DOWNLOAD.ASPX?SIDC=10435') >= 0) {
+                            this.onclick = function() {
+                                ga('send', 'event', 'Download Newsletter Oil e Gas', 'click', 'button');
+                            }
+                        }
+                        
+                        else if (this.href.toUpperCase().indexOf('RCD15') >= 0) {
+                            this.onclick = function() {
+                                ga('send', 'event', 'saiba mais RC digital 2015', 'click', 'button');
+                            }
+                        }
+                });
+            });
+    </script>
+
+</head>
+<body>
+    <div class="site">
+   
+        
+<!-- Init Header -->
+<header id="header">
+    <a href="/default.aspx?sidc=2649&idl=1" id="bfa-logo">
+        <img alt="BFA" src="/img/logos/bfa.png" />
+    </a>
+    
+        <nav id="language">
+            <dl>
+                <dt class="hidden">Língua:</dt>
+    
+                <dd class="current"><a href="/default.aspx?sidc=2649&amp;idc=2649&amp;idsc=2649&amp;idl=1">Português</a></dd>
+    
+                <dd><a href="/default.aspx?sidc=2649&amp;idc=2649&amp;idsc=2649&amp;idl=2">English</a></dd>
+    
+            </dl>
+        </nav>
+       
+
+    
+    <nav id="menu-areas">
+        
+                <ul>
+            
+                <li >
+                    <!--
+--><a href="/default.aspx?sidc=2649&amp;idl=1"   >Particulares</a>
+                </li>
+            
+                <li >
+                    <!--
+--><a href="/default.aspx?sidc=2650&amp;idl=1"   >Empresas</a>
+                </li>
+            
+                <li >
+                    <!--
+--><a href="/default.aspx?sidc=2651&amp;idl=1"   >Centros de Investimento</a>
+                </li>
+            
+                <li class='current'>
+                    <!--
+--><a href="/default.aspx?sidc=2652&amp;idl=1"   >O BFA</a>
+                </li>
+            
+                </ul>
+            
+    </nav>
+    <nav id="menu">
+        
+                <ul>
+            
+                <li>
+                    <a href="#">Conheça o BFA</a>
+                    
+                            <ul>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Servicos/RedeBalcoes.aspx?sidc=2652&amp;idc=2851&amp;idsc=2855&amp;idl=1>Onde Estamos</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2851&amp;idsc=11726&amp;idl=1>BFA 25 ANOS </a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2851&amp;idsc=12044&amp;idl=1>BFA 2 000 000 Clientes</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2851&amp;idsc=12366&amp;idl=1>BFA Banco do Ano em Angola</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2851&amp;idsc=13328&amp;idl=1>Prémios Bodiva</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2851&amp;idsc=14257&amp;idl=1>Prémio Melhor Expositor Expo Uíge</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2851&amp;idsc=14494&amp;idl=1>Parceria BFA e Afreximbank</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Medias/Download.aspx?sidc=2652&amp;idi=14831>BFA@glance</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/All/lista.aspx?sidc=2652&amp;idc=2851&amp;idsc=2856&amp;idl=1>Quem Somos</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2851&amp;idsc=2857&amp;idl=1>Orgãos Sociais</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Servicos/InformacaoFinanceira.aspx?sidc=2652&amp;idc=2851&amp;idsc=2962&amp;idl=1>Informação Financeira</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Servicos/Premios.aspx?sidc=2652&amp;idc=2851&amp;idsc=2859&amp;idl=1>Prémios</a>
+                                
+                            </li>
+                        
+                            </ul>
+                        
+                </li>
+            
+                <li>
+                    <a href="#">Governação</a>
+                    
+                            <ul>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Compliance/governacao.aspx?sidc=2652&amp;idc=11690&amp;idsc=11691&amp;idl=1>Governação Corporativa</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Compliance/compliance.aspx?sidc=2652&amp;idc=11690&amp;idsc=11692&amp;idl=1>Compliance</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=11690&amp;idsc=12272&amp;idl=1>Políticas</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=11690&amp;idsc=13336&amp;idl=1>Fundo de Garantia de Depósitos</a>
+                                
+                            </li>
+                        
+                            </ul>
+                        
+                </li>
+            
+                <li>
+                    <a href="#">Responsabilidade Social</a>
+                    
+                            <ul>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2852&amp;idsc=14682&amp;idl=1>Formação BFA Solidário</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2852&amp;idsc=13416&amp;idl=1>BFA Patrocinador da Ambição</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/ListaNoticias.aspx?sidc=2652&amp;idc=2852&amp;idsc=7011&amp;idl=1>Projectos </a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2852&amp;idsc=13342&amp;idl=1>BFA Patrocinador da Emoção</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2852&amp;idsc=2860&amp;idl=1>Fundo Social BFA</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2852&amp;idsc=13317&amp;idl=1>BFA Patrocinador da Alegria</a>
+                                
+                            </li>
+                        
+                            </ul>
+                        
+                </li>
+            
+                <li>
+                    <a href="#">Trabalhar no BFA</a>
+                    
+                            <ul>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2853&amp;idsc=13372&amp;idl=1>#Futuro BFA</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Empregos/OfertaEmpregos.aspx?sidc=2652&amp;idc=2853&amp;idsc=2864&amp;idl=1>Ofertas de Emprego</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Empregos/Candidatura.aspx?sidc=2652&amp;idc=2853&amp;idsc=2865&amp;idl=1>Candidatura Espontânea</a>
+                                
+                            </li>
+                        
+                            </ul>
+                        
+                </li>
+            
+                <li>
+                    <a href="#">Sala de Imprensa</a>
+                    
+                            <ul>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/ListaNoticias.aspx?sidc=2652&amp;idc=2655&amp;idsc=2755&amp;idl=1>Notícias BFA</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2655&amp;idsc=13507&amp;idl=1>Site BFA Turismo</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Servicos/Instrutivos.aspx?sidc=2652&amp;idc=2655&amp;idsc=3081&amp;idl=1>Regulamentação</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Servicos/research.aspx?sidc=2652&amp;idc=2655&amp;idsc=2963&amp;idl=1>Publicações </a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/All/lista.aspx?sidc=2652&amp;idc=2655&amp;idsc=2854&amp;idl=1>Media Kit</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Servicos/SalaImprensa.aspx?sidc=2652&amp;idc=2655&amp;idsc=2964&amp;idl=1>Canal BFA</a>
+                                
+                            </li>
+                        
+                            </ul>
+                        
+                </li>
+            
+                </ul>
+            
+    </nav>
+    <div id="search" class="simple-search">
+        <input id="idc" type="hidden" name="idc" value="2656" />
+        <input id="idl" type="hidden" name="idl" value="1" />
+        <input id="minSearchSize" type="hidden" value="3" />
+        <input id="minWarning" type="hidden" value="Apenas pode efectuar pesquisas com um mínimo de 3 caracteres." />
+        <fieldset>
+            <legend class="hidden">Pesquisa Simples</legend>
+           
+            <input type="text" name="search" id="pesq" onkeypress="javascript:onEnterSearch(event,'/Servicos/pesquisa.aspx');" placeholder="Pesquisa" />
+            <span data-icon="&#x21;"><input type="submit" value="ok" onclick="javascript:searchSubmit('/Servicos/pesquisa.aspx');" /></span>
+        </fieldset>
+    </div>
+    <!-- Init Board Section -->
+    <div id="board">
+        <!-- MENU EU QUERO -->
+        <nav id="menu-links">
+            
+                    <ul>
+                        <li><a href="#">EU QUERO
+                        <span data-icon="&#x25;"></span></a> 
+                        <div class="wraper"><div>
+                
+                    <dl>
+                        <dt><!--
+                            -->Trabalhar no BFA</dt>
+                        
+                            
+                                <dd>
+                                    <span data-icon="&#x24;"></span><!--
+                                    --><!--
+--><a href="/Conteudos/Empregos/Candidatura.aspx?sidc=2652&amp;idc=2862&amp;idsc=2865&amp;idl=1"   >Enviar curriculum</a>
+                                </dd>
+                            
+                                <dd>
+                                    <span data-icon="&#x24;"></span><!--
+                                    --><!--
+--><a href="/Conteudos/Empregos/OfertaEmpregos.aspx?sidc=2652&amp;idc=2865&amp;idsc=2864&amp;idl=1"   >Consultar ofertas de emprego</a>
+                                </dd>
+                            
+                            
+                    </dl>
+                
+                    <dl>
+                        <dt><!--
+                            -->Info Financeira</dt>
+                        
+                            
+                                <dd>
+                                    <span data-icon="&#x24;"></span><!--
+                                    --><!--
+--><a href="/Servicos/InformacaoFinanceira.aspx?sidc=2652&amp;idc=2864&amp;idsc=2962&amp;idl=1"   >Ver Relatório e Contas</a>
+                                </dd>
+                            
+                            
+                    </dl>
+                
+                    <dl>
+                        <dt><!--
+                            -->Falar com BFA</dt>
+                        
+                            
+                                <dd>
+                                    <span data-icon="&#x24;"></span><!--
+                                    --><!--
+--><a href="/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2962&amp;idsc=2854&amp;idl=1&amp;idi=7002"   >Fazer uma entrevista</a>
+                                </dd>
+                            
+                                <dd>
+                                    <span data-icon="&#x24;"></span><!--
+                                    --><!--
+--><a href="/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2962&amp;idsc=2854&amp;idl=1&amp;idi=7003"   >Fazer uma pesquisa</a>
+                                </dd>
+                            
+                                <dd>
+                                    <span data-icon="&#x24;"></span><!--
+                                    --><!--
+--><a href="/Servicos/sugestoes.aspx?sidc=2652&amp;idc=2900&amp;idl=1"   >Fazer sugestão/reclamação</a>
+                                </dd>
+                            
+                            
+                    </dl>
+                
+                    </div> </div> </li> </ul>
+                
+        </nav>
+        <div id="login" class="quick-access tabs">
+            <ul>
+                <li  class="current" ><a href="#users" title="Login Particulares">Particulares</a></li>
+                <li ><a href="#company" title="Login Empresas">Empresas</a></li>
+            </ul>
+            <article id="users"  class="show-tab"  >
+                <form action="#">
+                <fieldset>
+                    <legend class="hidden">Login Users</legend>
+                    <h1>
+                        BFA Net</h1>
+                    <label for="login-users" class="hidden">
+                        Nome/Nº Adesão</label>
+                    <input type="text" name="name" id="login-users" />
+                    <span class="button" data-icon="&#x24;" id="submitParticulares">
+                        
+                    </span>
+                </fieldset>
+                </form>
+                
+                        <!--
+--><a href="/Conteudos/All/lista.aspx?sidc=2652&amp;idc=2743&amp;idl=1"   >Recomendações de Segurança</a><!--
+                                        --><span data-icon="&#x24;"></span>
+                    
+                </article>
+            <article id="company"  class="hide-tab" >
+                <form action="#">
+                <fieldset>
+                    <legend class="hidden">Login Empresas</legend>
+                    <h1>
+                        BFA Net Empresas</h1>
+                    <label for="login-company" class="hidden">
+                        Nome/Nº Adesão</label>
+                    <input type="text" name="name" id="login-company" />
+                    <span class="button" data-icon="&#x24;" id="submitEmpresas">
+                        
+                    </span>
+                </fieldset>
+                </form>
+                
+                        <!--
+--><a href="/Conteudos/All/lista.aspx?sidc=2652&amp;idc=2743&amp;idl=1"   >Recomendações de Segurança</a><!--
+                                        --><span data-icon="&#x24;"></span>
+                    
+                </article>
+        </div>
+         
+                <div class='quick-access'>
+                <h2>
+                        Quero ser Cliente</h2>
+                        
+                    
+                            <a href='/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2736&amp;idl=1' >Quero abrir uma conta</a><span data-icon='$'></span>
+                        
+                </div>
+            
+                <div class='quick-access'>
+                <h2>
+                        Simule aqui</h2>
+                        
+                    
+                            <a href='/Simuladores/Simuladores.aspx?sidc=2652&amp;idc=2740&amp;idl=1' ><span class="button" data-icon="&#x26;"></span>Calcule o valor das suas prestações.</a>
+                        
+                </div>
+            
+                <div class='quick-access-contact'>
+                <h2>
+                        Fale connosco</h2>
+                        
+                    
+                            <h3>Linha de Atendimento BFA</h3><h4>923 120 120</h4>
+                        
+                            <a href='mailto:bfa@bfa.ao?sidc=2652&amp;idc=9036&amp;idl=1' onmousedown="ga('send', 'event', 'fale conosco', 'envie um email');" >Envie-nos um email</a><span data-icon='$'></span>
+                        
+                </div>
+            
+    </div>
+    <!-- End Board Section -->
+</header>
+<!-- End Header -->
+<script type="text/javascript">
+
+
+
+    $("#login-users").keypress(function (event) {
+        if (event.which == 13) {
+            ga('send', 'event', 'acesso ao BFA Net', 'login');
+            event.preventDefault();
+            window.open('', '_new').location.href = "https://www.bfanet.ao/#" + $("#login-users").val();
+        }
+    });
+
+    $("#login-company").keypress(function (event) {
+        if (event.which == 13) {
+            ga('send', 'event', 'acesso ao BFA Net', 'login');
+            event.preventDefault();
+            window.open('', '_new').location.href = "https://www.bfanetempresas.ao/#" + $("#login-company").val();
+        }
+    });
+    
+
+
+    $(function () {
+        var params = [
+            'height=' + screen.height,
+            'width=' + screen.width
+        ].join(',');
+
+        $("#submitParticulares").click(function (event) {
+            ga('send', 'event', 'acesso ao BFA Net', 'login');
+            event.preventDefault();
+            window.open('', '_new').location.href = "https://www.bfanet.ao/#" + $("#login-users").val();
+        });
+
+        $("#submitEmpresas").click(function (event) {
+            ga('send', 'event', 'acesso ao BFA Net', 'login');
+            event.preventDefault();
+            window.open('', '_new').location.href = "https://www.bfanetempresas.ao/#" + $("#login-company").val();
+        });
+
+    });
+</script>
+
+        <div class="breadcrumb"><dl><dt>Página de entrada</dt><dd><span data-icon="$"></span><a href="/default.aspx?sidc=2652&amp;idc=2655&amp;idsc=2652&amp;idl=1">O BFA</a></dd><dd><span data-icon="$"></span>Sala de Imprensa</dd><dd><span data-icon="$"></span>Regulamentação</dd></dl></div>
+
+        
+        
+        
+        <div id="focus" class="subareas">
+            
+                <div id="slider" class="container">
+                    <ul id="items">
+    
+        <li style="background-image: url(/upl/{4d32f9e3-f2d6-41c0-9392-a2d5af1bee18}.png); height:310px;"><div class="wrapper"><div><h2></h2><h1>Regulamentação</h1><p>Conheça a legislação financeira</p></div></div></li>
+    
+        </ul> </div>
+        <div id="navigation-wrapper">
+            
+        </div>
+        </div>
+    
+
+<div class="overlay"></div>
+<a class="close-btn" data-icon="&#x58;">Fechar</a>
+<div class="lightbox"></div>
+
+
+        
+<div id="content">
+    <!-- Init Left Side -->
+    <div id="main">
+        <article class="detail">
+            <header class="header">
+                <h2>Regulamentação</h2>
+                <p></p>
+                
+<nav id="textsize">
+    <dl>
+        <dt class="hidden">Text size</dt>
+        <dd id="font-decrease"><a href="#" class="current">A<span class="hidden"> - mudar para o tamanho de fonte normal</span></a></dd>
+        <dd id="font-reset" class="current"><a href="#">A<span class="hidden"> - mudar para um tamanho de fonte maior </span></a></dd>
+        <dd id="font-increase"><a href="#">A<span class="hidden"> - mudar para um tamanho de fonte ainda maior</span></a></dd>
+    </dl>
+</nav>
+            </header>
+            <div class="instructional">
+                <form method="post" action="#" id="ctl00">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+                    
+                            <header class="choose">
+                                <ul>
+                                    <li>
+                                        <div>
+                                            <p><strong>Tipo de documento</strong></p>
+                                            <div class="drop-style selector" data-icon="%"> 
+                                                <span id="ctl00_ctl01_docSelected" class="drop-selected"></span>
+                                                <ul id="docs" class="drop-list">
+                                                    <li id="" class="Regulamentacao">Todos</li><li id="1" class="Regulamentacao">Instrutivos</li><li id="2" class="Regulamentacao">Avisos</li><li id="3" class="Regulamentacao">Directivas</li><li id="4" class="Regulamentacao">Leis</li><li id="5" class="Regulamentacao">Decretos</li>
+                                                </ul>
+                                                <input name="ctl00$ctl01$docText" type="hidden" id="ctl00_ctl01_docText" class="drop-text" value="Todos" />
+                                                <input name="ctl00$ctl01$docValue" type="hidden" id="ctl00_ctl01_docValue" class="drop-value" />
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div>
+                                            <p><strong>Ano</strong></p>
+                                            <div class="drop-style selector" data-icon="%"> 
+                                                <span id="ctl00_ctl01_anoSelected" class="drop-selected"></span>
+                                                <ul id="anos" class="drop-list">
+                                                    <li id="Todos">Todos</li><li id="2021">2021</li><li id="2020">2020</li><li id="2019">2019</li><li id="2018">2018</li><li id="2017">2017</li><li id="2016">2016</li><li id="2015">2015</li><li id="2014">2014</li><li id="2013">2013</li><li id="2012">2012</li><li id="2011">2011</li><li id="2010">2010</li>
+                                                </ul>
+                                                <input name="ctl00$ctl01$anoText" type="hidden" id="ctl00_ctl01_anoText" class="drop-text" value="Todos" />
+                                                <input name="ctl00$ctl01$anoValue" type="hidden" id="ctl00_ctl01_anoValue" class="drop-value" value="Todos" />
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="last">
+                                        <div class="simple-search">
+                                            <fieldset >
+                                                <legend class="hidden">Pesquisa</legend>
+                                                <label for="textInput"></label>
+                                                <input name="ctl00$ctl01$textInput" type="text" id="ctl00_ctl01_textInput" />
+                                                <div class="submitbtn-orange">
+                                                    <div class="button" data-icon="$">
+                                                        <label>Pesquisar</label>
+                                                        <input class="skipThese" type="submit" id="BtnPesquisa" value="Pesquisar" />
+                                                        <a id="ctl00_ctl01_Pesquisar" href="javascript:__doPostBack(&#39;ctl00$ctl01$Pesquisar&#39;,&#39;&#39;)" style="display: none"></a>
+                                                    </div>
+                                                </div>
+                                            </fieldset>
+                                        </div>
+                                    </li>
+                                </ul>   
+                            </header>
+                            <article class="instructional-list">
+                                
+                                        <ul>
+                                    
+                                            <li class='no-border'>
+                                                <a href="/Conteudos/Medias/Download.aspx?sidc=2652&idc=3081&idl=1&idi=7016" ><h3><strong class="orange">INSTRUTIVO Nº 02/2012 </strong></h3><p>Regras de constituição e funcionamento das casas de câmbios</p></a>
+                                            </li>
+                                    
+                                            <li class='no-border'>
+                                                <a href="/Conteudos/Medias/Download.aspx?sidc=2652&idc=3081&idl=1&idi=8011" ><h3><strong class="orange">INSTRUTIVO Nº 03/2012 </strong></h3><p>Sistema de pagamentos e especificações do cheque normalizado</p></a>
+                                            </li>
+                                    
+                                            <li class='no-border'>
+                                                <a href="/Conteudos/Medias/Download.aspx?sidc=2652&idc=3081&idl=1&idi=8012" ><h3><strong class="orange">INSTRUTIVO Nº 05/2012 </strong></h3><p>Cheque normalizado, Produção, Transporte e Armazenamento</p></a>
+                                            </li>
+                                    
+                                            <li >
+                                                <a href="/Conteudos/Medias/Download.aspx?sidc=2652&idc=3081&idl=1&idi=8016" ><h3><strong class="orange">INSTRUTIVO Nº 07/2012 </strong></h3><p>Sistema de pagamento em tempo real</p></a>
+                                            </li>
+                                    
+                                            <li >
+                                                <a href="/Conteudos/Medias/Download.aspx?sidc=2652&idc=3081&idl=1&idi=8151" ><h3><strong class="orange">INSTRUTIVO Nº 04/ 2013 </strong></h3><p>Casas de Câmbio - Regras operacionais</p></a>
+                                            </li>
+                                    
+                                            <li >
+                                                <a href="/Conteudos/Medias/Download.aspx?sidc=2652&idc=3081&idl=1&idi=8157" ><h3><strong class="orange">INSTRUTIVO Nº 05/ 2013 </strong></h3><p>Mercado Monétario Interbancário - MMI Operações de cedênca de liquidez dos Bancos de desenvolvimento</p></a>
+                                            </li>
+                                    
+                                            <li >
+                                                <a href="/Conteudos/Medias/Download.aspx?sidc=2652&idc=3081&idl=1&idi=8158" ><h3><strong class="orange">AVISO Nº 01 /2012</strong></h3><p>Termos e condições para entrada e saida de moeda nacional e estrangeira</p></a>
+                                            </li>
+                                    
+                                            <li >
+                                                <a href="/Conteudos/Medias/Download.aspx?sidc=2652&idc=3081&idl=1&idi=8159" ><h3><strong class="orange">AVISO Nº 02/2012</strong></h3><p>Prazos para a execução de transferências e remessas de valores</p></a>
+                                            </li>
+                                    
+                                            <li >
+                                                <a href="/Conteudos/Medias/Download.aspx?sidc=2652&idc=3081&idl=1&idi=8160" ><h3><strong class="orange">AVISO Nº 03/2012</strong></h3><p>Classificação das operações de crédito pelas Instituições Financeiras</p></a>
+                                            </li>
+                                    
+                                            <li >
+                                                <a href="/Conteudos/Medias/Download.aspx?sidc=2652&idc=3081&idl=1&idi=8161" ><h3><strong class="orange">AVISO Nº 04/ 2012</strong></h3><p>Regras à manutenção de solvabilidade em corporatias de crédito</p></a>
+                                            </li>
+                                    
+                                            <li >
+                                                <a href="/Conteudos/Medias/Download.aspx?sidc=2652&idc=3081&idl=1&idi=8162" ><h3><strong class="orange">AVISO Nº 05/2012</strong></h3><p>Regras de protecção ao consumidor de produtos e serviços financeiros em Angola</p></a>
+                                            </li>
+                                    
+                                            <li >
+                                                <a href="/Conteudos/Medias/Download.aspx?sidc=2652&idc=3081&idl=1&idi=8163" ><h3><strong class="orange">AVISO Nº 06/2012</strong></h3><p>Padrões para o exercício do serviço de remessas de valores em Angola</p></a>
+                                            </li>
+                                    
+                                        </ul>
+                                        
+                                    
+                            </article>
+                            <nav class="pagination"><ul class="pages"><li class="current">1</li><li>/<a href="2">2</a>/</li><li><a href="3">3</a>/</li><li class="next"><a href="2">Seguinte</a></li></ul></nav>
+                            <input type="hidden" name="ctl00$ctl01$currentResultsViewPage" id="ctl00_ctl01_currentResultsViewPage" value="1" />
+                            <input type="hidden" name="ctl00$ctl01$textToSearch" id="ctl00_ctl01_textToSearch" />
+                            <a id="ctl00_ctl01_NovaPagina" href="javascript:__doPostBack(&#39;ctl00$ctl01$NovaPagina&#39;,&#39;&#39;)" style="display: none">Nova Pagina</a>
+                        
+                
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="221E88B6" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="nZ2JfvpED6AsU8VR9FPNun0SaBKKMq0xDeJUIA7giJtBiFHqIl4os3k5foiL4BWp9M4GSddRj7VOFoxJvbZgU5y3Qn56EZhRI9Ujc6h6uw1xBQNfOVVJViiQhWgmM9gMD51MKi7UV0S1t22WUDiEeHi9fjw/B6SYfoTbHfATuVyGsFj3OEgVp2AlAkhBGxSWFVrapa/9+rpM71583B7sDstczTqV5LI+6FcR0/HRqlcvhvYAFi9FNoyyZQsFBfK+yZa68ASIDXzDU37SGQtguXPoDMG//i/wdt9mXq1TTXYWfNQwdhYaa+u9J8QksSIp" />
+</div></form>
+            </div>
+            <footer class="clearfix">
+             
+            </footer>
+        </article>
+    </div>
+    <!-- End Left Side -->
+    <!-- Init Right Side -->
+    
+<aside id="aside">
+
+        <div class="linklist">
+            <dl>
+                <dt>
+                    
+                    BFA Net
+                </dt>
+                
+                        <dd>
+                            <span data-icon="$"></span>
+                            <a href=/Conteudos/Artigos/detalhe.aspx?sidc=2649&idc=3031&idsc=2691&idl=1&idi=2991>Como Aderir</a>
+                        </dd>
+                    
+                        <dd>
+                            <span data-icon="$"></span>
+                            <a href=/Conteudos/Medias/Download.aspx?idi=6033>Contrato de Adesão</a>
+                        </dd>
+                    
+                        <dd>
+                            <span data-icon="$"></span>
+                            <a href=/Servicos/PerguntasFrequentes.aspx?sidc=2649&idc=2715&idl=1&idFaq=6060>Perguntas Frequentes</a>
+                        </dd>
+                    
+            </dl>
+        </div>
+    
+        <div class="linklist">
+            <dl>
+                <dt>
+                    
+                    BFA SMS
+                </dt>
+                
+                        <dd>
+                            <span data-icon="$"></span>
+                            <a href=/Conteudos/Artigos/detalhe.aspx?sidc=2649&idc=0&idsc=2692&idl=1&idi=2997>Como Aderir</a>
+                        </dd>
+                    
+                        <dd>
+                            <span data-icon="$"></span>
+                            <a href=/Conteudos/Artigos/detalhe.aspx?sidc=2649&idc=0&idsc=2692&idl=1&idi=2996>Códigos SMS</a>
+                        </dd>
+                    
+                        <dd>
+                            <span data-icon="$"></span>
+                            <a href=/Servicos/PerguntasFrequentes.aspx?sidc=2649&idc=2715&idl=1&idFaq=6062>Perguntas Frequentes</a>
+                        </dd>
+                    
+            </dl>
+        </div>
+    
+        <div class="linklist">
+            <dl>
+                <dt>
+                    
+                    No Estrangeiro
+                </dt>
+                
+                        <dd>
+                            <span data-icon="$"></span>
+                            <a href=/Servicos/PerguntasFrequentes.aspx?idc=2715&idsc=0&idl=1&idFaq=8153&nq=2>Perda ou extravio de Cartão</a>
+                        </dd>
+                    
+                        <dd>
+                            <span data-icon="$"></span>
+                            <a href=/Servicos/PerguntasFrequentes.aspx?idc=2715&idsc=0&idl=1&idFaq=8153&nq=3>Perda de Código BFA Net</a>
+                        </dd>
+                    
+                        <dd>
+                            <span data-icon="$"></span>
+                            <a href=/Servicos/PerguntasFrequentes.aspx?idc=2715&idsc=0&idl=1&idFaq=8153&nq=1>Como Contactar o BFA</a>
+                        </dd>
+                    
+                        <dd>
+                            <span data-icon="$"></span>
+                            <a href=/Servicos/PerguntasFrequentes.aspx?idc=2715&idsc=0&idl=1&idFaq=8153>Perguntas Frequentes</a>
+                        </dd>
+                    
+            </dl>
+        </div>
+    
+
+</aside>
+<a class="close-btn" data-icon="&#x58;">
+    Fechar</a>
+<div class="overlay">
+</div>
+<div class="lightbox">
+</div>
+
+    <!-- End Right Side -->
+</div>
+<div class="modalParent">
+    <div class="modal">
+    </div>
+</div>
+
+<script type="text/javascript">
+    var minSearchCharacters = 3;
+
+    $(function() {
+        initBody();
+        stopLoading();
+    });
+
+    function bindDroplist() {
+        var obj = '.drop-style';
+
+        $(this).parents(obj).find('.drop-selected').text($(this).text());
+        $(this).parents(obj).find('.drop-text').val($(this).text());
+        $(this).parents(obj).find('.drop-value').val($(this).attr('id'));
+        $(this).parent().slideUp();
+    }
+
+    function setDocOnInit() {
+        var li = $('#docs li').filter(function() {
+            return $(this).text().indexOf($('#ctl00_ctl01_docText').val()) === 0;
+        });
+
+        $('#ctl00_ctl01_docValue').val(li.attr('id'));
+    }
+
+    function search(event) {
+        event.preventDefault();
+
+        $('#ctl00_ctl01_textToSearch')[0].value = $('#ctl00_ctl01_textInput')[0].value;
+        __doPostBack('ctl00_ctl01_Pesquisar','');
+        startLoading();
+    }
+
+    function initBody() {
+        setDocOnInit();
+        
+        $('.drop-list li').bind('click', bindDroplist);
+        
+        $("#docs li").on("click", search);
+        $("#anos li").on("click", search);
+
+        $('#BtnPesquisa').on("click", function (event) {
+            event.preventDefault();
+
+            var numCharacters = $('#ctl00_ctl01_textInput')[0].value.length;
+            if(numCharacters >= minSearchCharacters || numCharacters == 0) {
+                $('#ctl00_ctl01_textToSearch')[0].value = $('#ctl00_ctl01_textInput')[0].value;
+                __doPostBack('ctl00_ctl01_Pesquisar','');
+                startLoading();
+            } else {
+                alert('Apenas pode efectuar pesquisas com um mínimo de 3 caracteres.');
+            }
+        });
+
+        $('nav.pagination ul li a').not('.current').on("click", function (event) {
+            event.preventDefault();
+
+            var textSelectedDoc = $('#ctl00_ctl01_docSelected').text();
+
+            $('#docs li:contains("' + textSelectedDoc + '")').click();
+            $('#ctl00_ctl01_currentResultsViewPage')[0].value = $(this).attr('href');
+
+            __doPostBack('ctl00$ctl01$NovaPagina', '');
+            startLoading();
+        });
+
+        $('.drop-style').each(function () {
+            var dropText = $(this).find('.drop-text').val();
+            var dropSelected = $(this).find('.drop-selected');
+            dropSelected.html(dropText);
+        });
+    }
+
+    function stopLoading() {
+        $("body").removeClass("loading");
+        $("#loading").css('display', 'none');
+    }
+
+    function startLoading() {
+        $("#loading").css('display', 'block');
+        $("body").addClass("loading");
+    }
+</script>
+
+        
+<!-- Init Footer -->
+<footer id="footer">
+    <nav id="other-links">
+        
+                <ul>
+            
+                <li>
+                    <!--
+--><a href="/Servicos/PerguntasFrequentes.aspx?sidc=2652&amp;idc=2715&amp;idl=1"   >Perguntas Frequentes</a>
+                </li>
+            
+                <li>
+                    <!--
+--><a href="/Servicos/RedeBalcoes.aspx?sidc=2652&amp;idc=2716&amp;idl=1"   >Rede de Balcões</a>
+                </li>
+            
+                <li>
+                    <!--
+--><a href="/Conteudos/Empregos/Candidatura.aspx?sidc=2652&amp;idc=2855&amp;idsc=2865&amp;idl=1"   >Ser Colaborador BFA</a>
+                </li>
+            
+                <li>
+                    <!--
+--><a href="/Servicos/sugestoes.aspx?sidc=2652&amp;idc=2718&amp;idl=1"   >Sugestão/Reclamação</a>
+                </li>
+            
+                <li>
+                    <!--
+--><a href="/Conteudos/Precarios/precarios.aspx?sidc=2652&amp;idc=9001&amp;idl=1"   >Preçário</a>
+                </li>
+            
+                <li>
+                    <!--
+--><a href="/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=10554&amp;idl=1"   >Contactos BFA</a>
+                </li>
+            
+                </ul>
+            
+        <!-- Icons Siga-nos -->
+        
+        
+        <dl>
+            <dt>Siga-nos em:</dt>
+    
+        <dd class="fb">
+        <a  href="https://www.facebook.com/Banco.BFA/" target="_blank"> <image src=" /upl/{1775280c-5eb0-4c12-8d73-5f4e82f2d0de}.png"></image></a>
+        </dd>
+    
+        <dd class="in">
+        <a  href="http://www.linkedin.com/company/40085?trk=tyah&trkInfo=tas%3Abfa" target="_blank"> <image src=" /upl/{b9c8c5e6-6ec0-4fad-87de-26e05c4dacca}.png"></image></a>
+        </dd>
+    
+        <dd class="yt">
+        <a  href="https://www.youtube.com/channel/UCZrPht3AQZZGglBp_piRS6Q" target="_blank"> <image src=" /upl/{85b59823-9d12-46f5-a8e9-7cded45a93ce}.png"></image></a>
+        </dd>
+    
+        </dl>
+    
+         <!-- //Icons Siga-nos -->
+    </nav>
+    
+            <nav id="site-links">
+                <div class="wraper">
+        
+            <dl>
+                <dt>Conheça o BFA</dt>
+                
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Servicos/RedeBalcoes.aspx?sidc=2652&amp;idc=2851&amp;idsc=2855&amp;idl=1>Onde Estamos</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2851&amp;idsc=11726&amp;idl=1>BFA 25 ANOS </a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2851&amp;idsc=12044&amp;idl=1>BFA 2 000 000 Clientes</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2851&amp;idsc=12366&amp;idl=1>BFA Banco do Ano em Angola</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2851&amp;idsc=13328&amp;idl=1>Prémios Bodiva</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2851&amp;idsc=14257&amp;idl=1>Prémio Melhor Expositor Expo Uíge</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2851&amp;idsc=14494&amp;idl=1>Parceria BFA e Afreximbank</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Medias/Download.aspx?sidc=2652&amp;idi=14831>BFA@glance</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/All/lista.aspx?sidc=2652&amp;idc=2851&amp;idsc=2856&amp;idl=1>Quem Somos</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2851&amp;idsc=2857&amp;idl=1>Orgãos Sociais</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Servicos/InformacaoFinanceira.aspx?sidc=2652&amp;idc=2851&amp;idsc=2962&amp;idl=1>Informação Financeira</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Servicos/Premios.aspx?sidc=2652&amp;idc=2851&amp;idsc=2859&amp;idl=1>Prémios</a></dd>
+                    
+                    
+            </dl>
+        
+            <dl>
+                <dt>Governação</dt>
+                
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Compliance/governacao.aspx?sidc=2652&amp;idc=11690&amp;idsc=11691&amp;idl=1>Governação Corporativa</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Compliance/compliance.aspx?sidc=2652&amp;idc=11690&amp;idsc=11692&amp;idl=1>Compliance</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=11690&amp;idsc=12272&amp;idl=1>Políticas</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=11690&amp;idsc=13336&amp;idl=1>Fundo de Garantia de Depósitos</a></dd>
+                    
+                    
+            </dl>
+        
+            <dl>
+                <dt>Responsabilidade Social</dt>
+                
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2852&amp;idsc=14682&amp;idl=1>Formação BFA Solidário</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2852&amp;idsc=13416&amp;idl=1>BFA Patrocinador da Ambição</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/ListaNoticias.aspx?sidc=2652&amp;idc=2852&amp;idsc=7011&amp;idl=1>Projectos </a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2852&amp;idsc=13342&amp;idl=1>BFA Patrocinador da Emoção</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2852&amp;idsc=2860&amp;idl=1>Fundo Social BFA</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2852&amp;idsc=13317&amp;idl=1>BFA Patrocinador da Alegria</a></dd>
+                    
+                    
+            </dl>
+        
+            <dl>
+                <dt>Trabalhar no BFA</dt>
+                
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2853&amp;idsc=13372&amp;idl=1>#Futuro BFA</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Empregos/OfertaEmpregos.aspx?sidc=2652&amp;idc=2853&amp;idsc=2864&amp;idl=1>Ofertas de Emprego</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Empregos/Candidatura.aspx?sidc=2652&amp;idc=2853&amp;idsc=2865&amp;idl=1>Candidatura Espontânea</a></dd>
+                    
+                    
+            </dl>
+        
+            <dl>
+                <dt>Sala de Imprensa</dt>
+                
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/ListaNoticias.aspx?sidc=2652&amp;idc=2655&amp;idsc=2755&amp;idl=1>Notícias BFA</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2652&amp;idc=2655&amp;idsc=13507&amp;idl=1>Site BFA Turismo</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Servicos/Instrutivos.aspx?sidc=2652&amp;idc=2655&amp;idsc=3081&amp;idl=1>Regulamentação</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Servicos/research.aspx?sidc=2652&amp;idc=2655&amp;idsc=2963&amp;idl=1>Publicações </a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/All/lista.aspx?sidc=2652&amp;idc=2655&amp;idsc=2854&amp;idl=1>Media Kit</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Servicos/SalaImprensa.aspx?sidc=2652&amp;idc=2655&amp;idsc=2964&amp;idl=1>Canal BFA</a></dd>
+                    
+                    
+            </dl>
+        
+            <dl>
+                <dt>Simuladores BFA</dt>
+                
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Simuladores/SimuladorPessoal.aspx?sidc=2652&amp;idc=2658&amp;idsc=2659&amp;idl=1>Crédito Pessoal</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Simuladores/SimuladorAuto.aspx?sidc=2652&amp;idc=2658&amp;idsc=2660&amp;idl=1>Crédito Automóvel</a></dd>
+                    
+                    
+            </dl>
+        
+            </div> </nav>
+        
+    
+        
+            <div id="disclaimer">
+        
+            Banco de Fomento Angola©2017. Todos os direitos reservados.<a href="/Conteudos/Artigos/detalhe.aspx?sidc=2652&idc=3081&idsc=3081&idl=1&idi=6576">Termos e condições</a>
+        
+            </div>
+        
+    
+</footer>
+<!-- End Footer -->
+
+    </div>
+    <script src="/inc/js/jquery.min.js"></script>
+    <script type="text/javascript"> var switchTo5x = false;</script>
+    <script type="text/javascript"> window.jQuery || document.write('<script src="/inc/js/jquery-1.8.3.min.js"><\/script>')</script> 
+    <script src="/inc/js/jquery.tools-1.2.7.min.js" language="javascript" type="text/javascript" ></script>
+    <script  src="/inc/js/jquery.easing.min.js" language="javascript" type="text/javascript" ></script>
+    
+    <script src="/inc/js/jquery_uniform_js.aspx" language="javascript" type="text/javascript" ></script>
+    <script  src="/inc/js/bfa_ui.js" language="javascript" type="text/javascript" ></script>
+    <script src="/inc/js/main.js" language="javascript" type="text/javascript" ></script>
+      <script src="/inc/js/jquery.cookie.js" ></script>
+</body>
+
+</html>

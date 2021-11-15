@@ -1,0 +1,37 @@
+
+#!/usr/bin/env bash
+#-----------------------------------------
+# Script    : Checa o PID 
+# Descricao : Compara o PID do script e do Shell no terminal
+# Versao    : 0.1 
+# Autor     : José Cabral <cabralzay@gmail.com>
+# Data      : 04/10/2021 
+# Licença   : GNU/GPL v.30
+#------------------------------------------
+# Uso:  ./caminho/checa_pid ou ./checa_pid
+#------------------------------------------
+
+
+# ps -p $PPID
+# (-o) = argumentos a passar en el comando
+# ps -p $$,$PPID -o pid,user,tty,args (com cabeçallo)
+# ps -p $$,$PPID -o pid=,user=,tty=,args= (sin cabeçalho)
+
+
+clear 
+
+
+sep="---------------------------------------------------------"
+
+echo "$sep
+COMPARANDO PID DAS SESSOES DO BASH NO TERMINAL
+$sep
+PID da sessao do Bash no scropt  : $$
+PID da sessao do Bash no terminal: $PPID
+$sep
+$(ps -p $$,$PPID -o pid=,user=,tty=,args=)
+$sep
+
+"
+
+exit 0

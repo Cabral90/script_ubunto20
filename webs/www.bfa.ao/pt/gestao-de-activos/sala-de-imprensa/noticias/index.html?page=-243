@@ -1,0 +1,752 @@
+
+
+<!DOCTYPE html>
+<html lang="pt" class="no-js" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta charset="utf-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" href="/images/favicons/favicon.ico">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/images/favicons/site.webmanifest">
+    <link rel="mask-icon" href="/images/favicons/safari-pinned-tab.svg" color="#d5a45b">
+    <meta name="msapplication-TileColor" content="#ff7607">
+    <meta name="theme-color" content="#ffffff">
+
+
+    
+<title>Not&#237;cias</title>
+<meta name="description" content="" />
+<link rel="http://www.bfa.ao/images/image-share.jpg" href="http://www.bfa.ao/images/image-share.jpg" type="image/jpeg" />
+<meta property="og:type" content="website" />
+
+<meta property="og:title" content="Not&#237;cias" />
+
+<meta property="og:description" content="" />
+
+<meta property="og:image" content="http://www.bfa.ao/images/image-share.jpg" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="600" />
+<meta property="og:image:type" content="image/jpeg" />
+
+<meta property="og:site_name" content="BFA" />
+
+<meta property="og:url" content="http://localhost/pt/gestao-de-activos/sala-de-imprensa/noticias/?page=-243" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Hind:300,400,700" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+<link rel="stylesheet" href="/css/bfa-app-c0d80d7ee5.min.css">
+
+
+    <!-- ADPPORTBFAAPP1 -->
+
+    <!--Google Tag Manager -->
+    <script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-WQLLT9P');</script> <!--End Google Tag Manager -->
+</head>
+<body class="" data-lang="pt" data-id="3685" data-homepage-id="2981" data-page-type="list"
+      data-detail-type="" data-theme="personal" data-device="mobile"
+      data-key="AIzaSyA2WiEZMJcDl4sexkFGbP0J5hSKYCUl3i0">
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WQLLT9P" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!--End Google Tag Manager (noscript) -->
+    <div class="menu-top menu-top-mobile js-mobile-menu-top">
+        <div class="container-fluid">
+            <button data-action="openSegments" class="btn btn-segments">
+                <span class="text">Gest&#227;o de Activos</span>
+                <span class="icon icon-arrow-fill-down"></span>
+            </button>
+            <div class="menu-top-main  js-menu-top-main">
+                <ul class="js-menu-items">
+                                <li><a class="menu-item js-menu-item " href="/pt/particulares/"><span class="text">Particulares</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/empresas/"><span class="text">Empresas</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/centros-investimento/"><span class="text">Centros de Investimento</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/private-banking/"><span class="text">Private Banking</span></a></li>
+            <li><a class="menu-item js-menu-item is-active" href="/pt/gestao-de-activos/"><span class="text">BFA Gest&#227;o de Activos</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/o-bfa/"><span class="text">O BFA</span></a></li>
+
+                </ul>
+            </div>
+
+            <div class="menu-right">
+                <ul>
+                    <li>
+                        <a class="menu-item js-menu-item bold" href="https://www.bfanet.ao/" target="_blank"><span class="text">BFA NET</span><i class="icon icon-lock"></i></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="js-bgTopOverlay bg-menutop-overlay"></div>
+    <div class="navigation-mobile js-mobile-navigation">
+        <div class="navbar js-navbar">
+            <div class="container-fluid">
+                <div class="logo"><a href="/pt/gestao-de-activos/"><img src="/images/logos/logo-mobile.svg" alt="BFA"></a></div>
+                <div class="navigation-right js-buttonsNav">
+                    <button class="btn-menu hamburger hamburger--spring js-hamburger" data-action="toggleMenu"><span class="hamburger-box"><span class="hamburger-inner"></span></span> Menu</button>
+
+                    <div class="ctn-search js-searchWrapper">
+                        <div class="ctn-input js-search"> <input type="text" class="input js-input"> <button class="doSearch js-doSearch" data-action="doSearch" data-search-url="/pt/gestao-de-activos/pesquisa/?term=" type="button"><i class="icon icon-search"></i></button> </div>
+                        <button class="btn-search js-toggleSearch" data-action="toggleSearch">
+
+                            <span class="icon icon-search"></span>
+
+                        </button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="panels-container js-nav">
+            <div class="nav-helper">
+                <div class="js-helper-menu menu">MENU</div>
+                <button class="js-helper-back back" data-action="menuBack" data-zindex="0"><span class="icon icon-arrow-special-left"></span> <span class="text" data-text="Voltar ao Menu">Voltar ao Menu</span></button>
+                <div class="js-helper-lang menu-lang">
+                    <button class="btn-lang" data-action="toggleLang"> <span class="text">PT</span><i class="icon icon-arrow-fill-down"></i></button>
+                    
+<ul class="menu-lang-list js-menuLang">
+            <li class="is-active">Portugu&#234;s</li>
+            <li><a href="/en/">English</a></li>
+</ul>
+                </div>
+            </div>
+
+            <div class="panels js-mobilePanels">
+                    <!-- MenuMainTopMobile -->
+    <!-- GO -->
+    <div class="panel js-mobilePanel is-active" data-parent-id="0">
+        <ul class="nav">
+                    <li data-id="1">
+                        <span class="menu-item js-menu-item " data-action="openChilds" data-id="1">
+                            <span class="text">Conhe&#231;a a BFA GA</span>
+                            <span class="icon icon-arrow-right"></span>
+                        </span>
+                    </li>
+                    <li data-id="3">
+                        <span class="menu-item js-menu-item " data-action="openChilds" data-id="3">
+                            <span class="text">Fundos sob gest&#227;o</span>
+                            <span class="icon icon-arrow-right"></span>
+                        </span>
+                    </li>
+                    <li data-id="4">
+                        <span class="menu-item js-menu-item  is-active" data-action="openChilds" data-id="4">
+                            <span class="text">Sala de Imprensa</span>
+                            <span class="icon icon-arrow-right"></span>
+                        </span>
+                    </li>
+        </ul>
+    </div>
+    <!-- GO -->
+    <div class="panel js-mobilePanel " data-parent-id="1">
+        <ul class="nav">
+                    <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/conheca-o-bfa-ga/quem-somos/" data-id="11" target="_self"><span class="text">Quem Somos</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/conheca-o-bfa-ga/a-nossa-trajectoria/" data-id="12" target="_self"><span class="text">A nossa traject&#243;ria</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/conheca-o-bfa-ga/orgaos-sociais/" data-id="14" target="_self"><span class="text">&#211;rg&#227;os Sociais</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/conheca-o-bfa-ga/informacao-financeira/" data-id="15" target="_self"><span class="text">Informa&#231;&#227;o Financeira</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/conheca-o-bfa-ga/areas-de-actividade/" data-id="16" target="_self"><span class="text">&#193;reas de Actividade</span></a></li>
+        </ul>
+    </div>
+    <!-- GO -->
+    <div class="panel js-mobilePanel " data-parent-id="3">
+        <ul class="nav">
+                    <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/fundos-sob-gestao/fundo-bfa-private/" data-id="31" target="_self"><span class="text">Fundo BFA Private</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/fundos-sob-gestao/fundo-bfa-private-ii/" data-id="32" target="_self"><span class="text">Fundo BFA Private II</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/fundos-sob-gestao/fundo-bfa-proteccao/" data-id="33" target="_self"><span class="text">Fundo BFA Protec&#231;&#227;o</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/fundos-sob-gestao/fundo-bfa-oportunidades-iv/" data-id="35" target="_self"><span class="text">Fundo BFA Oportunidades IV</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/fundos-sob-gestao/fundo-bfa-oportunidades-v/" data-id="36" target="_self"><span class="text">Fundo BFA Oportunidades V</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/fundos-sob-gestao/fundo-bfa-oportunidades-vi/" data-id="37" target="_self"><span class="text">Fundo BFA Oportunidades VI</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/fundos-sob-gestao/fundo-bfa-oportunidades-vii/" data-id="38" target="_self"><span class="text">Fundo BFA Oportunidades VII</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/fundos-sob-gestao/fundo-bfa-oportunidades-viii/" data-id="39" target="_self"><span class="text">Fundo BFA Oportunidades VIII</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/fundos-sob-gestao/fundo-bfa-oportunidades-ix/" data-id="310" target="_self"><span class="text">Fundo BFA Oportunidades IX</span></a></li>
+        </ul>
+    </div>
+    <!-- GO -->
+    <div class="panel js-mobilePanel " data-parent-id="4">
+        <ul class="nav">
+                    <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/sala-de-imprensa/regulamentacao/" data-id="41" target="_self"><span class="text">Regulamenta&#231;&#227;o</span></a></li>
+                    <li> <a class="menu-item js-menu-item  is-active" href="/pt/gestao-de-activos/sala-de-imprensa/noticias/" data-id="42" target="_self"><span class="text">NOT&#205;CIAS BFA GA</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/sala-de-imprensa/publicacoes/" data-id="43" target="_self"><span class="text">Publica&#231;&#245;es</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/sala-de-imprensa/perguntas-frequentes/" data-id="44" target="_self"><span class="text">Perguntas Frequentes</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/contactos/" data-id="45" target="_self"><span class="text">Contacto BFA GA</span></a></li>
+        </ul>
+    </div>
+
+
+            </div>
+            <div class="js-crossSaleToMove crosssalesToMove">
+                    <!-- MenuMainTopCrossSales3Level -->
+    <h1>System.Collections.Generic.List`1[BFA.Core.Models.MenuMainTopModel]</h1>
+            <!-- 11 » 5436 » Quem Somos -->
+            <!-- 12 » 5478 » A nossa traject&#243;ria -->
+            <!-- 14 » 5446 » &#211;rg&#227;os Sociais -->
+            <!-- 15 » 3673 » Informa&#231;&#227;o Financeira -->
+            <!-- 16 » 8020 » &#193;reas de Actividade -->
+            <!-- 31 » 9829 » Fundo BFA Private -->
+            <!-- 32 » 14025 » Fundo BFA Private II -->
+            <!-- 33 » 5130 » Fundo BFA Protec&#231;&#227;o -->
+            <!-- 35 » 11176 » Fundo BFA Oportunidades IV -->
+    <!-- GO -->
+            <!-- 36 » 11291 » Fundo BFA Oportunidades V -->
+    <!-- GO -->
+            <!-- 37 » 11853 » Fundo BFA Oportunidades VI -->
+    <!-- GO -->
+            <!-- 38 » 13307 » Fundo BFA Oportunidades VII -->
+    <!-- GO -->
+            <!-- 39 » 13503 » Fundo BFA Oportunidades VIII -->
+    <!-- GO -->
+            <!-- 310 » 14065 » Fundo BFA Oportunidades IX -->
+    <!-- GO -->
+            <!-- 41 » 3488 » Regulamenta&#231;&#227;o -->
+            <!-- 42 » 3685 » NOT&#205;CIAS BFA GA -->
+            <!-- 43 » 5194 » Publica&#231;&#245;es -->
+            <!-- 44 » 5160 » Perguntas Frequentes -->
+            <!-- 45 » 3775 » Contacto BFA GA -->
+
+
+            </div>
+        </div>
+    </div>
+    <div class="menu-top menu-top-desktop js-desktop-menu-top">
+        <div class="container-fluid extend">
+            <div class="menu-top-main">
+                <ul class="">
+                                <li><a class="menu-item js-menu-item " href="/pt/particulares/"><span class="text">Particulares</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/empresas/"><span class="text">Empresas</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/centros-investimento/"><span class="text">Centros de Investimento</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/private-banking/"><span class="text">Private Banking</span></a></li>
+            <li><a class="menu-item js-menu-item is-active" href="/pt/gestao-de-activos/"><span class="text">BFA Gest&#227;o de Activos</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/o-bfa/"><span class="text">O BFA</span></a></li>
+
+                </ul>
+            </div>
+            <div class="menu-top-secundary">
+                <ul>
+                    <li class="menu-lang">
+                        <span class="menu-item" data-action="toggleLang"><span>Portugu&#234;s</span><i class="icon icon-arrow-fill-down"></i></span>
+                        
+<ul class="menu-lang-list js-menuLang">
+            <li class="is-active">Portugu&#234;s</li>
+            <li><a href="/en/">English</a></li>
+</ul>
+                    </li>
+
+                    <li> <a target="_blank" class="menu-item bold"><span></span><i class="icon icon-lock"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="navigation-desktop js-desktop-navigation">
+        <div class="backgrounds">
+            <div class="js-bgMenu bg-menu"></div>
+        </div>
+        <div class="container-fluid extend">
+            <div class="navigation-top">
+                <div class="logo"><a href="/pt/gestao-de-activos/"><img src="/images/logos/logo-mobile.svg" alt="BFA"></a></div>
+                <nav class="nav js-nav">
+                    <ul>
+                                    <li data-id="1">
+                <span class="menu-item js-menu-item " data-action="dropdown" data-id="1" ><span class="text">Conhe&#231;a a BFA GA</span><span class="icon icon-arrow-right"></span></span>
+            </li>
+            <li data-id="3">
+                <span class="menu-item js-menu-item " data-action="dropdown" data-id="3" ><span class="text">Fundos sob gest&#227;o</span><span class="icon icon-arrow-right"></span></span>
+            </li>
+            <li data-id="4">
+                <span class="menu-item js-menu-item  is-active" data-action="dropdown" data-id="4" ><span class="text">Sala de Imprensa</span><span class="icon icon-arrow-right"></span></span>
+            </li>
+
+                    </ul>
+                </nav>
+                <div class="navigation-right">
+                    <div class="ctn-search js-searchWrapper">
+                        <div class="ctn-input js-search">
+                            <input type="text" class="input js-input">
+                            <button class="doSearch js-doSearch" data-action="doSearch" data-search-url="/pt/gestao-de-activos/pesquisa/?term=" type="button"><i class="icon icon-search"></i></button>
+                        </div>
+                        <button class="btn-search js-toggleSearch" data-action="toggleSearch">
+                            <span class="text js-text">Pesquisar</span>
+                            <span class="icon icon-search"></span>
+                        </button>
+                    </div>
+
+
+                </div>
+            </div>
+            <div class="flyout js-flyout" data-minheight="390">
+                    <!-- MenuMainTopLevel2Desktop -->
+        <!-- 1 » Conhe&#231;a a BFA GA -->
+        <div class="nav-children js-navChildren" data-parent-id="1">
+            <ul>
+				            <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/conheca-o-bfa-ga/quem-somos/" data-id="11" data-preview-id=11 target="_self"><span class="text">Quem Somos</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/conheca-o-bfa-ga/a-nossa-trajectoria/" data-id="12" data-preview-id=12 target="_self"><span class="text">A nossa traject&#243;ria</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/conheca-o-bfa-ga/orgaos-sociais/" data-id="14" data-preview-id=14 target="_self"><span class="text">&#211;rg&#227;os Sociais</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/conheca-o-bfa-ga/informacao-financeira/" data-id="15"  target="_self"><span class="text">Informa&#231;&#227;o Financeira</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/conheca-o-bfa-ga/areas-de-actividade/" data-id="16" data-preview-id=16 target="_self"><span class="text">&#193;reas de Actividade</span></a></li>
+
+            </ul>
+        </div>
+        <!-- 3 » Fundos sob gest&#227;o -->
+        <div class="nav-children js-navChildren" data-parent-id="3">
+            <ul>
+				            <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/fundos-sob-gestao/fundo-bfa-private/" data-id="31" data-preview-id=31 target="_self"><span class="text">Fundo BFA Private</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/fundos-sob-gestao/fundo-bfa-private-ii/" data-id="32" data-preview-id=32 target="_self"><span class="text">Fundo BFA Private II</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/fundos-sob-gestao/fundo-bfa-proteccao/" data-id="33" data-preview-id=33 target="_self"><span class="text">Fundo BFA Protec&#231;&#227;o</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/fundos-sob-gestao/fundo-bfa-oportunidades-iv/" data-id="35" data-preview-id=35 target="_self"><span class="text">Fundo BFA Oportunidades IV</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/fundos-sob-gestao/fundo-bfa-oportunidades-v/" data-id="36" data-preview-id=36 target="_self"><span class="text">Fundo BFA Oportunidades V</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/fundos-sob-gestao/fundo-bfa-oportunidades-vi/" data-id="37" data-preview-id=37 target="_self"><span class="text">Fundo BFA Oportunidades VI</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/fundos-sob-gestao/fundo-bfa-oportunidades-vii/" data-id="38" data-preview-id=38 target="_self"><span class="text">Fundo BFA Oportunidades VII</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/fundos-sob-gestao/fundo-bfa-oportunidades-viii/" data-id="39" data-preview-id=39 target="_self"><span class="text">Fundo BFA Oportunidades VIII</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/fundos-sob-gestao/fundo-bfa-oportunidades-ix/" data-id="310" data-preview-id=310 target="_self"><span class="text">Fundo BFA Oportunidades IX</span></a></li>
+
+            </ul>
+        </div>
+        <!-- 4 » Sala de Imprensa -->
+        <div class="nav-children js-navChildren" data-parent-id="4">
+            <ul>
+				            <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/sala-de-imprensa/regulamentacao/" data-id="41"  target="_self"><span class="text">Regulamenta&#231;&#227;o</span></a></li>
+            <li> <a class="menu-item js-menu-item  is-active" href="/pt/gestao-de-activos/sala-de-imprensa/noticias/" data-id="42"  target="_self"><span class="text">NOT&#205;CIAS BFA GA</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/sala-de-imprensa/publicacoes/" data-id="43"  target="_self"><span class="text">Publica&#231;&#245;es</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/sala-de-imprensa/perguntas-frequentes/" data-id="44" data-preview-id=44 target="_self"><span class="text">Perguntas Frequentes</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/gestao-de-activos/contactos/" data-id="45" data-preview-id=45 target="_self"><span class="text">Contacto BFA GA</span></a></li>
+
+            </ul>
+        </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="js-bgOverlay bg-menu-overlay"></div>
+
+    
+
+        <!-- NO MODULES BUILDER NODE FOUND -->
+
+
+<div class="page-wrapper">
+	<div class="bg-light">
+		<div class="container-fluid">
+			<h2 class="title-page">Not&#237;cias</h2>
+			<div class="news-wrapper">
+				<div class="row">
+
+						<div class="col-sm-6 col-md-3">
+							<div class="last-news-thumb">
+								<a href="/pt/gestao-de-activos/sala-de-imprensa/noticias/fundo-bfa-oportunidade-ix-10092021/">
+									<div class="image" style="background-image: url(/media/3339/412984918-950x950.png?anchor=center&amp;mode=crop&amp;rnd=132757660340000000&amp;preset=newsList);" title="412984918 950x950"></div>
+									<p class="date">10 setembro</p>
+									<h4 class="title">Fundo BFA Oportunidade IX</h4>
+									<p class="description">Prorroga&#231;&#227;o do per&#237;odo de subscri&#231;&#227;o</p>
+									<div class="btn-underline solid-gray">Saiba mais</div>
+								</a>
+							</div>
+						</div>
+						<div class="col-sm-6 col-md-3">
+							<div class="last-news-thumb">
+								<a href="/pt/gestao-de-activos/sala-de-imprensa/noticias/fundo-bfa-oportunidades-ix/">
+									<div class="image" style="background-image: url(/media/3233/412984918-950x950.png?anchor=center&amp;mode=crop&amp;rnd=132730633270000000&amp;preset=newsList);" title="412984918 950x950"></div>
+									<p class="date">10 agosto</p>
+									<h4 class="title">Fundo BFA Oportunidades IX</h4>
+									<p class="description">Fundo de Investimento em Valores Mobili&#225;rios.</p>
+									<div class="btn-underline solid-gray">Saiba mais</div>
+								</a>
+							</div>
+						</div>
+						<div class="col-sm-6 col-md-3">
+							<div class="last-news-thumb">
+								<a href="/pt/gestao-de-activos/sala-de-imprensa/noticias/fundo-de-investimento-bfa-private-ii/">
+									<div class="image" style="background-image: url(/media/3221/site_950x950.png?anchor=center&amp;mode=crop&amp;rnd=132729695600000000&amp;preset=newsList);" title="SITE 950x950"></div>
+									<p class="date">08 agosto</p>
+									<h4 class="title">Fundo de Investimento BFA Private II</h4>
+									<p class="description">Diversifica&#231;&#227;o da sua carteira do investidor</p>
+									<div class="btn-underline solid-gray">Saiba mais</div>
+								</a>
+							</div>
+						</div>
+						<div class="col-sm-6 col-md-3">
+							<div class="last-news-thumb">
+								<a href="/pt/gestao-de-activos/sala-de-imprensa/noticias/fundo-bfa-private-05082021/">
+									<div class="image" style="background-image: url(/media/2264/950x950.png?anchor=center&amp;mode=crop&amp;rnd=132324718210000000&amp;preset=newsList);" title="950x950"></div>
+									<p class="date">04 agosto</p>
+									<h4 class="title">Fundo BFA Private </h4>
+									<p class="description">Vencimento do Fundo BFA Private </p>
+									<div class="btn-underline solid-gray">Saiba mais</div>
+								</a>
+							</div>
+						</div>
+						<div class="col-sm-6 col-md-3">
+							<div class="last-news-thumb">
+								<a href="/pt/gestao-de-activos/sala-de-imprensa/noticias/bfa-oportunidades-viii/">
+									<div class="image" style="background-image: url(/media/2963/bfa-oportunidades_950x950.png?anchor=center&amp;mode=crop&amp;rnd=132647078580000000&amp;preset=newsList);" title="BFA Oportunidades 950x950"></div>
+									<p class="date">07 maio</p>
+									<h4 class="title">BFA Oportunidades VIII</h4>
+									<p class="description">In&#237;cio da comercializa&#231;&#227;o do Fundo de Investimento BFA Oportunidades VIII</p>
+									<div class="btn-underline solid-gray">Saiba mais</div>
+								</a>
+							</div>
+						</div>
+						<div class="col-sm-6 col-md-3">
+							<div class="last-news-thumb">
+								<a href="/pt/gestao-de-activos/sala-de-imprensa/noticias/convocatoria-para-a-assembleia-geral/">
+									<div class="image" style="background-image: url(/media/2695/d-bfa-marca-img.png?anchor=center&amp;mode=crop&amp;rnd=132507116750000000&amp;preset=newsList);" title="D bfa Marca Img"></div>
+									<p class="date">23 novembro</p>
+									<h4 class="title">Convocat&#243;ria Assembleia Geral </h4>
+									<p class="description">Convocat&#243;ria  para a Assembleia Geral Ordin&#225;ria</p>
+									<div class="btn-underline solid-gray">Saiba mais</div>
+								</a>
+							</div>
+						</div>
+						<div class="col-sm-6 col-md-3">
+							<div class="last-news-thumb">
+								<a href="/pt/gestao-de-activos/sala-de-imprensa/noticias/bfa-oportunidades-vi/">
+									<div class="image" style="background-image: url(/media/2660/site_adaptac-a-o-30-out-copy.png?anchor=center&amp;mode=crop&amp;rnd=132490452320000000&amp;preset=newsList);" title="SITE Adaptação 30 OUT copy"></div>
+									<p class="date">05 novembro</p>
+									<h4 class="title">BFA Oportunidades VI</h4>
+									<p class="description">In&#237;cio da comercializa&#231;&#227;o do Fundo de Investimento BFA Oportunidades VI</p>
+									<div class="btn-underline solid-gray">Saiba mais</div>
+								</a>
+							</div>
+						</div>
+						<div class="col-sm-6 col-md-3">
+							<div class="last-news-thumb">
+								<a href="/pt/gestao-de-activos/sala-de-imprensa/noticias/relatorio-e-contas-bfa-gestao-de-activos/">
+									<div class="image" style="background-image: url(/media/1130/d-bfa-marca-img.png?anchor=center&amp;mode=crop&amp;rnd=132181331740000000&amp;preset=newsList);" title="D bfa Marca Img"></div>
+									<p class="date">12 outubro</p>
+									<h4 class="title">Relat&#243;rio e Contas BFA Gest&#227;o de Activos</h4>
+									<p class="description">Relat&#243;rio e Contas 1&#186; Semestre 2020 BFA Gest&#227;o de Activos.</p>
+									<div class="btn-underline solid-gray">Saiba mais</div>
+								</a>
+							</div>
+						</div>
+						<div class="col-sm-6 col-md-3">
+							<div class="last-news-thumb">
+								<a href="/pt/gestao-de-activos/sala-de-imprensa/noticias/relatorio-e-contas-1&#186;-semestre-2020/">
+									<div class="image" style="background-image: url(/media/1130/d-bfa-marca-img.png?anchor=center&amp;mode=crop&amp;rnd=132181331740000000&amp;preset=newsList);" title="D bfa Marca Img"></div>
+									<p class="date">09 outubro</p>
+									<h4 class="title">Relat&#243;rio e Contas 1&#186; Semestre 2020</h4>
+									<p class="description">Relat&#243;rio e Contas semestral dos Fundos de Investimento BFA, j&#225; se encontram dispon&#237;veis.</p>
+									<div class="btn-underline solid-gray">Saiba mais</div>
+								</a>
+							</div>
+						</div>
+						<div class="col-sm-6 col-md-3">
+							<div class="last-news-thumb">
+								<a href="/pt/gestao-de-activos/sala-de-imprensa/noticias/semana-mundial-do-investidor/">
+									<div class="image" style="background-image: url(/media/2589/semana-do-investidor_m.png?anchor=center&amp;mode=crop&amp;rnd=132464643760000000&amp;preset=newsList);" title="Semana do investidor M"></div>
+									<p class="date">06 outubro</p>
+									<h4 class="title">Semana Mundial do Investidor</h4>
+									<p class="description">4&#170; Edi&#231;&#227;o - 100% digital</p>
+									<div class="btn-underline solid-gray">Saiba mais</div>
+								</a>
+							</div>
+						</div>
+						<div class="col-sm-6 col-md-3">
+							<div class="last-news-thumb">
+								<a href="/pt/gestao-de-activos/sala-de-imprensa/noticias/fundo-de-investimento-bfa-oportunidades-v/">
+									<div class="image" style="background-image: url(/media/2453/oportunidades-v.png?anchor=center&amp;mode=crop&amp;rnd=132400922500000000&amp;preset=newsList);" title="Oportunidades V"></div>
+									<p class="date">25 julho</p>
+									<h4 class="title">Fundo de Investimento BFA Oportunidades V</h4>
+									<p class="description">In&#237;cio da comercializa&#231;&#227;o do Fundo  de Investimento BFA Oportunidades V</p>
+									<div class="btn-underline solid-gray">Saiba mais</div>
+								</a>
+							</div>
+						</div>
+						<div class="col-sm-6 col-md-3">
+							<div class="last-news-thumb">
+								<a href="/pt/gestao-de-activos/sala-de-imprensa/noticias/fundo-de-investimento-bfa-oportunidades-iv/">
+									<div class="image" style="background-image: url(/media/2383/bfa-oportunidades-iv_v3.png?anchor=center&amp;mode=crop&amp;rnd=132370534630000000&amp;preset=newsList);" title="BFA Oportunidades IV V3"></div>
+									<p class="date">19 junho</p>
+									<h4 class="title">Fundo de Investimento BFA Oportunidades IV</h4>
+									<p class="description">In&#237;cio da comercializa&#231;&#227;o do Fundo  de Investimento BFA Oportunidades IV</p>
+									<div class="btn-underline solid-gray">Saiba mais</div>
+								</a>
+							</div>
+						</div>
+
+				</div>
+			</div>
+
+			
+<div class="pagination-ctn">
+	<div class="pag-wrapper">
+		<div class="pag-label prev disable"> <a href="/pt/gestao-de-activos/sala-de-imprensa/noticias/?page=-244">Anterior</a> </div>
+		<div class="pag-label next "> <a href="/pt/gestao-de-activos/sala-de-imprensa/noticias/?page=-242">Seguinte</a> </div>
+		<div class="pag-num">
+			<ul>
+					<li class=""><a href="/pt/gestao-de-activos/sala-de-imprensa/noticias/?page=1">1</a></li>
+					<li class=""><a href="/pt/gestao-de-activos/sala-de-imprensa/noticias/?page=2">2</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="pag-total">
+		<p>Total de 17 not&#237;cias</p>
+	</div>
+</div>
+
+		</div>
+	</div>
+</div>
+
+    <footer class="js-footer footer">
+        <div class="footer-site-map js-footerSiteMap">
+            <div class="container-fluid">
+                <button type="button" class="button-toggle-siteMap js-toggleSiteMap" data-action="toggleSiteMap"
+                        data-textopen="Abrir Mapa do Site" data-textclose="Fechar Mapa do site">
+                    <span class="text js-text">Abrir Mapa do Site</span>
+                    <span class="icon open icon-arrow-fill-down"></span>
+                    <span class="icon close icon-close"></span>
+                </button>
+            </div>
+            
+<div class="container-site-map js-ctnSiteMap" data-home-id="2981">
+    <div class="container-fluid">
+        <ul class="site-map js-siteMap">
+                    <li>
+                        Conhe&#231;a o BFA GA
+
+                        <ul>
+                                <li>
+                                    <a href="/pt/gestao-de-activos/conheca-o-bfa-ga/quem-somos/">Quem Somos</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/gestao-de-activos/conheca-o-bfa-ga/a-nossa-trajectoria/">A Nossa Traject&#243;ria</a>
+                                </li>
+                                <li>
+                                    <a href="#">A Equipa de Gest&#227;o</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/gestao-de-activos/conheca-o-bfa-ga/orgaos-sociais/">&#211;rg&#227;os Sociais</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/gestao-de-activos/conheca-o-bfa-ga/informacao-financeira/">Informa&#231;&#227;o Financeira</a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li>
+                        As nossas solu&#231;&#245;es
+
+                        <ul>
+                                <li>
+                                    <a href="#">Fundos Mobili&#225;rios</a>
+                                </li>
+                                <li>
+                                    <a href="#">Fundos Imobili&#225;rios</a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li>
+                        Fundos Sob Gest&#227;o
+
+                        <ul>
+                                <li>
+                                    <a href="/pt/gestao-de-activos/fundos-sob-gestao/fundo-bfa-proteccao/">BFA Protec&#231;&#227;o</a>
+                                </li>
+                                <li>
+                                    <a href="#">Fundo BFA Oportunidades I</a>
+                                </li>
+                                <li>
+                                    <a href="#">Fundo BFA Oportunidades II</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/gestao-de-activos/fundos-sob-gestao/fundo-bfa-oportunidades-iii/">Fundo BFA Oportunidades III</a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li>
+                        Sala de Imprensa
+
+                        <ul>
+                                <li>
+                                    <a href="/pt/gestao-de-activos/sala-de-imprensa/regulamentacao/">Regulamenta&#231;&#227;o</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/gestao-de-activos/sala-de-imprensa/noticias/">Not&#237;cias</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/gestao-de-activos/sala-de-imprensa/publicacoes/">Publica&#231;&#245;es</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/gestao-de-activos/sala-de-imprensa/perguntas-frequentes/">Perguntas Frequentes</a>
+                                </li>
+                        </ul>
+                    </li>
+        </ul>
+    </div>
+</div>
+        </div>
+
+        
+<div class="footer-base">
+    <div class="container-fluid">
+        <div class="footer-block">
+            <h5 class="title">Fale Connosco</h5>
+            <div class="text">
+                <p>Dispon&#237;vel 24h por dia. Se tem d&#250;vidas, sugest&#245;es ou reclama&#231;&#245;es, fale connosco.</p>
+                <a href="tel:923 120 120" class="btn grad-theme icon">
+                    <span class="text">LIGAR 923 120 120</span>
+                    <i class="icon icon-phone"></i>
+                </a>
+            </div>
+        </div>
+        <div class="footer-block">
+            <h5 class="title">Informa&#231;&#245;es &#250;teis</h5>
+            <div class="text">
+                    <p><a href="/pt/o-bfa/perguntas-frequentes/">Perguntas Frequentes</a></p>
+                    <p><a href="/pt/o-bfa/glossario/">Gloss&#225;rio</a></p>
+                    <p><a href="/pt/gestao-de-activos/lojas/">Rede de Balc&#245;es</a></p>
+                    <p><a href="/pt/o-bfa/trabalhar-no-bfa/">Ser Colaborador BFA</a></p>
+                    <p><a href="/pt/gestao-de-activos/precario/precario/">Pre&#231;&#225;rio</a></p>
+                    <p><a href="/pt/gestao-de-activos/contactos/">Contactos GA</a></p>
+            </div>
+        </div>
+        <div class="footer-block">
+            <h5 class="title">Redes Sociais</h5>
+            <ul class="social-list">
+                    <li><a href="https://www.facebook.com/Banco.BFA/?ref=br_rs" target="_blank"><i class="icon icon-social-facebook"></i></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCZrPht3AQZZGglBp_piRS6Q?view_as=subscriber" target="_blank"><i class="icon icon-social-youtube"></i></a></li>
+                    <li><a href="https://www.linkedin.com/company/bfa" target="_blank"><i class="icon icon-social-linkedin"></i></a></li>
+                    <li><a href="https://www.instagram.com/bancofomentoangola/" target="_blank"><i class="icon icon-social-instagram"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+        <div class="footer-bottom js-footerBottom">
+            <div class="container-fluid">
+                <div class="copyright">
+                    <p>Banco de Fomento Angola&#169;2019-2021. Todos os direitos reservados. <a href="/pt/o-bfa/termos-e-condicoes/">Termos e condi&#231;&#245;es</a></p>
+                </div>
+            </div>
+        </div>
+
+    </footer>
+
+    <template data-tpl-id="popover">
+		<div class="popover js-popover">
+			<div class="js-popover-wrapper popover-wrapper">
+				<span class="popover-icon-ctn"><i class="icon icon-check"></i></span>
+				<span class="popover-title js-title"></span>
+				<span class="popover-text js-text"></span>
+			</div>
+		</div>
+</template>
+<template data-tpl-id="mobile-panel">
+
+    <div class="panel js-mobilePanel" data-parent-id=""><ul class="nav js-nav"></ul></div>
+</template>
+<template data-tpl-id="mobile-panel-item">
+    <li><a class="menu-item js-menu-item " href="#"><span class="text"></span></a></li>
+</template>
+<template data-tpl-id="desktop-submenu">
+    <ul class="submenu js-submenu"></ul>
+</template>
+<template data-tpl-id="desktop-submenu-item">
+    <li><a class="menu-item js-menu-item " href="" data-preview-id=" "><span class="text"></span></a></li>
+</template>
+<template data-tpl-id="formOverlay">
+    <section class="form flyover mod-form js-modForm" data-id="">
+        <div class="bg-overlay"></div>
+        <div class="container-flyover">
+            <div class="wrapper-flyover">
+                <div class="wrapper-btn">
+                    <button class="btn-back text-black out-mobile" data-action="outForm">
+                        <i class="icon icon-arrow-special-left"></i>
+                        <span class="text"></span>
+                    </button>
+                    <button class="btn-back text-black out-desktop" data-action="outForm">
+                        <span class="text">Sair</span>
+                        <i class="icon icon-close"></i>
+                    </button>
+                </div>
+                <div class="content-flyover js-contentTabs">
+                </div>
+            </div>
+        </div>
+    </section>
+</template>
+<template data-tpl-id="formFeedback">
+    <div class="tab-wrapper js-tabWrapper feedback step">
+        <div class="screen-step">
+            <div class="screen-step-content">
+                <p><i class="icon icon-check icon-validate"></i></p>
+                <p class="title js-title">Submetido com sucesso.</p>
+                <p class="text js-text">
+                    Foi enviado um c&#243;digo de confirma&#231;&#227;o para o seu email. Para concluir o processo deve
+                    guardar o c&#243;digo e
+                    dirigir-se a um balc&#227;o BFA.
+                </p>
+                <a href="/pages/t03-page-storelocation.html" class="btn solid-line-theme">
+                    Encontrar o balc&#227;o
+                    <i class="icon icon-location"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</template>
+<template data-tpl-id="loadMedia">
+    <section class="flyover js-media mod-media" data-type="media" data-index="0">
+        <div class="bg-overlay"></div>
+        <div class="container-flyover">
+            <div class="wrapper-flyover">
+                <div class="wrapper-title media-title js-mediaTitle">
+                    <h3 class="title">
+                        <span class="text js-title">Canal BFA</span>
+                        <button class="btn-close js-close-flyover" data-action="closeFlyover">
+                            Sair
+                            <span class="icon icon-close" data-action="outiWant"></span>
+                        </button>
+                    </h3>
+                </div>
+                <div class="content-flyover js-contentMedia">
+                    <div class="video-container">
+                        <iframe src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <p class="date"></p>
+                    <h4 class="title"></h4>
+                    <p class="description"></p>
+                    <a href="#" class="media-cta btn grad-theme icon">
+                        <span class="text"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+</template>
+<template data-tpl-id="exchange">
+    <table>
+        <tr>
+            <td class="exchange-currency">EUR</td>
+            <td class="exchange-buy">186,302</td>
+            <td class="exchange-sell">191,891</td>
+        </tr>
+    </table>
+</template>
+
+    <!--SIMULATORS-->
+    
+
+
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PXNDS6M"
+				  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PXNDS6M');</script>
+<!-- End Google Tag Manager -->
+
+<script src="/libs/bfa-vendor-da4d535aad.min.js"></script>
+<script src="/libs/bfa-custom-plugins-75041594f5.min.js"></script>
+<script src="/scripts/bfa-app-ac50ad2a4b.min.js"></script>
+
+    <script id="bycookie-script" data-lang="pt" data-version="1.0.2" data-gtm="" data-gua="" data-fbid="" src="/libs/bycookieapp-4e844d5801.min.js"></script>
+
+</body>
+</html>
+    <!--BFA 20201021.1 . 27646-->

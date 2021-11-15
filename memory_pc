@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+#-----------------------------------------
+# Script    : Espaco de memoria de PC 
+# Descricao :
+# Versao    : 0.1 
+# Autor     : José Cabral <cabralzay@gmail.com>
+# Data      : 12/10/2021 
+# Licença   : GNU/GPL v.30
+#------------------------------------------
+# Uso: CREACION DE SCRIPT AUTOMATICO
+#------------------------------------------
+
+
+tiempo=$(date +"%Y-%m-%d_%H:%M:%S").log
+
+free > $tiempo

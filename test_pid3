@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+#-----------------------------------------
+# Script    : 
+# Descricao :
+# Versao    : 0.1 
+# Autor     : José Cabral <cabralzay@gmail.com>
+# Data      : 04/10/2021 
+# Licença   : GNU/GPL v.30
+#------------------------------------------
+# Uso: CREACION DE SCRIPT AUTOMATICO
+#------------------------------------------
+
+echo "PID da sessao do Script: $$"

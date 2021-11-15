@@ -1,0 +1,919 @@
+
+
+
+<!DOCTYPE html>
+<!--[if IE 9]><html class="no-js ie9" id="template"> <![endif]-->
+<!--[if lt IE 8]><html class="no-js lt-ie9 lt-ie8" id="template"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" id="template" > <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="pt" class="no-js" id="template"> <!--<![endif]-->
+
+
+
+
+<head>
+    
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<title>BFA - Fazer sugestão/reclamação</title>
+<meta name="description" content="homepage">
+<meta name="KEYWORDS" content="Banco de Fomento Angola,Bancos em Angola" />
+<link type="image/ico" rel="shortcut icon" href="/favicon.ico">
+
+
+<link rel="stylesheet" href="/inc/css/normalize.min.css">
+<link rel="stylesheet" href="/inc/css/main.css">
+<link rel="Stylesheet" href="/inc/css/extendCss.css">
+
+<script src="/inc/js/modernizr-2.6.2.min.js"></script>
+<script src="/inc/js/jquery-1.9.1.min.js"></script>
+<script src="/inc/js/jquery-migrate-1.1.0.min.js"></script>
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+<meta property="og:description" content="" />
+<meta property="og:title" content="BFA - Fazer sugestão/reclamação"/> 
+
+<meta property="og:image" content="http://10.182.66.70/img/logos/bfa.png"/> 
+<meta property="og:site_name" content="BFA"/>
+
+<!-- C�digo do GoogleAnalytics -->
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-43709848-1', 'bfa.ao');
+        ga('require', 'linkid', 'linkid.js');
+        ga('send', 'pageview');
+
+        var _mfq = _mfq || [];
+        (function () {
+            var mf = document.createElement("script"); mf.type = "text/javascript"; mf.async = true;
+            mf.src = "//cdn.mouseflow.com/projects/88afdfa8-c0a6-433e-9e5e-542f1f26f2b5.js";
+            document.getElementsByTagName("head")[0].appendChild(mf);
+        })();
+
+        $(document)
+            .ready(function() {
+                $("a").each(function () {
+                    
+                    if (this.href.toUpperCase().indexOf('DOWNLOAD.ASPX?IDI=10266') >= 0) {
+                        this.onclick = function() {
+                            ga('send', 'event', 'download RC2015', 'click', 'button');
+                        }
+                    }
+                    
+                    else if (this.href.toUpperCase().indexOf('DOWNLOAD.ASPX?SIDC=2652') >= 0 || this.href.toUpperCase().indexOf('DOWNLOAD.ASPX?SIDC=10435') >= 0) {
+                            this.onclick = function() {
+                                ga('send', 'event', 'Download Newsletter Oil e Gas', 'click', 'button');
+                            }
+                        }
+                        
+                        else if (this.href.toUpperCase().indexOf('RCD15') >= 0) {
+                            this.onclick = function() {
+                                ga('send', 'event', 'saiba mais RC digital 2015', 'click', 'button');
+                            }
+                        }
+                });
+            });
+    </script>
+
+</head>
+<body>
+    <div class="site">
+   
+        
+<!-- Init Header -->
+<header id="header">
+    <a href="/default.aspx?sidc=2649&idl=1" id="bfa-logo">
+        <img alt="BFA" src="/img/logos/bfa.png" />
+    </a>
+    
+        <nav id="language">
+            <dl>
+                <dt class="hidden">Língua:</dt>
+    
+                <dd class="current"><a href="/default.aspx?sidc=2649&amp;idc=2649&amp;idsc=2649&amp;idl=1">Português</a></dd>
+    
+                <dd><a href="/default.aspx?sidc=2649&amp;idc=2649&amp;idsc=2649&amp;idl=2">English</a></dd>
+    
+            </dl>
+        </nav>
+       
+
+    
+    <nav id="menu-areas">
+        
+                <ul>
+            
+                <li >
+                    <!--
+--><a href="/default.aspx?sidc=2649&amp;idl=1"   >Particulares</a>
+                </li>
+            
+                <li >
+                    <!--
+--><a href="/default.aspx?sidc=2650&amp;idl=1"   >Empresas</a>
+                </li>
+            
+                <li class='current'>
+                    <!--
+--><a href="/default.aspx?sidc=2651&amp;idl=1"   >Centros de Investimento</a>
+                </li>
+            
+                <li >
+                    <!--
+--><a href="/default.aspx?sidc=2652&amp;idl=1"   >O BFA</a>
+                </li>
+            
+                </ul>
+            
+    </nav>
+    <nav id="menu">
+        
+                <ul>
+            
+                <li>
+                    <a href="#">Conceito</a>
+                    
+                            <ul>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2807&amp;idsc=2810&amp;idl=1>Gestor de Cliente</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2807&amp;idsc=2811&amp;idl=1>Serviço</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2807&amp;idsc=2812&amp;idl=1>Espaço</a>
+                                
+                            </li>
+                        
+                            </ul>
+                        
+                </li>
+            
+                <li>
+                    <a href="#">Oferta</a>
+                    
+                            <ul>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2808&amp;idsc=12029&amp;idl=1>Fundo - BFA Oportunidades II</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2808&amp;idsc=14366&amp;idl=1>Fundo - BFA Oportunidades III</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/All/lista.aspx?sidc=2651&amp;idc=2808&amp;idsc=2815&amp;idl=1>Contas</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/All/lista.aspx?sidc=2651&amp;idc=2808&amp;idsc=2813&amp;idl=1>Investimentos</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/All/lista.aspx?sidc=2651&amp;idc=2808&amp;idsc=2814&amp;idl=1>Créditos</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/All/lista.aspx?sidc=2651&amp;idc=2808&amp;idsc=2816&amp;idl=1>Cartões</a>
+                                
+                            </li>
+                        
+                            </ul>
+                        
+                </li>
+            
+                <li>
+                    <a href="#">Serviços</a>
+                    
+                            <ul>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2958&amp;idsc=2959&amp;idl=1>BFA Net</a>
+                                
+                            </li>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2958&amp;idsc=2960&amp;idl=1>BFA SMS</a>
+                                
+                            </li>
+                        
+                            </ul>
+                        
+                </li>
+            
+                <li>
+                    <a href="#">Onde Estamos</a>
+                    
+                            <ul>
+                        
+                            <li><span data-icon="&#x24;"></span><a href=/Servicos/RedeBalcoesCentroInvestimento.aspx?sidc=2651&amp;idc=2809&amp;idsc=2819&amp;idl=1>Toda a Rede</a>
+                                
+                            </li>
+                        
+                            </ul>
+                        
+                </li>
+            
+                </ul>
+            
+    </nav>
+    <div id="search" class="simple-search">
+        <input id="idc" type="hidden" name="idc" value="2656" />
+        <input id="idl" type="hidden" name="idl" value="1" />
+        <input id="minSearchSize" type="hidden" value="3" />
+        <input id="minWarning" type="hidden" value="Apenas pode efectuar pesquisas com um mínimo de 3 caracteres." />
+        <fieldset>
+            <legend class="hidden">Pesquisa Simples</legend>
+           
+            <input type="text" name="search" id="pesq" onkeypress="javascript:onEnterSearch(event,'/Servicos/pesquisa.aspx');" placeholder="Pesquisa" />
+            <span data-icon="&#x21;"><input type="submit" value="ok" onclick="javascript:searchSubmit('/Servicos/pesquisa.aspx');" /></span>
+        </fieldset>
+    </div>
+    <!-- Init Board Section -->
+    <div id="board">
+        <!-- MENU EU QUERO -->
+        <nav id="menu-links">
+            
+                    <ul>
+                        <li><a href="#">EU QUERO
+                        <span data-icon="&#x25;"></span></a> 
+                        <div class="wraper"><div>
+                
+                    <dl>
+                        <dt><!--
+                            -->Gerir o dia-a-dia</dt>
+                        
+                            
+                                <dd>
+                                    <span data-icon="&#x24;"></span><!--
+                                    --><!--
+--><a href="/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2907&amp;idl=1"   >Abrir uma conta no BFA</a>
+                                </dd>
+                            
+                                <dd>
+                                    <span data-icon="&#x24;"></span><!--
+                                    --><!--
+--><a href="/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2819&amp;idsc=2959&amp;idl=1"   >Aderir ao BFA Net</a>
+                                </dd>
+                            
+                                <dd>
+                                    <span data-icon="&#x24;"></span><!--
+                                    --><!--
+--><a href="/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2909&amp;idsc=2961&amp;idl=1"   >Transferir dinheiro</a>
+                                </dd>
+                            
+                                <dd>
+                                    <span data-icon="&#x24;"></span><!--
+                                    --><!--
+--><a href="/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2910&amp;idl=1"   >Pedir o meu cartão</a>
+                                </dd>
+                            
+                            
+                    </dl>
+                
+                    <dl>
+                        <dt><!--
+                            -->Poupar e Investir</dt>
+                        
+                            
+                                <dd>
+                                    <span data-icon="&#x24;"></span><!--
+                                    --><!--
+--><a href="/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2911&amp;idl=1"   >Poupar e investir para o futuro</a>
+                                </dd>
+                            
+                            
+                    </dl>
+                
+                    <dl>
+                        <dt><!--
+                            -->Pedir Crédito</dt>
+                        
+                            
+                                <dd>
+                                    <span data-icon="&#x24;"></span><!--
+                                    --><!--
+--><a href="/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2959&amp;idsc=2814&amp;idl=1&amp;idi=6045"   >Comprar um carro</a>
+                                </dd>
+                            
+                                <dd>
+                                    <span data-icon="&#x24;"></span><!--
+                                    --><!--
+--><a href="/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2915&amp;idl=1"   >Financiar os estudos</a>
+                                </dd>
+                            
+                                <dd>
+                                    <span data-icon="&#x24;"></span><!--
+                                    --><!--
+--><a href="/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2916&amp;idl=1"   >Comprar um presente</a>
+                                </dd>
+                            
+                                <dd>
+                                    <span data-icon="&#x24;"></span><!--
+                                    --><!--
+--><a href="/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2917&amp;idsc=2814&amp;idl=1&amp;idi=6044"   >Comprar uma casa</a>
+                                </dd>
+                            
+                            
+                    </dl>
+                
+                    <dl>
+                        <dt><!--
+                            -->Falar com BFA</dt>
+                        
+                            
+                                <dd>
+                                    <span data-icon="&#x24;"></span><!--
+                                    --><!--
+--><a href="/Servicos/sugestoes.aspx?sidc=2651&amp;idc=2913&amp;idl=1"   >Fazer sugestão/reclamação</a>
+                                </dd>
+                            
+                            
+                    </dl>
+                
+                    </div> </div> </li> </ul>
+                
+        </nav>
+        <div id="login" class="quick-access tabs">
+            <ul>
+                <li  class="current" ><a href="#users" title="Login Particulares">Particulares</a></li>
+                <li ><a href="#company" title="Login Empresas">Empresas</a></li>
+            </ul>
+            <article id="users"  class="show-tab"  >
+                <form action="#">
+                <fieldset>
+                    <legend class="hidden">Login Users</legend>
+                    <h1>
+                        BFA Net</h1>
+                    <label for="login-users" class="hidden">
+                        Nome/Nº Adesão</label>
+                    <input type="text" name="name" id="login-users" />
+                    <span class="button" data-icon="&#x24;" id="submitParticulares">
+                        
+                    </span>
+                </fieldset>
+                </form>
+                
+                        <!--
+--><a href="/Conteudos/All/lista.aspx?sidc=2651&amp;idc=2743&amp;idl=1"   >Recomendações de Segurança</a><!--
+                                        --><span data-icon="&#x24;"></span>
+                    
+                </article>
+            <article id="company"  class="hide-tab" >
+                <form action="#">
+                <fieldset>
+                    <legend class="hidden">Login Empresas</legend>
+                    <h1>
+                        BFA Net Empresas</h1>
+                    <label for="login-company" class="hidden">
+                        Nome/Nº Adesão</label>
+                    <input type="text" name="name" id="login-company" />
+                    <span class="button" data-icon="&#x24;" id="submitEmpresas">
+                        
+                    </span>
+                </fieldset>
+                </form>
+                
+                        <!--
+--><a href="/Conteudos/All/lista.aspx?sidc=2651&amp;idc=2743&amp;idl=1"   >Recomendações de Segurança</a><!--
+                                        --><span data-icon="&#x24;"></span>
+                    
+                </article>
+        </div>
+         
+                <div class='quick-access'>
+                <h2>
+                        Quero ser Cliente</h2>
+                        
+                    
+                            <a href='/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2736&amp;idl=1' >Quero abrir uma conta</a><span data-icon='$'></span>
+                        
+                </div>
+            
+                <div class='quick-access'>
+                <h2>
+                        Simule aqui</h2>
+                        
+                    
+                            <a href='/Simuladores/Simuladores.aspx?sidc=2651&amp;idc=2740&amp;idl=1' ><span class="button" data-icon="&#x26;"></span>Calcule o valor das suas prestações.</a>
+                        
+                </div>
+            
+                <div class='quick-access-contact'>
+                <h2>
+                        Fale connosco</h2>
+                        
+                    
+                            <h3>Linha de Atendimento BFA</h3><h4>923 120 120</h4>
+                        
+                            <a href='mailto:bfa@bfa.ao?sidc=2651&amp;idc=9036&amp;idl=1' onmousedown="ga('send', 'event', 'fale conosco', 'envie um email');" >Envie-nos um email</a><span data-icon='$'></span>
+                        
+                </div>
+            
+    </div>
+    <!-- End Board Section -->
+</header>
+<!-- End Header -->
+<script type="text/javascript">
+
+
+
+    $("#login-users").keypress(function (event) {
+        if (event.which == 13) {
+            ga('send', 'event', 'acesso ao BFA Net', 'login');
+            event.preventDefault();
+            window.open('', '_new').location.href = "https://www.bfanet.ao/#" + $("#login-users").val();
+        }
+    });
+
+    $("#login-company").keypress(function (event) {
+        if (event.which == 13) {
+            ga('send', 'event', 'acesso ao BFA Net', 'login');
+            event.preventDefault();
+            window.open('', '_new').location.href = "https://www.bfanetempresas.ao/#" + $("#login-company").val();
+        }
+    });
+    
+
+
+    $(function () {
+        var params = [
+            'height=' + screen.height,
+            'width=' + screen.width
+        ].join(',');
+
+        $("#submitParticulares").click(function (event) {
+            ga('send', 'event', 'acesso ao BFA Net', 'login');
+            event.preventDefault();
+            window.open('', '_new').location.href = "https://www.bfanet.ao/#" + $("#login-users").val();
+        });
+
+        $("#submitEmpresas").click(function (event) {
+            ga('send', 'event', 'acesso ao BFA Net', 'login');
+            event.preventDefault();
+            window.open('', '_new').location.href = "https://www.bfanetempresas.ao/#" + $("#login-company").val();
+        });
+
+    });
+</script>
+
+        <div class="breadcrumb"><dl><dt>Página de entrada</dt><dd><span data-icon="$"></span><a href="/default.aspx?sidc=2651&amp;idc=2913&amp;idsc=2651&amp;idl=1">Centros de Investimento</a></dd><dd><span data-icon="$"></span>Eu Quero</dd><dd><span data-icon="$"></span>Falar com BFA</dd><dd><span data-icon="$"></span>Fazer sugestão/reclamação</dd></dl></div>
+
+        
+        
+        
+        <div id="focus" class="subareas">
+            
+                <div id="slider" class="container">
+                    <ul id="items">
+    
+        <li style="background-image: url(/upl/{7b6cc54a-31ae-4dd0-9cbb-64f13f302dce}.png); height:310px;"><div class="wrapper"><div><h2></h2><h1>Ajude-nos a<BR>melhorar</h1><p>Partilhe connosco as suas opiniões</p></div></div></li>
+    
+        </ul> </div>
+        <div id="navigation-wrapper">
+            
+        </div>
+        </div>
+    
+
+<div class="overlay"></div>
+<a class="close-btn" data-icon="&#x58;">Fechar</a>
+<div class="lightbox"></div>
+
+
+        
+
+<div id="content">
+    <!-- Init Left Side -->
+    <div id="main">
+        <article class="forms">
+            <header class="header">
+                <h2>Sugestão/Reclamação</h2>
+                <p><STRONG>Este é o espaço para aproximar do BFA clientes e não clientes. Envie-nos os seus comentários, Sugestões e reclamações, teremos o maior prazer em responder.</STRONG></p>
+            </header>
+            <div class="contactform">
+                <form method="post" action="#" id="ctl00" class="styleThese">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+                    <div id="errorMessage">
+                        
+                        <label id="ctl00_ctl01_errorLabel"></label>
+                    </div>
+                    <fieldset class="userdata">
+                        <legend class="hidden">Dados do utilizador</legend>
+                        <div class="rows clearfix">
+                            <label for="name">Nome*</label>
+                            <input name="ctl00$ctl01$name" type="text" id="ctl00_ctl01_name" class="uniform-input text" />
+                            &nbsp;
+                        </div>
+                        <div class="rows clearfix">
+                            <label for="email">E-mail*</label>
+                            <input name="ctl00$ctl01$email" type="text" id="ctl00_ctl01_email" class="uniform-input text" />
+                            &nbsp;
+                            &nbsp;
+                        </div>
+                        <div class="rows radio clearfix">
+                            <label>Cliente BFA*</label>
+                            <input value="yes" name="ctl00$ctl01$client" type="radio" id="ctl00_ctl01_yes" class="skipThese" checked="checked" />
+                            <label for="yes">Sim</label>
+                            <input value="no" name="ctl00$ctl01$client" type="radio" id="ctl00_ctl01_no" class="skipThese" checked="checked" />
+                            <label for="no">Não</label>
+                        </div>
+                        <div class="rows clearfix">
+                            <label for="accountnumber">Número de Conta</label>
+                            <p>(Opcional)</p>
+                            <input name="ctl00$ctl01$accountnumber" type="text" id="ctl00_ctl01_accountnumber" class="uniform-input text" />
+                        </div>
+                    </fieldset>
+                    <fieldset class="subject">
+                        <legend class="hidden">Assunto do Contacto</legend>
+                        <div class="rows clearfix">
+                            <label>Motivo*</label>
+                            <div class="drop-style selector" data-icon="&#x25;">
+                                <span class="drop-selected">Escolha o motivo:</span>
+                                <ul class="drop-list">
+                                    <li id="2937">Reclamação</li><li id="2938">Sugestão</li><li id="2939">Elogio</li>
+                                </ul>
+                                <input name="ctl00$ctl01$motiveText" type="hidden" id="ctl00_ctl01_motiveText" class="drop-text" />
+                                <div class="hideInput">
+                                    <input name="ctl00$ctl01$motive" type="text" id="ctl00_ctl01_motive" class="drop-value" style="width:30px;" />
+                                </div>
+                            </div>
+                            &nbsp;
+                        </div>
+                        <div class="rows clearfix">
+                            <label>Tema*</label>
+                            <div class="drop-style selector" data-icon="&#x25;">
+                                <span class="drop-selected">Escolha o tema:</span>
+                                <ul class="drop-list">
+                                    <li id="2940">Atendimento</li><li id="2941">Preçário</li><li id="2942">Produtos e Serviços</li><li id="2943">Outros</li>
+                                </ul>
+                                <input name="ctl00$ctl01$themeText" type="hidden" id="ctl00_ctl01_themeText" class="drop-text" />
+                                <div class="hideInput">
+                                    <input name="ctl00$ctl01$theme" type="text" id="ctl00_ctl01_theme" class="drop-value" style="width:30px;" />
+                                </div>
+                            </div>
+                            &nbsp;
+                        </div>
+                        <div class="rows clearfix">
+                            <label>Sub-Tema*</label>
+                            <div class="drop-style selector" data-icon="&#x25;">
+                                <span class="drop-selected">Escolha o sub-tema:</span>
+                                <ul class="drop-list">
+                                    <li id="2945">Contas</li><li id="2946">Cartões</li><li id="2947">Crédito</li><li id="2948">Transferências</li><li id="2949">Divisas</li><li id="2950">BFA Net / BFA Net Empresas</li><li id="2951">Outros</li>
+                                </ul>
+                                <input name="ctl00$ctl01$subthemeText" type="hidden" id="ctl00_ctl01_subthemeText" class="drop-text" />
+                                <div class="hideInput">
+                                    <input name="ctl00$ctl01$subtheme" type="text" id="ctl00_ctl01_subtheme" class="drop-value" style="width:30px;" />
+                                </div>
+                            </div>
+                            &nbsp;
+                        </div>
+                    </fieldset>
+                    <fieldset class="description clearfix">
+                        <legend class="hidden">Descrição de contacto</legend>
+                        <label for="description">Descrição</label>
+                        <textarea name="ctl00$ctl01$description" rows="2" cols="20" id="ctl00_ctl01_description" class="uniform">
+</textarea>
+                    </fieldset>
+                     
+                    <div class="msg clearfix"><b>*</b>Campo de preenchimento obrigatório</div>
+                    <div class="submitbtn clearfix">
+                        <div class="button" data-icon="&#x24;">
+                            <input name="ctl00$ctl01$successfullEmailSent" type="hidden" id="ctl00_ctl01_successfullEmailSent" value="false" />
+                            <input type="submit" name="ctl00$ctl01$enviarSugestao" value="Enviar" onclick="return validate();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl01$enviarSugestao&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ctl01_enviarSugestao" class="skipThese" /> 
+                        </div>
+                    </div>
+                    <div class="message-area">
+                        <div id="popin">
+                            <div class="overlay"></div>
+                            <a href="#" class="close">x</a>
+                            <div class="popin-content">
+                                <div class="message-form">
+                                    <strong>Obrigado</strong>
+                                    <p>A sua mensagem foi enviada com sucesso, <br>em breve entraremos em contacto consigo.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="AA606C5F" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="8aE8qTy2ZUILcbLutvHOWO68Y5SanhUgUKXSbMwWtQDAv5qWUMnAYErLSKzvEDI/vdTJYc8M7mQg4IfEM8Bbv57CfgQkGQ+7qJYs6asdAP5SPkGNAxKTdj3KXspS5MAUHTyEwj8oZrW9JrNgIJDu5DloV5be986wXphvb0rciZTTGQXfh6EFs041uf0dM7Y1LlWfJDWonVYEtD++U/tXlsY+mOCoF4YkkVgcjI6bHA5g1ZMpjUhVTbyxA62f0I+VzP5a1rTX/xbOb8zfHwc2dE70rtlVGX/IEb6UQY1dYuqHriflggC7jwwoR4328YfUgcdFjNgZqomJmGaEOSCKr/rQUWBKqCQySb6HGf6Tzax8OQakupEa12t0VyRFwARpXgA8FV/NHlKZwvJhNeFybRLYzr6Wtyn+OP9Bg3XzDC4=" />
+</div></form>
+            </div>
+            <footer class="clearfix">
+                
+            </footer>
+        </article>
+    </div>
+    <!-- End Left Side -->
+    <!-- Init Right Side -->
+    
+<aside id="aside">
+
+        <div class="linklist">
+            <dl>
+                <dt>
+                    
+                    BFA Net
+                </dt>
+                
+                        <dd>
+                            <span data-icon="$"></span>
+                            <a href=/Conteudos/Artigos/detalhe.aspx?sidc=2649&idc=3031&idsc=2691&idl=1&idi=2991>Como Aderir</a>
+                        </dd>
+                    
+                        <dd>
+                            <span data-icon="$"></span>
+                            <a href=/Conteudos/Medias/Download.aspx?idi=6033>Contrato de Adesão</a>
+                        </dd>
+                    
+                        <dd>
+                            <span data-icon="$"></span>
+                            <a href=/Servicos/PerguntasFrequentes.aspx?sidc=2649&idc=2715&idl=1&idFaq=6060>Perguntas Frequentes</a>
+                        </dd>
+                    
+            </dl>
+        </div>
+    
+        <div class="linklist">
+            <dl>
+                <dt>
+                    
+                    BFA SMS
+                </dt>
+                
+                        <dd>
+                            <span data-icon="$"></span>
+                            <a href=/Conteudos/Artigos/detalhe.aspx?sidc=2649&idc=0&idsc=2692&idl=1&idi=2997>Como Aderir</a>
+                        </dd>
+                    
+                        <dd>
+                            <span data-icon="$"></span>
+                            <a href=/Conteudos/Artigos/detalhe.aspx?sidc=2649&idc=0&idsc=2692&idl=1&idi=2996>Códigos SMS</a>
+                        </dd>
+                    
+                        <dd>
+                            <span data-icon="$"></span>
+                            <a href=/Servicos/PerguntasFrequentes.aspx?sidc=2649&idc=2715&idl=1&idFaq=6062>Perguntas Frequentes</a>
+                        </dd>
+                    
+            </dl>
+        </div>
+    
+        <div class="linklist">
+            <dl>
+                <dt>
+                    
+                    No Estrangeiro
+                </dt>
+                
+                        <dd>
+                            <span data-icon="$"></span>
+                            <a href=/Servicos/PerguntasFrequentes.aspx?idc=2715&idsc=0&idl=1&idFaq=8153&nq=2>Perda ou extravio de Cartão</a>
+                        </dd>
+                    
+                        <dd>
+                            <span data-icon="$"></span>
+                            <a href=/Servicos/PerguntasFrequentes.aspx?idc=2715&idsc=0&idl=1&idFaq=8153&nq=3>Perda de Código BFA Net</a>
+                        </dd>
+                    
+                        <dd>
+                            <span data-icon="$"></span>
+                            <a href=/Servicos/PerguntasFrequentes.aspx?idc=2715&idsc=0&idl=1&idFaq=8153&nq=1>Como Contactar o BFA</a>
+                        </dd>
+                    
+                        <dd>
+                            <span data-icon="$"></span>
+                            <a href=/Servicos/PerguntasFrequentes.aspx?idc=2715&idsc=0&idl=1&idFaq=8153>Perguntas Frequentes</a>
+                        </dd>
+                    
+            </dl>
+        </div>
+    
+
+</aside>
+<a class="close-btn" data-icon="&#x58;">
+    Fechar</a>
+<div class="overlay">
+</div>
+<div class="lightbox">
+</div>
+
+    <!-- End Right Side -->
+</div>
+
+<script type="text/javascript">
+    //
+    
+    function validate() {
+//        if (!isReCaptchaChecked()) {
+//            $('.message-form').html(reCaptchaNotCheckedMessage);
+//            BFA.UI.popins();
+
+//            return false;
+//        }
+        
+        if (!Page_ClientValidate("")) {
+            sendGoogleanalitycs();      
+        }
+    }
+
+    function sendGoogleanalitycs() {
+        var i;
+        var camposComErro = "";
+
+        for (i = 0; i < Page_Validators.length; i++) {
+            if (!Page_Validators[i].isvalid) {
+                var ctrl = Page_Validators[i].controltovalidate;
+                var split = ctrl.split("_");
+                var field = split[split.length - 1];
+                if (field != "undefined") {
+                    camposComErro = camposComErro + field + ",";
+                }
+            }
+        }
+
+        ga('send', 'event', 'sugestão/reclamação', 'formulário submetido com erro', camposComErro);
+    }
+
+    $(document).ready(function () {
+        var toShow = document.getElementById("ctl00_ctl01_successfullEmailSent");
+        if (toShow.value == 'true') {
+            ga('send', 'event', 'sugestão/reclamação', 'formulário submetido com sucesso');
+            BFA.UI.popins();
+        }
+    }); 
+</script>
+
+
+        
+<!-- Init Footer -->
+<footer id="footer">
+    <nav id="other-links">
+        
+                <ul>
+            
+                <li>
+                    <!--
+--><a href="/Servicos/PerguntasFrequentes.aspx?sidc=2651&amp;idc=2715&amp;idl=1"   >Perguntas Frequentes</a>
+                </li>
+            
+                <li>
+                    <!--
+--><a href="/Servicos/RedeBalcoes.aspx?sidc=2651&amp;idc=2716&amp;idl=1"   >Rede de Balcões</a>
+                </li>
+            
+                <li>
+                    <!--
+--><a href="/Conteudos/Empregos/Candidatura.aspx?sidc=2652&amp;idc=2855&amp;idsc=2865&amp;idl=1"   >Ser Colaborador BFA</a>
+                </li>
+            
+                <li>
+                    <!--
+--><a href="/Servicos/sugestoes.aspx?sidc=2651&amp;idc=2718&amp;idl=1"   >Sugestão/Reclamação</a>
+                </li>
+            
+                <li>
+                    <!--
+--><a href="/Conteudos/Precarios/precarios.aspx?sidc=2651&amp;idc=9001&amp;idl=1"   >Preçário</a>
+                </li>
+            
+                <li>
+                    <!--
+--><a href="/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=10554&amp;idl=1"   >Contactos BFA</a>
+                </li>
+            
+                </ul>
+            
+        <!-- Icons Siga-nos -->
+        
+        
+        <dl>
+            <dt>Siga-nos em:</dt>
+    
+        <dd class="fb">
+        <a  href="https://www.facebook.com/Banco.BFA/" target="_blank"> <image src=" /upl/{1775280c-5eb0-4c12-8d73-5f4e82f2d0de}.png"></image></a>
+        </dd>
+    
+        <dd class="in">
+        <a  href="http://www.linkedin.com/company/40085?trk=tyah&trkInfo=tas%3Abfa" target="_blank"> <image src=" /upl/{b9c8c5e6-6ec0-4fad-87de-26e05c4dacca}.png"></image></a>
+        </dd>
+    
+        <dd class="yt">
+        <a  href="https://www.youtube.com/channel/UCZrPht3AQZZGglBp_piRS6Q" target="_blank"> <image src=" /upl/{85b59823-9d12-46f5-a8e9-7cded45a93ce}.png"></image></a>
+        </dd>
+    
+        </dl>
+    
+         <!-- //Icons Siga-nos -->
+    </nav>
+    
+            <nav id="site-links">
+                <div class="wraper">
+        
+            <dl>
+                <dt>Conceito</dt>
+                
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2807&amp;idsc=2810&amp;idl=1>Gestor de Cliente</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2807&amp;idsc=2811&amp;idl=1>Serviço</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2807&amp;idsc=2812&amp;idl=1>Espaço</a></dd>
+                    
+                    
+            </dl>
+        
+            <dl>
+                <dt>Oferta</dt>
+                
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2808&amp;idsc=12029&amp;idl=1>Fundo - BFA Oportunidades II</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2808&amp;idsc=14366&amp;idl=1>Fundo - BFA Oportunidades III</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/All/lista.aspx?sidc=2651&amp;idc=2808&amp;idsc=2815&amp;idl=1>Contas</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/All/lista.aspx?sidc=2651&amp;idc=2808&amp;idsc=2813&amp;idl=1>Investimentos</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/All/lista.aspx?sidc=2651&amp;idc=2808&amp;idsc=2814&amp;idl=1>Créditos</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/All/lista.aspx?sidc=2651&amp;idc=2808&amp;idsc=2816&amp;idl=1>Cartões</a></dd>
+                    
+                    
+            </dl>
+        
+            <dl>
+                <dt>Serviços</dt>
+                
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2958&amp;idsc=2959&amp;idl=1>BFA Net</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Conteudos/Artigos/detalhe.aspx?sidc=2651&amp;idc=2958&amp;idsc=2960&amp;idl=1>BFA SMS</a></dd>
+                    
+                    
+            </dl>
+        
+            <dl>
+                <dt>Onde Estamos</dt>
+                
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Servicos/RedeBalcoesCentroInvestimento.aspx?sidc=2651&amp;idc=2809&amp;idsc=2819&amp;idl=1>Toda a Rede</a></dd>
+                    
+                    
+            </dl>
+        
+            <dl>
+                <dt>Simuladores BFA</dt>
+                
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Simuladores/SimuladorPessoal.aspx?sidc=2651&amp;idc=2658&amp;idsc=2659&amp;idl=1>Crédito Pessoal</a></dd>
+                    
+                        <dd><span data-icon="&#x24;"></span><a href=/Simuladores/SimuladorAuto.aspx?sidc=2651&amp;idc=2658&amp;idsc=2660&amp;idl=1>Crédito Automóvel</a></dd>
+                    
+                    
+            </dl>
+        
+            </div> </nav>
+        
+    
+        
+            <div id="disclaimer">
+        
+            Banco de Fomento Angola©2017. Todos os direitos reservados.<a href="/Conteudos/Artigos/detalhe.aspx?sidc=2651&idc=2913&idl=1&idi=6576">Termos e condições</a>
+        
+            </div>
+        
+    
+</footer>
+<!-- End Footer -->
+
+    </div>
+    <script src="/inc/js/jquery.min.js"></script>
+    <script type="text/javascript"> var switchTo5x = false;</script>
+    <script type="text/javascript"> window.jQuery || document.write('<script src="/inc/js/jquery-1.8.3.min.js"><\/script>')</script> 
+    <script src="/inc/js/jquery.tools-1.2.7.min.js" language="javascript" type="text/javascript" ></script>
+    <script  src="/inc/js/jquery.easing.min.js" language="javascript" type="text/javascript" ></script>
+    
+    <script src="/inc/js/jquery_uniform_js.aspx" language="javascript" type="text/javascript" ></script>
+    <script  src="/inc/js/bfa_ui.js" language="javascript" type="text/javascript" ></script>
+    <script src="/inc/js/main.js" language="javascript" type="text/javascript" ></script>
+      <script src="/inc/js/jquery.cookie.js" ></script>
+</body>
+
+</html>

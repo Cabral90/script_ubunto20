@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+#-----------------------------------------
+# Script    : Start App Java 
+# Descricao : Inicializa una aplicacaion java.
+# Versao    : 0.1 
+# Autor     : José Cabral <cabralzay@gmail.com>
+# Data      : 13/10/2021 
+# Licença   : GNU/GPL v.30
+#------------------------------------------
+# Uso: url/ ./start_java
+#------------------------------------------
+clear
+
+read -p "Indroduce el nombre de la App Java" my_app
+
+java -jar $my_app
+
+exit 0
+

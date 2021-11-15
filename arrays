@@ -1,0 +1,51 @@
+#!/usr/bin/env bash 
+
+
+#!/usr/bin/env bash
+#-----------------------------------------
+# Script    : Arrays
+# Descricao : Exemplos de Uso de arrays
+# Versao    : 0.1 
+# Autor     : José Cabral <cabralzay@gmail.com>
+# Data      : 04/10/2021 
+# Licença   : GNU/GPL v.30
+#------------------------------------------
+# Uso: condicionais ou ./condicionais
+#------------------------------------------
+
+
+clear 
+
+
+
+# fruta=("banana" "laranja" "abacate" "pera") = declaracao de uma arry / matriz
+
+# ${#nombre_variable[@]} = Quantidad de elementos de una variable / matriz
+
+# ${#nombre_variable[@ | *]} = Lista todos os valores de una matriz / matriz
+
+# ${nombre_variable[@ | *]} = Lista todos os valores de una matriz / matriz
+
+# ${!nombre_variable[@ | *]} = Lista todos os indice de una matriz / matriz
+
+# ARRAYS ASSOCIATIVAS 
+
+# declare -A nombre_array 
+
+# Arrays
+
+echo " \ 
+Exemplo de trabalho con arrays indexadas .....
+"
+
+frutas=("banana" "laranja" "abacate" "limao" "cereja" "abacate")
+cores=("amarela" "amarela" "verde" "verde" "vermelha" "verde")
+read -p "Digite um numero de  0 a 5: " numero
+
+[[ ! $numero =~ ^[0-5]$ ]]  && echo -e "\nTem que ser um numero entre 0 a 5! Saindo ...\n" && exit 1
+
+echo "\
+Voce escolheu ${frutas[$numero]}, que é uma fruta ${cores[$numero]}.
+"
+
+exit 0

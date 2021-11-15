@@ -1,0 +1,1238 @@
+
+
+<!DOCTYPE html>
+<html lang="pt" class="no-js" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta charset="utf-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" href="/images/favicons/favicon.ico">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/images/favicons/site.webmanifest">
+    <link rel="mask-icon" href="/images/favicons/safari-pinned-tab.svg" color="#d5a45b">
+    <meta name="msapplication-TileColor" content="#ff7607">
+    <meta name="theme-color" content="#ffffff">
+
+
+    
+<title>Perguntas Frequentes</title>
+<meta name="description" />
+<link rel="http://www.bfa.ao/images/image-share.jpg" href="http://www.bfa.ao/images/image-share.jpg" type="image/jpeg" />
+<meta property="og:type" content="website" />
+
+<meta property="og:title" content="Perguntas Frequentes" />
+
+<meta property="og:description" />
+
+<meta property="og:image" content="http://www.bfa.ao/images/image-share.jpg" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="600" />
+<meta property="og:image:type" content="image/jpeg" />
+
+<meta property="og:site_name" content="BFA" />
+
+<meta property="og:url" content="http://localhost/pt/o-bfa/perguntas-frequentes/?category=8436&amp;term=" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Hind:300,400,700" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+<link rel="stylesheet" href="/css/bfa-app-c0d80d7ee5.min.css">
+
+
+    <!-- ADPPORTBFAAPP1 -->
+
+    <!--Google Tag Manager -->
+    <script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-WQLLT9P');</script> <!--End Google Tag Manager -->
+</head>
+<body class="" data-lang="pt" data-id="8184" data-homepage-id="1061" data-page-type="list"
+      data-detail-type="" data-theme="personal" data-device="mobile"
+      data-key="AIzaSyA2WiEZMJcDl4sexkFGbP0J5hSKYCUl3i0">
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WQLLT9P" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!--End Google Tag Manager (noscript) -->
+    <div class="menu-top menu-top-mobile js-mobile-menu-top">
+        <div class="container-fluid">
+            <button data-action="openSegments" class="btn btn-segments">
+                <span class="text">O BFA</span>
+                <span class="icon icon-arrow-fill-down"></span>
+            </button>
+            <div class="menu-top-main  js-menu-top-main">
+                <ul class="js-menu-items">
+                                <li><a class="menu-item js-menu-item " href="/pt/particulares/"><span class="text">Particulares</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/empresas/"><span class="text">Empresas</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/centros-investimento/"><span class="text">Centros de Investimento</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/private-banking/"><span class="text">Private Banking</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/gestao-de-activos/"><span class="text">BFA Gest&#227;o de Activos</span></a></li>
+            <li><a class="menu-item js-menu-item is-active" href="/pt/o-bfa/"><span class="text">O BFA</span></a></li>
+
+                </ul>
+            </div>
+
+            <div class="menu-right">
+                <ul>
+                    <li>
+                        <a class="menu-item js-menu-item bold" href="https://www.bfanet.ao/" target="_blank"><span class="text">BFA NET</span><i class="icon icon-lock"></i></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="js-bgTopOverlay bg-menutop-overlay"></div>
+    <div class="navigation-mobile js-mobile-navigation">
+        <div class="navbar js-navbar">
+            <div class="container-fluid">
+                <div class="logo"><a href="/pt/o-bfa/"><img src="/images/logos/logo-mobile.svg" alt="BFA"></a></div>
+                <div class="navigation-right js-buttonsNav">
+                    <button class="btn-menu hamburger hamburger--spring js-hamburger" data-action="toggleMenu"><span class="hamburger-box"><span class="hamburger-inner"></span></span> Menu</button>
+
+                    <div class="ctn-search js-searchWrapper">
+                        <div class="ctn-input js-search"> <input type="text" class="input js-input"> <button class="doSearch js-doSearch" data-action="doSearch" data-search-url="/pt/o-bfa/pesquisa/?term=" type="button"><i class="icon icon-search"></i></button> </div>
+                        <button class="btn-search js-toggleSearch" data-action="toggleSearch">
+
+                            <span class="icon icon-search"></span>
+
+                        </button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="panels-container js-nav">
+            <div class="nav-helper">
+                <div class="js-helper-menu menu">MENU</div>
+                <button class="js-helper-back back" data-action="menuBack" data-zindex="0"><span class="icon icon-arrow-special-left"></span> <span class="text" data-text="Voltar ao Menu">Voltar ao Menu</span></button>
+                <div class="js-helper-lang menu-lang">
+                    <button class="btn-lang" data-action="toggleLang"> <span class="text">PT</span><i class="icon icon-arrow-fill-down"></i></button>
+                    
+<ul class="menu-lang-list js-menuLang">
+            <li class="is-active">Portugu&#234;s</li>
+            <li><a href="/en/">English</a></li>
+</ul>
+                </div>
+            </div>
+
+            <div class="panels js-mobilePanels">
+                    <!-- MenuMainTopMobile -->
+    <!-- GO -->
+    <div class="panel js-mobilePanel is-active" data-parent-id="0">
+        <ul class="nav">
+                    <li data-id="1">
+                        <span class="menu-item js-menu-item " data-action="openChilds" data-id="1">
+                            <span class="text">Conhe&#231;a o BFA</span>
+                            <span class="icon icon-arrow-right"></span>
+                        </span>
+                    </li>
+                    <li data-id="2">
+                        <span class="menu-item js-menu-item " data-action="openChilds" data-id="2">
+                            <span class="text">Governa&#231;&#227;o</span>
+                            <span class="icon icon-arrow-right"></span>
+                        </span>
+                    </li>
+                    <li data-id="3">
+                        <span class="menu-item js-menu-item " data-action="openChilds" data-id="3">
+                            <span class="text">Responsabilidade Social</span>
+                            <span class="icon icon-arrow-right"></span>
+                        </span>
+                    </li>
+                    <li data-id="4">
+                        <span class="menu-item js-menu-item " data-action="openChilds" data-id="4">
+                            <span class="text">Trabalhar no BFA</span>
+                            <span class="icon icon-arrow-right"></span>
+                        </span>
+                    </li>
+                    <li data-id="5">
+                        <span class="menu-item js-menu-item " data-action="openChilds" data-id="5">
+                            <span class="text">Sala de Imprensa</span>
+                            <span class="icon icon-arrow-right"></span>
+                        </span>
+                    </li>
+        </ul>
+    </div>
+    <!-- GO -->
+    <div class="panel js-mobilePanel " data-parent-id="1">
+        <ul class="nav">
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/conheca-o-bfa/quem-somos/" data-id="11" target="_self"><span class="text">Quem Somos</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/conheca-o-bfa/historia/" data-id="12" target="_self"><span class="text">Hist&#243;ria</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/conheca-o-bfa/premios/" data-id="13" target="_self"><span class="text">Pr&#233;mios</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/conheca-o-bfa/orgaos-sociais/" data-id="14" target="_self"><span class="text">Org&#227;os Sociais</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/conheca-o-bfa/biografias-administracao/" data-id="15" target="_self"><span class="text">Biografias Administra&#231;&#227;o</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/conheca-o-bfa/biografias-da-comissao-executiva/" data-id="16" target="_self"><span class="text">Biografias da Comiss&#227;o Executiva</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/conheca-o-bfa/informacao-financeira/" data-id="17" target="_self"><span class="text">Informa&#231;&#227;o Financeira</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/conheca-o-bfa/bfa-25-anos/" data-id="18" target="_self"><span class="text">BFA 25 Anos</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/conheca-o-bfa/bfa-2-milhoes-de-clientes/" data-id="19" target="_self"><span class="text">BFA 2 Milh&#245;es de Clientes</span></a></li>
+        </ul>
+    </div>
+    <!-- GO -->
+    <div class="panel js-mobilePanel " data-parent-id="2">
+        <ul class="nav">
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/governacao/governacao-corporativa/" data-id="21" target="_self"><span class="text">Governa&#231;&#227;o Corporativa</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/governacao/compliance/" data-id="22" target="_self"><span class="text">Compliance</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/governacao/politicas/" data-id="23" target="_self"><span class="text">Pol&#237;ticas</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/governacao/fundo-de-garantia-de-depositos/" data-id="24" target="_self"><span class="text">Fundo de Garantia de Dep&#243;sitos</span></a></li>
+        </ul>
+    </div>
+    <!-- GO -->
+    <div class="panel js-mobilePanel " data-parent-id="3">
+        <ul class="nav">
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/responsabilidade-social/bfa-solidario-2021/" data-id="31" target="_self"><span class="text">BFA Solid&#225;rio 2021</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/responsabilidade-social/projectos/" data-id="32" target="_self"><span class="text">Projectos</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/responsabilidade-social/fundo-social-bfa/" data-id="33" target="_self"><span class="text">Fundo Social BFA</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/responsabilidade-social/bfa-patrocinador-alegria-angolana/" data-id="34" target="_self"><span class="text">BFA Patrocinador da Alegria</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/responsabilidade-social/bfa-patrocinador-da-emocao/" data-id="35" target="_self"><span class="text">BFA Patrocinador da Emo&#231;&#227;o</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/responsabilidade-social/bfa-patrocinador-da-ambicao/" data-id="36" target="_self"><span class="text">BFA Patrocinador da Ambi&#231;&#227;o</span></a></li>
+        </ul>
+    </div>
+    <!-- GO -->
+    <div class="panel js-mobilePanel " data-parent-id="4">
+        <ul class="nav">
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/trabalhar-no-bfa/recruitment/" data-id="41" target="_self"><span class="text">Recrutamento</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/trabalhar-no-bfa/candidatura-espontanea/" data-id="42" target="_self"><span class="text">Candidatura Espont&#226;nea</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/trabalhar-no-bfa/futuro-bfa/" data-id="43" target="_self"><span class="text">#Futuro BFA</span></a></li>
+        </ul>
+    </div>
+    <!-- GO -->
+    <div class="panel js-mobilePanel " data-parent-id="5">
+        <ul class="nav">
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/sala-de-imprensa/noticias/" data-id="52" target="_self"><span class="text">Not&#237;cias</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/sala-de-imprensa/publicacoes/" data-id="53" target="_self"><span class="text">Publica&#231;&#245;es</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/sala-de-imprensa/regulamentacao/" data-id="54" target="_self"><span class="text">Regulamenta&#231;&#227;o</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/sala-de-imprensa/procura-e-vendas-ot-s/" data-id="55" target="_self"><span class="text">Procura e Vendas OT&#180;s</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/sala-de-imprensa/media-kit/" data-id="56" target="_self"><span class="text">Media Kit</span></a></li>
+                    <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/canal-bfa/" data-id="57" target="_self"><span class="text">Canal BFA</span></a></li>
+        </ul>
+    </div>
+
+
+            </div>
+            <div class="js-crossSaleToMove crosssalesToMove">
+                    <!-- MenuMainTopCrossSales3Level -->
+    <h1>System.Collections.Generic.List`1[BFA.Core.Models.MenuMainTopModel]</h1>
+            <!-- 11 » 6929 » Quem Somos -->
+            <!-- 12 » 6932 » Hist&#243;ria -->
+            <!-- 13 » 6935 » Pr&#233;mios -->
+            <!-- 14 » 6938 » Org&#227;os Sociais -->
+            <!-- 15 » 11917 » Biografias Administra&#231;&#227;o -->
+            <!-- 16 » 11390 » Biografias da Comiss&#227;o Executiva -->
+            <!-- 17 » 2672 » Informa&#231;&#227;o Financeira -->
+            <!-- 18 » 6944 » BFA 25 Anos -->
+            <!-- 19 » 6941 » BFA 2 Milh&#245;es de Clientes -->
+            <!-- 21 » 6014 » Governa&#231;&#227;o Corporativa -->
+            <!-- 22 » 6024 » Compliance -->
+            <!-- 23 » 6034 » Pol&#237;ticas -->
+            <!-- 24 » 6043 » Fundo de Garantia de Dep&#243;sitos -->
+            <!-- 31 » 7091 » BFA Solid&#225;rio 2021 -->
+            <!-- 32 » 7076 » Projectos -->
+            <!-- 33 » 7075 » Fundo Social BFA -->
+            <!-- 34 » 7079 » BFA Patrocinador da Alegria -->
+            <!-- 35 » 7083 » BFA Patrocinador da Emo&#231;&#227;o -->
+            <!-- 36 » 7087 » BFA Patrocinador da Ambi&#231;&#227;o -->
+            <!-- 41 » 1540 » Recrutamento -->
+            <!-- 42 » 5166 » Candidatura Espont&#226;nea -->
+            <!-- 43 » 7098 » #Futuro BFA -->
+            <!-- 52 » 1086 » Not&#237;cias -->
+            <!-- 53 » 4092 » Publica&#231;&#245;es -->
+            <!-- 54 » 4106 » Regulamenta&#231;&#227;o -->
+            <!-- 55 » 11374 » Procura e Vendas OT&#180;s -->
+            <!-- 56 » 2829 » Media Kit -->
+            <!-- 57 » 2327 » Canal BFA -->
+
+
+            </div>
+        </div>
+    </div>
+    <div class="menu-top menu-top-desktop js-desktop-menu-top">
+        <div class="container-fluid extend">
+            <div class="menu-top-main">
+                <ul class="">
+                                <li><a class="menu-item js-menu-item " href="/pt/particulares/"><span class="text">Particulares</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/empresas/"><span class="text">Empresas</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/centros-investimento/"><span class="text">Centros de Investimento</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/private-banking/"><span class="text">Private Banking</span></a></li>
+            <li><a class="menu-item js-menu-item " href="/pt/gestao-de-activos/"><span class="text">BFA Gest&#227;o de Activos</span></a></li>
+            <li><a class="menu-item js-menu-item is-active" href="/pt/o-bfa/"><span class="text">O BFA</span></a></li>
+
+                </ul>
+            </div>
+            <div class="menu-top-secundary">
+                <ul>
+                    <li class="menu-lang">
+                        <span class="menu-item" data-action="toggleLang"><span>Portugu&#234;s</span><i class="icon icon-arrow-fill-down"></i></span>
+                        
+<ul class="menu-lang-list js-menuLang">
+            <li class="is-active">Portugu&#234;s</li>
+            <li><a href="/en/">English</a></li>
+</ul>
+                    </li>
+
+                    <li> <a target="_blank" class="menu-item bold"><span></span><i class="icon icon-lock"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="navigation-desktop js-desktop-navigation">
+        <div class="backgrounds">
+            <div class="js-bgMenu bg-menu"></div>
+        </div>
+        <div class="container-fluid extend">
+            <div class="navigation-top">
+                <div class="logo"><a href="/pt/o-bfa/"><img src="/images/logos/logo-mobile.svg" alt="BFA"></a></div>
+                <nav class="nav js-nav">
+                    <ul>
+                                    <li data-id="1">
+                <span class="menu-item js-menu-item " data-action="dropdown" data-id="1" ><span class="text">Conhe&#231;a o BFA</span><span class="icon icon-arrow-right"></span></span>
+            </li>
+            <li data-id="2">
+                <span class="menu-item js-menu-item " data-action="dropdown" data-id="2" data-preview-id=2><span class="text">Governa&#231;&#227;o</span><span class="icon icon-arrow-right"></span></span>
+            </li>
+            <li data-id="3">
+                <span class="menu-item js-menu-item " data-action="dropdown" data-id="3" ><span class="text">Responsabilidade Social</span><span class="icon icon-arrow-right"></span></span>
+            </li>
+            <li data-id="4">
+                <span class="menu-item js-menu-item " data-action="dropdown" data-id="4" ><span class="text">Trabalhar no BFA</span><span class="icon icon-arrow-right"></span></span>
+            </li>
+            <li data-id="5">
+                <span class="menu-item js-menu-item " data-action="dropdown" data-id="5" data-preview-id=5><span class="text">Sala de Imprensa</span><span class="icon icon-arrow-right"></span></span>
+            </li>
+
+                    </ul>
+                </nav>
+                <div class="navigation-right">
+                    <div class="ctn-search js-searchWrapper">
+                        <div class="ctn-input js-search">
+                            <input type="text" class="input js-input">
+                            <button class="doSearch js-doSearch" data-action="doSearch" data-search-url="/pt/o-bfa/pesquisa/?term=" type="button"><i class="icon icon-search"></i></button>
+                        </div>
+                        <button class="btn-search js-toggleSearch" data-action="toggleSearch">
+                            <span class="text js-text">Pesquisar</span>
+                            <span class="icon icon-search"></span>
+                        </button>
+                    </div>
+
+
+                </div>
+            </div>
+            <div class="flyout js-flyout" data-minheight="390">
+                    <!-- MenuMainTopLevel2Desktop -->
+        <!-- 1 » Conhe&#231;a o BFA -->
+        <div class="nav-children js-navChildren" data-parent-id="1">
+            <ul>
+				            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/conheca-o-bfa/quem-somos/" data-id="11"  target="_self"><span class="text">Quem Somos</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/conheca-o-bfa/historia/" data-id="12"  target="_self"><span class="text">Hist&#243;ria</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/conheca-o-bfa/premios/" data-id="13"  target="_self"><span class="text">Pr&#233;mios</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/conheca-o-bfa/orgaos-sociais/" data-id="14"  target="_self"><span class="text">Org&#227;os Sociais</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/conheca-o-bfa/biografias-administracao/" data-id="15"  target="_self"><span class="text">Biografias Administra&#231;&#227;o</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/conheca-o-bfa/biografias-da-comissao-executiva/" data-id="16"  target="_self"><span class="text">Biografias da Comiss&#227;o Executiva</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/conheca-o-bfa/informacao-financeira/" data-id="17"  target="_self"><span class="text">Informa&#231;&#227;o Financeira</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/conheca-o-bfa/bfa-25-anos/" data-id="18"  target="_self"><span class="text">BFA 25 Anos</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/conheca-o-bfa/bfa-2-milhoes-de-clientes/" data-id="19"  target="_self"><span class="text">BFA 2 Milh&#245;es de Clientes</span></a></li>
+
+            </ul>
+        </div>
+        <!-- 2 » Governa&#231;&#227;o -->
+        <div class="nav-children js-navChildren" data-parent-id="2">
+            <ul>
+				            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/governacao/governacao-corporativa/" data-id="21"  target="_self"><span class="text">Governa&#231;&#227;o Corporativa</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/governacao/compliance/" data-id="22"  target="_self"><span class="text">Compliance</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/governacao/politicas/" data-id="23"  target="_self"><span class="text">Pol&#237;ticas</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/governacao/fundo-de-garantia-de-depositos/" data-id="24"  target="_self"><span class="text">Fundo de Garantia de Dep&#243;sitos</span></a></li>
+
+            </ul>
+        </div>
+        <!-- 3 » Responsabilidade Social -->
+        <div class="nav-children js-navChildren" data-parent-id="3">
+            <ul>
+				            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/responsabilidade-social/bfa-solidario-2021/" data-id="31"  target="_self"><span class="text">BFA Solid&#225;rio 2021</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/responsabilidade-social/projectos/" data-id="32"  target="_self"><span class="text">Projectos</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/responsabilidade-social/fundo-social-bfa/" data-id="33"  target="_self"><span class="text">Fundo Social BFA</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/responsabilidade-social/bfa-patrocinador-alegria-angolana/" data-id="34"  target="_self"><span class="text">BFA Patrocinador da Alegria</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/responsabilidade-social/bfa-patrocinador-da-emocao/" data-id="35"  target="_self"><span class="text">BFA Patrocinador da Emo&#231;&#227;o</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/responsabilidade-social/bfa-patrocinador-da-ambicao/" data-id="36"  target="_self"><span class="text">BFA Patrocinador da Ambi&#231;&#227;o</span></a></li>
+
+            </ul>
+        </div>
+        <!-- 4 » Trabalhar no BFA -->
+        <div class="nav-children js-navChildren" data-parent-id="4">
+            <ul>
+				            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/trabalhar-no-bfa/recruitment/" data-id="41"  target="_self"><span class="text">Recrutamento</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/trabalhar-no-bfa/candidatura-espontanea/" data-id="42"  target="_self"><span class="text">Candidatura Espont&#226;nea</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/trabalhar-no-bfa/futuro-bfa/" data-id="43"  target="_self"><span class="text">#Futuro BFA</span></a></li>
+
+            </ul>
+        </div>
+        <!-- 5 » Sala de Imprensa -->
+        <div class="nav-children js-navChildren" data-parent-id="5">
+            <ul>
+				            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/sala-de-imprensa/noticias/" data-id="52"  target="_self"><span class="text">Not&#237;cias</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/sala-de-imprensa/publicacoes/" data-id="53"  target="_self"><span class="text">Publica&#231;&#245;es</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/sala-de-imprensa/regulamentacao/" data-id="54"  target="_self"><span class="text">Regulamenta&#231;&#227;o</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/sala-de-imprensa/procura-e-vendas-ot-s/" data-id="55" data-preview-id=55 target="_self"><span class="text">Procura e Vendas OT&#180;s</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/sala-de-imprensa/media-kit/" data-id="56" data-preview-id=56 target="_self"><span class="text">Media Kit</span></a></li>
+            <li> <a class="menu-item js-menu-item " href="/pt/o-bfa/canal-bfa/" data-id="57"  target="_self"><span class="text">Canal BFA</span></a></li>
+
+            </ul>
+        </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="js-bgOverlay bg-menu-overlay"></div>
+
+    
+<div class="page-wrapper">
+    <!-- FaqModule -->
+
+
+<div class="bg-light">
+    <div class="go-bottom"> <i class="icon icon-arrow-down" data-action="goDown"></i> </div>
+    <div class="container-fluid">
+        <div class="container-faqs">
+            <div class="js-ctnPageListTitle ctn-page-title">
+                <div class="ctn-filters">
+                    <button class="btn-dropdown" data-action="filtersToggle">
+                        <span class="text">Filtrar</span>
+                        <span class="icon icon-arrow-fill-down"></span>
+                    </button>
+                    <div class="content-filters js-filters">
+                        <div class="ctn-search-wrapper">
+                            <div class="ctn-search js-searchWrapper">
+                                <div class="ctn-input js-search">
+                                    <label class="js-label"><input type="text" class="input js-input" value=""></label>
+                                    <button class="doSearch js-doSearch" data-action="doSearch" type="button" data-search-url="?category=8436&term=">
+                                        <i class="icon icon-search"></i>
+                                    </button>
+                                </div> <button class="btn-search js-toggleSearch" data-action="toggleSearch">
+                                            <span class="text js-text"></span>
+
+                                    <span class="icon icon-search"></span>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="ctn-select js-selectCtn">
+                            <select class="js-select">
+                                <option value="?category=0&term=">Filtrar por tema</option>
+                                    <option value="?category=8305&term=" >Cart&#245;es</option>
+                                    <option value="?category=8215&term=" >Cart&#227;o Pr&#233;-Pago</option>
+                                    <option value="?category=8231&term=" >Multicaixa Empresa</option>
+                                    <option value="?category=8187&term=" >Levantamento sem Cart&#227;o</option>
+                                    <option value="?category=8348&term=" >Contas</option>
+                                    <option value="?category=8343&term=" >Cr&#233;dito</option>
+                                    <option value="?category=8364&term=" >BFA Net</option>
+                                    <option value="?category=8375&term=" >BFA Net Empresas</option>
+                                    <option value="?category=8380&term=" >BFA SMS</option>
+                                    <option value="?category=8243&term=" >BFA App</option>
+                                    <option value="?category=8411&term=" >Browsers</option>
+                                    <option value="?category=8389&term=" >Protocolos</option>
+                                    <option value="?category=8359&term=" >Transfer&#234;ncias</option>
+                                    <option value="?category=8404&term=" >No estrangeiro</option>
+                                    <option value="?category=8279&term=" >Moeda Estrangeira</option>
+                                    <option value="?category=8189&term=" >Pagamento de Impostos</option>
+                                    <option value="?category=8260&term=" >CESOB – Contribui&#231;&#227;o Especial sobre Opera&#231;&#245;es Banc&#225;rias</option>
+                                    <option value="?category=8304&term=" >Fundo de Garantia de Dep&#243;sitos</option>
+                                    <option value="?category=8393&term=" >Sala de Imprensa</option>
+                                    <option value="?category=8397&term=" >Pagamento ao Estado</option>
+                                    <option value="?category=8436&term=" selected>BFA Solid&#225;rio</option>
+                                    <option value="?category=13801&term=" >Pagamento de Servi&#231;o Online</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <h2 class="titles-cards">Perguntas Frequentes</h2>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        01.
+                                    </span>
+                                    <span class="title"> Existe alguma taxa de inscri&#231;&#227;o ao Programa?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>Não. A candidatura ao Programa BFA Solidário é gratuita</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        02.
+                                    </span>
+                                    <span class="title">Posso concorrer caso a minha organiza&#231;&#227;o sem fins lucrativos n&#227;o estiver registada no Minist&#233;rio da Justi&#231;a ou no Minist&#233;rio da Ac&#231;&#227;o Social?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>Reconhecemos que existem em Angola muitas organizações que fazem um bom trabalho para melhorar a condição de vida das crianças. Estamos cientes de que muitas dessas organizações têm operado informalmente, mas, apesar disso, estão dotadas de uma identidade e dispõem de políticas e procedimentos organizacionais em vigor. Interessa-nos mais o funcionamento de uma organização e o trabalho que ela realiza. Se a organização for informal, deverá exercer actividades há mais de 3 anos e ser representada por uma pessoa individual. Para além disso, a organização deverá cumprir as condições legais necessárias para exercício da sua actividade e cumprir os demais requisitos fixados no Regulamento do Concurso.</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        03.
+                                    </span>
+                                    <span class="title">Posso concorrer se a minha organiza&#231;&#227;o n&#227;o estiver sedeada em Angola?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>O Programa BFA Solidário está aberto apenas a organizações com sede em Angola.</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        04.
+                                    </span>
+                                    <span class="title">Posso concorrer se a minha organiza&#231;&#227;o for um afiliado local ou uma filial de uma organiza&#231;&#227;o internacional?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>Se a sua organização tiver relações estreitas com organizações de outros países, incentivamos a que se inscreva ainda assim. No entanto, se a sua organização for um filial ou um estabelecimento local de uma organização internacional, considera-se que a sua sede e direcção não são no território nacional.</p>
+<p> </p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        05.
+                                    </span>
+                                    <span class="title">Uma empresa com um projecto social ou de impacto social pode candidatar-se?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>Não. Apenas organizações sem fins lucrativos e departamentos ou unidades de uma Universidade se podem candidatar.</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        06.
+                                    </span>
+                                    <span class="title">Uma pessoa individual pode candidatar-se?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>Sim, pessoas individuais podem candidatar-se em representação de uma organização informal, nos termos descritos no Regulamento.</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        07.
+                                    </span>
+                                    <span class="title">A minha organiza&#231;&#227;o pode candidatar-se com mais do que um projecto?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>Não. Cada organização não poderá apresentar mais do que uma candidatura.</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        08.
+                                    </span>
+                                    <span class="title">A minha organiza&#231;&#227;o pode apresentar um projecto em conjunto com outra organiza&#231;&#227;o?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>Apenas uma organização pode candidatar-se, mas a sua organização pode colaborar com outra. Se a sua organização for seleccionada como vencedora, esta será a única beneficiária do subsídio, mas poderá trabalhar com outras organizações para concluir o projecto proposto, desde que a sua organização cumpra os termos do contrato.</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        09.
+                                    </span>
+                                    <span class="title">A minha organiza&#231;&#227;o pode candidatar-se se tiver ganho um pr&#233;mio no ano anterior ou se se tiver candidatado anteriormente?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>Sim, a sua organização pode enviar uma nova candidatura todos os anos.</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        10.
+                                    </span>
+                                    <span class="title">A Minha organiza&#231;&#227;o deve ter uma conta banc&#225;ria no BFA?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>Não, esse não é um requisito necessário. O BFA pagará directamente aos fornecedores ou prestadores de serviços das organizações vencedoras.</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        11.
+                                    </span>
+                                    <span class="title">Que tipo de projectos o BFA vai apoiar?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>Seguem alguns exemplos do tipo de organizações que gostaríamos de apoiar.</p>
+<p><br />Organizações cujo objectivo é melhorar a educação básica das crianças ou as qualificações dos jovens. </p>
+<p> Trabalho com programas de desenvolvimento na primeira infância<br /> Desenvolvimento de programas básicos de alfabetização<br /> Apoio a crianças na escolaridade (ou seja, escola primária e secundária)<br /> Capacitação de jovens em tarefas práticas que podem usar para ganhar sustento<br /> Apoio a jovens na procura de emprego e integração no mercado de trabalho<br /> Apoio a crianças e jovens com bolsas de estudo e orientação profissional<br /> Apoio a educadores que trabalham com crianças<br /> Construção ou melhoria de instalações para permitir a educação das crianças</p>
+<p> </p>
+<p>Organizações que trabalham para promover a melhoria das condições de saúde das crianças</p>
+<p> Prevenção ou tratamento de doenças (por ex, HIV, tuberculose, febre tifóide, hepatite, malária, febre amarela) nas crianças<br /> Prestação de serviços de saúde para crianças<br /> Programas de reabilitação de drogas<br /> Apoio a crianças com deficiências físicas ou intelectuais<br /> Cuidado de crianças com doenças terminais.<br /> Planeamento familiar e educação sexual<br /> Fornecimento de programas de nutrição para crianças e mães grávidas</p>
+<p> </p>
+<p>Organizações que dão acolhimento e suporte à crianças e jovens em risco, promovendo a sua qualificação e a sua inserção na comunidade.</p>
+<p> Apoio a crianças na rua e órfãos<br /> Provisão de abrigos para mães e filhos<br /> Prevenção do tráfico de crianças e prostituição infantil<br /> Apoio a delinquentes juvenis, sua reabilitação e reintegração nas famílias/comunidades<br /> Ajuda a encontrar abrigo para crianças<br /> Apoio no registo (por exemplo, certidões de nascimento) e ao acesso a serviços do governo<br /> Apoio à estabilidade das famílias</p>
+<p> </p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        12.
+                                    </span>
+                                    <span class="title">O que se entende por “projecto”?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>Um projecto é a actividade, item ou custos que a sua organização gostaria que o BFA financiasse.</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        13.
+                                    </span>
+                                    <span class="title">Que tipos de projectos s&#227;o eleg&#237;veis para o Programa BFA Solid&#225;rio?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <table border="0" width="698">
+<tbody>
+<tr>
+<td colspan="2" width="225">
+<p>Apoios elegíveis</p>
+</td>
+<td width="473">
+<p>Exemplos</p>
+</td>
+</tr>
+<tr>
+<td width="0">
+<p> </p>
+</td>
+<td width="225">
+<p>1.       Renovação de edifício</p>
+</td>
+<td width="473">
+<p>·         Renovação de uma cozinha num lar infantil</p>
+<p>·         Construção de um centro de formação</p>
+<p>·         Melhorar a canalização e electricidade num abrigo para crianças de rua</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="0">
+<p> </p>
+</td>
+<td width="225">
+<p>2.       Tecnologia</p>
+</td>
+<td width="473">
+<p>·         Desenvolver um site ou aplicativo</p>
+<p>·         Compra de computadores ou tablets</p>
+<p>·         Compra de Software</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="0">
+<p> </p>
+</td>
+<td width="225">
+<p>3.       Compra de bens</p>
+</td>
+<td width="473">
+<p>·         Bens médicos para trabalhadores de cuidados domiciliares</p>
+<p>·         Roupas de cama para abrigos para crianças</p>
+<p>·         Materiais de artesanato para programa de formação</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="0">
+<p> </p>
+</td>
+<td width="225">
+<p>4.       Compra de veículos</p>
+</td>
+<td width="473">
+<p>·         Compra de um veículo para transportar crianças para o hospital</p>
+<p>·         Compra de um autocarro escolar</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="0">
+<p> </p>
+</td>
+<td width="225">
+<p>5.       Equipamento</p>
+</td>
+<td width="473">
+<p>·         Compra de cozinha (fogão, panelas, frigideiras, entre outros)</p>
+<p>·         Camas para uma clínica</p>
+<p>·         Equipamento de carpintaria</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="0">
+<p> </p>
+</td>
+<td width="225">
+<p>6.       Pesquisa</p>
+</td>
+<td width="473">
+<p>·         Avaliar o impacto e uma organização</p>
+<p>·         Investigar as necessidades dos beneficiários</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="0">
+<p> </p>
+</td>
+<td width="225">
+<p>7.       Programas de Formação</p>
+</td>
+<td width="473">
+<p>·         Programa de monitorização e avaliação do pessoal</p>
+<p>·         Programa de competências para beneficiários</p>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        14.
+                                    </span>
+                                    <span class="title">Qual o per&#237;odo de tempo para utilizar os fundos relativos &#225; subven&#231;&#227;o?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>O projecto deverá ter um prazo máximo de execução de 12 meses.</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        15.
+                                    </span>
+                                    <span class="title">Os detalhes do nosso projecto ser&#227;o mantidos em sigilo?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>O BFA compartilhará os detalhes do seu projecto com o corpo de jurado e com a equipe envolvida na avaliação da sua candidatura.<br />Se a sua organização for seleccionada como vencedora, os detalhes do seu projecto serão compartilhados no nosso site público e em outros meios de comunicação. Essa é uma das vantagens da conquista do BFA Solidário, pois a sua organização irá ganhar mais mediatização.</p>
+<p> </p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        16.
+                                    </span>
+                                    <span class="title"> Qual &#233; o limite do subs&#237;dio a que me posso candidatar?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>O valor do apoio não é atribuído de forma automática: o valor da subvenção não pode exceder 90% do orçamento do projecto submetido a concurso. Deste modo, os candidatos deverão submeter orçamentos que reflictam as suas necessidades reais e não orçamentos em que se procure obter o máximo valor possível.</p>
+<p>Em cada categoria, serão atribuídos apoios a quatro projectos:<br /> O projecto vencedor terá acesso a um subsídio até AKZ 20.000.000.<br /> Serão ainda atribuídos apoios a mais três projectos, até um montante máximo de AKZ 10.000.000 cada um.</p>
+<p>Ao elaborar o seu pedido de apoio, deve ter em atenção que não deve exceder 50% do orçamento da sua organização no exercício anterior. Por exemplo, se a sua organização teve um orçamento de 30 milhões de Kz em 2017, o valor máximo que pode solicitar é 15 milhões de Kz</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        17.
+                                    </span>
+                                    <span class="title">Como fa&#231;o a minha candidatura ao Pr&#233;mio BFA Solid&#225;rio?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>As candidaturas devem ser preenchidas de forma automatizada e podem ser submetidas de duas maneiras:<br /> Online, através do website do BFA;<br /> Balcões BFA definidos para o efeito.</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        18.
+                                    </span>
+                                    <span class="title">Posso obter uma c&#243;pia das perguntas do Formul&#225;rio antes de o preencher?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>Sim, pode encontrar as perguntas no website do BFA</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        19.
+                                    </span>
+                                    <span class="title">Podemos incluir informa&#231;&#227;o adicional no Formul&#225;rio de Candidatura?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>Sim, encontrará no Formulário de Candidatura espaço para inclusão de documentação adicional e de suporte à candidatura.</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        20.
+                                    </span>
+                                    <span class="title">Posso salvar um rascunho do meu Formul&#225;rio de Candidatura no site se quiser edit&#225;-lo mais tarde?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>Pode sim, receberá um nome de usuário e uma senha, que permitirão que faça o login mais tarde e reveja a sua candidatura antes de a submeter. Sugerimos que prepare toda informação num documento separado e copie e cole no Formulário de Candidatura posteriormente.</p>
+<p> </p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        21.
+                                    </span>
+                                    <span class="title">Como posso ter a certeza de que a minha candidatura foi enviada com sucesso?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>Terá que clicar em “Submeter” no final do Formulário de Candidatura, depois de ter preenchido todos os campos, e concordado com os termos e condições. A candidatura só se terá por admitida após a recepção pelo candidato de uma mensagem electrónica, enviada para o endereço de e-mail indicado na proposta, confirmando a recepção dos documentos e a respectiva conformidade com os termos do CONCURSO.</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        22.
+                                    </span>
+                                    <span class="title">Posso voltar e editar o meu formul&#225;rio depois de submetida a candidatura?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>Não pode. Depois de submetida a candidatura, o seu formulário já não poderá ser editado.<br />Aconselhamos a salvar o Formulário até ter certeza absoluta que esteja completo e pronto para ser enviado.</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        23.
+                                    </span>
+                                    <span class="title">Como posso obter ajuda para preencher o formul&#225;rio de inscri&#231;&#227;o?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>Pode enviar por e-mail consultas específicas para direcção.responsabilidade.social@bfa.ao, ou dirigir-se aos balcões do BFA definidos para o efeito.</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        24.
+                                    </span>
+                                    <span class="title">Em que l&#237;ngua deve ser preenchido o formul&#225;rio?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>Deve preencher o Formulário de Candidatura em português.</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        25.
+                                    </span>
+                                    <span class="title">Como ser&#227;o avaliadas as candidaturas?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>As candidaturas serão analisadas por um Júri, de acordo com os critérios estabelecidos no Regulamento do Concurso.<br />Os nomes das organizações candidatas serão ocultos e substituídos por uma numeração para garantir que não haja viés no processo de julgamento e possíveis conflitos de interesse declarados antecipadamente.</p>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-generic js-faq">
+                                <button class="first js-toggleFaq">
+                                    <span class="num">
+                                        26.
+                                    </span>
+                                    <span class="title">Quem faz parte do corpo de jurado?</span>
+                                    <i class="icon icon-arrow-fill-down"></i>
+                                </button>
+                                <div class="ctx">
+                                    <p>
+                                        <p>Os detalhes do júri permanecerão anónimos para os proteger de interferências externas.</p>
+                                    </p>
+                                </div>
+                            </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</div> 
+
+    <footer class="js-footer footer">
+        <div class="footer-site-map js-footerSiteMap">
+            <div class="container-fluid">
+                <button type="button" class="button-toggle-siteMap js-toggleSiteMap" data-action="toggleSiteMap"
+                        data-textopen="Abrir Mapa do Site" data-textclose="Fechar Mapa do site">
+                    <span class="text js-text">Abrir Mapa do Site</span>
+                    <span class="icon open icon-arrow-fill-down"></span>
+                    <span class="icon close icon-close"></span>
+                </button>
+            </div>
+            
+<div class="container-site-map js-ctnSiteMap" data-home-id="1061">
+    <div class="container-fluid">
+        <ul class="site-map js-siteMap">
+                    <li>
+                        Conhe&#231;a o BFA
+
+                        <ul>
+                                <li>
+                                    <a href="/pt/o-bfa/conheca-o-bfa/quem-somos/">Quem Somos</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/o-bfa/conheca-o-bfa/historia/">Hist&#243;ria</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/o-bfa/conheca-o-bfa/premios/">Pr&#233;mios</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/o-bfa/conheca-o-bfa/orgaos-sociais/">&#211;rg&#227;os Sociais</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/o-bfa/conheca-o-bfa/informacao-financeira/">Informa&#231;&#227;o Financeira</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/o-bfa/conheca-o-bfa/bfa-25-anos/">BFA 25 Anos</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/o-bfa/conheca-o-bfa/bfa-2-milhoes-de-clientes/">BFA 2 Milh&#245;es de Clientes</a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li>
+                        Governa&#231;&#227;o
+
+                        <ul>
+                                <li>
+                                    <a href="/pt/o-bfa/governacao/governacao-corporativa/">Governa&#231;&#227;o Corporativa</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/o-bfa/governacao/compliance/">Complience</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/o-bfa/governacao/politicas/">Pol&#237;ticas</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/o-bfa/governacao/fundo-de-garantia-de-depositos/">Fundo de Garantia de Dep&#243;sitos</a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li>
+                        Responsabilidade social
+
+                        <ul>
+                                <li>
+                                    <a href="/pt/o-bfa/responsabilidade-social/fundo-social-bfa/">Fundo Social BFA</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/o-bfa/responsabilidade-social/projectos/">Projectos</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/o-bfa/responsabilidade-social/bfa-patrocinador-alegria-angolana/">Patrocinador Oficial da Alegria</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/o-bfa/responsabilidade-social/bfa-patrocinador-da-emocao/">BFA Patrocinador Oficial da Emo&#231;&#227;o</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/o-bfa/responsabilidade-social/bfa-patrocinador-da-ambicao/">BFA Patrocinador Official da Ambi&#231;&#227;o</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/o-bfa/responsabilidade-social/bfa-solidario-2021/">Forma&#231;&#227;o BFA Solid&#225;rio</a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li>
+                        Trabalhar no BFA
+
+                        <ul>
+                                <li>
+                                    <a href="/pt/o-bfa/trabalhar-no-bfa/recruitment/">Recrutamento</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/o-bfa/trabalhar-no-bfa/candidatura-espontanea/">Candidatura Espont&#226;nea</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/o-bfa/trabalhar-no-bfa/futuro-bfa/">#Futuro BFA</a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li>
+                        Sala de Imprensa
+
+                        <ul>
+                                <li>
+                                    <a href="#">Site BFA Turismo</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/o-bfa/sala-de-imprensa/noticias/">Not&#237;cias</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/o-bfa/sala-de-imprensa/publicacoes/">Publica&#231;&#245;es</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/o-bfa/sala-de-imprensa/media-kit/">Media Kit</a>
+                                </li>
+                                <li>
+                                    <a href="/pt/o-bfa/sala-de-imprensa/regulamentacao/">Regulamenta&#231;&#227;o</a>
+                                </li>
+                        </ul>
+                    </li>
+        </ul>
+    </div>
+</div>
+        </div>
+
+        
+<div class="footer-base">
+    <div class="container-fluid">
+        <div class="footer-block">
+            <h5 class="title">Fale Connosco</h5>
+            <div class="text">
+                <p>Dispon&#237;vel 24h por dia. Se tem d&#250;vidas, sugest&#245;es ou reclama&#231;&#245;es, fale connosco.</p>
+                <a href="tel:923 120 120" class="btn grad-theme icon">
+                    <span class="text">LIGAR 923 120 120</span>
+                    <i class="icon icon-phone"></i>
+                </a>
+            </div>
+        </div>
+        <div class="footer-block">
+            <h5 class="title">Informa&#231;&#245;es &#250;teis</h5>
+            <div class="text">
+                    <p><a href="/pt/o-bfa/bfa-glance/bfa-glance/">BFA@glance</a></p>
+                    <p><a href="/pt/o-bfa/perguntas-frequentes/">Perguntas Frequentes</a></p>
+                    <p><a href="/pt/o-bfa/glossario/">Gloss&#225;rio</a></p>
+                    <p><a href="/pt/o-bfa/lojas/">Rede de Balc&#245;es</a></p>
+                    <p><a href="/pt/o-bfa/trabalhar-no-bfa/">Ser Colaborador BFA</a></p>
+                    <p><a href="/pt/o-bfa/precario/precario/">Pre&#231;&#225;rio</a></p>
+                    <p><a href="/pt/o-bfa/contactos/">Contactos BFA</a></p>
+            </div>
+        </div>
+        <div class="footer-block">
+            <h5 class="title">Redes Sociais</h5>
+            <ul class="social-list">
+                    <li><a href="https://www.facebook.com/Banco.BFA/?ref=br_rs" target="_blank"><i class="icon icon-social-facebook"></i></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCZrPht3AQZZGglBp_piRS6Q?view_as=subscriber" target="_blank"><i class="icon icon-social-youtube"></i></a></li>
+                    <li><a href="https://www.linkedin.com/company/bfa" target="_blank"><i class="icon icon-social-linkedin"></i></a></li>
+                    <li><a href="https://www.instagram.com/bancofomentoangola/" target="_blank"><i class="icon icon-social-instagram"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+        <div class="footer-bottom js-footerBottom">
+            <div class="container-fluid">
+                <div class="copyright">
+                    <p>Banco de Fomento Angola&#169;2019-2021. Todos os direitos reservados. <a href="/pt/o-bfa/termos-e-condicoes/">Termos e condi&#231;&#245;es</a></p>
+                </div>
+            </div>
+        </div>
+
+    </footer>
+
+    <template data-tpl-id="popover">
+		<div class="popover js-popover">
+			<div class="js-popover-wrapper popover-wrapper">
+				<span class="popover-icon-ctn"><i class="icon icon-check"></i></span>
+				<span class="popover-title js-title"></span>
+				<span class="popover-text js-text"></span>
+			</div>
+		</div>
+</template>
+<template data-tpl-id="mobile-panel">
+
+    <div class="panel js-mobilePanel" data-parent-id=""><ul class="nav js-nav"></ul></div>
+</template>
+<template data-tpl-id="mobile-panel-item">
+    <li><a class="menu-item js-menu-item " href="#"><span class="text"></span></a></li>
+</template>
+<template data-tpl-id="desktop-submenu">
+    <ul class="submenu js-submenu"></ul>
+</template>
+<template data-tpl-id="desktop-submenu-item">
+    <li><a class="menu-item js-menu-item " href="" data-preview-id=" "><span class="text"></span></a></li>
+</template>
+<template data-tpl-id="formOverlay">
+    <section class="form flyover mod-form js-modForm" data-id="">
+        <div class="bg-overlay"></div>
+        <div class="container-flyover">
+            <div class="wrapper-flyover">
+                <div class="wrapper-btn">
+                    <button class="btn-back text-black out-mobile" data-action="outForm">
+                        <i class="icon icon-arrow-special-left"></i>
+                        <span class="text"></span>
+                    </button>
+                    <button class="btn-back text-black out-desktop" data-action="outForm">
+                        <span class="text">Sair</span>
+                        <i class="icon icon-close"></i>
+                    </button>
+                </div>
+                <div class="content-flyover js-contentTabs">
+                </div>
+            </div>
+        </div>
+    </section>
+</template>
+<template data-tpl-id="formFeedback">
+    <div class="tab-wrapper js-tabWrapper feedback step">
+        <div class="screen-step">
+            <div class="screen-step-content">
+                <p><i class="icon icon-check icon-validate"></i></p>
+                <p class="title js-title">Submetido com sucesso.</p>
+                <p class="text js-text">
+                    Foi enviado um c&#243;digo de confirma&#231;&#227;o para o seu email. Para concluir o processo deve
+                    guardar o c&#243;digo e
+                    dirigir-se a um balc&#227;o BFA.
+                </p>
+                <a href="/pages/t03-page-storelocation.html" class="btn solid-line-theme">
+                    Encontrar o balc&#227;o
+                    <i class="icon icon-location"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</template>
+<template data-tpl-id="loadMedia">
+    <section class="flyover js-media mod-media" data-type="media" data-index="0">
+        <div class="bg-overlay"></div>
+        <div class="container-flyover">
+            <div class="wrapper-flyover">
+                <div class="wrapper-title media-title js-mediaTitle">
+                    <h3 class="title">
+                        <span class="text js-title">Canal BFA</span>
+                        <button class="btn-close js-close-flyover" data-action="closeFlyover">
+                            Sair
+                            <span class="icon icon-close" data-action="outiWant"></span>
+                        </button>
+                    </h3>
+                </div>
+                <div class="content-flyover js-contentMedia">
+                    <div class="video-container">
+                        <iframe src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <p class="date"></p>
+                    <h4 class="title"></h4>
+                    <p class="description"></p>
+                    <a href="#" class="media-cta btn grad-theme icon">
+                        <span class="text"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+</template>
+<template data-tpl-id="exchange">
+    <table>
+        <tr>
+            <td class="exchange-currency">EUR</td>
+            <td class="exchange-buy">186,302</td>
+            <td class="exchange-sell">191,891</td>
+        </tr>
+    </table>
+</template>
+
+    <!--SIMULATORS-->
+    
+
+
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PXNDS6M"
+				  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PXNDS6M');</script>
+<!-- End Google Tag Manager -->
+
+<script src="/libs/bfa-vendor-da4d535aad.min.js"></script>
+<script src="/libs/bfa-custom-plugins-75041594f5.min.js"></script>
+<script src="/scripts/bfa-app-ac50ad2a4b.min.js"></script>
+
+    <script id="bycookie-script" data-lang="pt" data-version="1.0.2" data-gtm="" data-gua="" data-fbid="" src="/libs/bycookieapp-4e844d5801.min.js"></script>
+
+</body>
+</html>
+    <!--BFA 20201021.1 . 27646-->

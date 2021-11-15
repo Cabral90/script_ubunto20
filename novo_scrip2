@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+
+#opciones... 
+editor="nano"
+
+# variaveis
+
+Data_hoje=$( date +'%d/%m/%Y' )
+
+header="#!/usr/bin/env bash
+#-----------------------------------------
+# Script    : 
+# Descricao :
+# Versao    : 0.1 
+# Autor     : José Cabral <cabralzay@gmail.com>
+# Data      : $Data_hoje 
+# Licença   : GNU/GPL v.30
+#------------------------------------------
+# Uso: CREACION DE SCRIPT AUTOMATICO
+#------------------------------------------
+"
+
+
+# testar si o usuario passou o numero certo de argumento
+	# (a penas 1 argumento) nome do novo script
+
+
+[[ $# -ne 1 ]] && echo "Ops! Somente *um* nome de argumento!" && exit 1
+
+
+# testar si o arquivo ja existe
+
+[[ -f $1 ]] && echo "Ops! Aqruivo já existente. Saindo! " && exit 1
+
+echo "$header" > $1
+
+chmod +x $1
+
+$editor $1
+
+exit 0

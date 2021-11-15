@@ -1,0 +1,6 @@
+
+User-agent: * 
+Disallow: /media/1529/politica-de-compliance.pdf
+Disallow: /media/1435/complience-policies.pdf
+ 
+Sitemap: https://www.bfa.ao/sitemap.xml
